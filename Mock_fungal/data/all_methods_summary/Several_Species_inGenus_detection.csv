@@ -1,0 +1,689 @@
+Profile,ComType,Genus,NumSpecies,InclSpecies,Tool,SpeciesDet,MissedSp,GenusDetected
+small_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",Kraken,2,[],Yes
+small_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",Euk,1,['Saccharomyces kudriavzevii'],Yes
+small_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",Metaphlan,1,['Saccharomyces kudriavzevii'],Yes
+small_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",No
+small_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",Kraken,2,[],Yes
+small_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",Euk,1,['Saccharomyces kudriavzevii'],Yes
+small_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",Metaphlan,1,['Saccharomyces kudriavzevii'],Yes
+small_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii']",No
+small_2,EqualCoverage,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",Kraken,1,['Candida oxycetoniae'],Yes
+small_2,EqualCoverage,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",Euk,1,['Candida oxycetoniae'],Yes
+small_2,EqualCoverage,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",Metaphlan,1,['Candida oxycetoniae'],Yes
+small_2,EqualCoverage,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",HMS,1,['Candida oxycetoniae'],Yes
+small_2,EqualReads,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",Kraken,1,['Candida oxycetoniae'],Yes
+small_2,EqualReads,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",Euk,1,['Candida oxycetoniae'],Yes
+small_2,EqualReads,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",Metaphlan,1,['Candida oxycetoniae'],Yes
+small_2,EqualReads,Candida,2,"['Candida albicans', 'Candida oxycetoniae']",HMS,1,['Candida oxycetoniae'],Yes
+small_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+small_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,2,[],Yes
+small_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+small_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+small_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+small_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,2,[],Yes
+small_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+small_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+median_1,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+median_1,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii']",Yes
+median_1,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+median_1,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+median_1,EqualCoverage,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Kraken,0,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Yes
+median_1,EqualCoverage,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Euk,4,[],Yes
+median_1,EqualCoverage,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Metaphlan,4,[],Yes
+median_1,EqualCoverage,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",HMS,0,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Yes
+median_1,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Kraken,3,[],Yes
+median_1,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Euk,1,"['Malassezia vespertilionis', 'Malassezia japonica']",Yes
+median_1,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Metaphlan,3,[],Yes
+median_1,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",HMS,0,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Yes
+median_1,EqualCoverage,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Kraken,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",No
+median_1,EqualCoverage,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Euk,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Yes
+median_1,EqualCoverage,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Metaphlan,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",No
+median_1,EqualCoverage,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",HMS,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",No
+median_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",Kraken,2,[],Yes
+median_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",Euk,1,['Saccharomyces paradoxus'],Yes
+median_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",Metaphlan,2,[],Yes
+median_1,EqualCoverage,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",No
+median_1,EqualCoverage,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",Kraken,2,[],Yes
+median_1,EqualCoverage,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",Euk,1,['Kazachstania naganishii'],Yes
+median_1,EqualCoverage,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",Metaphlan,0,"['Kazachstania naganishii', 'Kazachstania africana']",No
+median_1,EqualCoverage,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",HMS,0,"['Kazachstania naganishii', 'Kazachstania africana']",No
+median_1,EqualCoverage,Candida,2,"['Candida albicans', 'Candida parapsilosis']",Kraken,1,['Candida parapsilosis'],Yes
+median_1,EqualCoverage,Candida,2,"['Candida albicans', 'Candida parapsilosis']",Euk,1,['Candida albicans'],Yes
+median_1,EqualCoverage,Candida,2,"['Candida albicans', 'Candida parapsilosis']",Metaphlan,2,[],Yes
+median_1,EqualCoverage,Candida,2,"['Candida albicans', 'Candida parapsilosis']",HMS,1,['Candida parapsilosis'],Yes
+median_1,EqualCoverage,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",Kraken,1,['Cryptococcus wingfieldii'],Yes
+median_1,EqualCoverage,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",Euk,2,[],Yes
+median_1,EqualCoverage,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",Metaphlan,1,['Cryptococcus neoformans'],Yes
+median_1,EqualCoverage,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",HMS,1,['Cryptococcus wingfieldii'],Yes
+median_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",Kraken,0,"['Pneumocystis murina', 'Pneumocystis jirovecii']",No
+median_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",Euk,1,['Pneumocystis murina'],Yes
+median_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",Metaphlan,2,[],Yes
+median_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",HMS,0,"['Pneumocystis murina', 'Pneumocystis jirovecii']",No
+median_1,EqualCoverage,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",Kraken,2,[],Yes
+median_1,EqualCoverage,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",Euk,1,['Eremothecium sinecaudum'],Yes
+median_1,EqualCoverage,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",Metaphlan,0,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",No
+median_1,EqualCoverage,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",HMS,0,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",No
+median_1,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+median_1,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Euk,2,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shivajii']",Yes
+median_1,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+median_1,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella shandongensis', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+median_1,EqualReads,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Kraken,0,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Yes
+median_1,EqualReads,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Euk,4,[],Yes
+median_1,EqualReads,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Metaphlan,4,[],Yes
+median_1,EqualReads,Aspergillus,4,"['Aspergillus terreus', 'Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",HMS,1,"['Aspergillus thermomutatus', 'Aspergillus glaucus', 'Aspergillus tubingensis']",Yes
+median_1,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Kraken,3,[],Yes
+median_1,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Euk,1,"['Malassezia vespertilionis', 'Malassezia japonica']",Yes
+median_1,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",Metaphlan,3,[],Yes
+median_1,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia vespertilionis', 'Malassezia japonica']",HMS,2,['Malassezia vespertilionis'],Yes
+median_1,EqualReads,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Kraken,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",No
+median_1,EqualReads,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Euk,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Yes
+median_1,EqualReads,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",Metaphlan,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",No
+median_1,EqualReads,Alternaria,3,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",HMS,0,"['Alternaria rosae', 'Alternaria postmessia', 'Alternaria ethzedia']",No
+median_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",Kraken,2,[],Yes
+median_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",Euk,1,['Saccharomyces paradoxus'],Yes
+median_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",Metaphlan,2,[],Yes
+median_1,EqualReads,Saccharomyces,2,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces paradoxus']",No
+median_1,EqualReads,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",Kraken,2,[],Yes
+median_1,EqualReads,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",Euk,1,['Kazachstania naganishii'],Yes
+median_1,EqualReads,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",Metaphlan,0,"['Kazachstania naganishii', 'Kazachstania africana']",No
+median_1,EqualReads,Kazachstania,2,"['Kazachstania naganishii', 'Kazachstania africana']",HMS,0,"['Kazachstania naganishii', 'Kazachstania africana']",No
+median_1,EqualReads,Candida,2,"['Candida albicans', 'Candida parapsilosis']",Kraken,1,['Candida parapsilosis'],Yes
+median_1,EqualReads,Candida,2,"['Candida albicans', 'Candida parapsilosis']",Euk,1,['Candida albicans'],Yes
+median_1,EqualReads,Candida,2,"['Candida albicans', 'Candida parapsilosis']",Metaphlan,2,[],Yes
+median_1,EqualReads,Candida,2,"['Candida albicans', 'Candida parapsilosis']",HMS,2,[],Yes
+median_1,EqualReads,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",Kraken,1,['Cryptococcus wingfieldii'],Yes
+median_1,EqualReads,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",Euk,2,[],Yes
+median_1,EqualReads,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",Metaphlan,1,['Cryptococcus neoformans'],Yes
+median_1,EqualReads,Cryptococcus,2,"['Cryptococcus wingfieldii', 'Cryptococcus neoformans']",HMS,1,['Cryptococcus wingfieldii'],Yes
+median_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",Kraken,0,"['Pneumocystis murina', 'Pneumocystis jirovecii']",No
+median_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",Euk,1,['Pneumocystis murina'],Yes
+median_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",Metaphlan,2,[],Yes
+median_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis jirovecii']",HMS,1,['Pneumocystis murina'],Yes
+median_1,EqualReads,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",Kraken,2,[],Yes
+median_1,EqualReads,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",Euk,1,['Eremothecium sinecaudum'],Yes
+median_1,EqualReads,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",Metaphlan,0,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",No
+median_1,EqualReads,Eremothecium,2,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",HMS,0,"['Eremothecium cymbalariae', 'Eremothecium sinecaudum']",No
+median_2,EqualCoverage,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Kraken,0,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Yes
+median_2,EqualCoverage,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Euk,2,"['Ogataea angusta', 'Ogataea haglerorum']",Yes
+median_2,EqualCoverage,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Metaphlan,0,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+median_2,EqualCoverage,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",HMS,0,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+median_2,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Kraken,0,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Yes
+median_2,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Euk,4,[],Yes
+median_2,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Metaphlan,3,['Aspergillus aculeatinus'],Yes
+median_2,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",HMS,1,"['Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Yes
+median_2,EqualCoverage,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",Kraken,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii']",Yes
+median_2,EqualCoverage,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",Euk,1,"['Cryptococcus decagattii', 'Cryptococcus gattii']",Yes
+median_2,EqualCoverage,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",Metaphlan,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii']",Yes
+median_2,EqualCoverage,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",HMS,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii']",Yes
+median_2,EqualCoverage,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",Kraken,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualCoverage,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",Euk,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualCoverage,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",Metaphlan,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualCoverage,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",HMS,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualCoverage,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",Kraken,1,['Malassezia pachydermatis'],Yes
+median_2,EqualCoverage,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",Euk,1,['Malassezia pachydermatis'],Yes
+median_2,EqualCoverage,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",Metaphlan,2,[],Yes
+median_2,EqualCoverage,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",HMS,1,['Malassezia pachydermatis'],Yes
+median_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Kraken,2,[],Yes
+median_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Euk,1,['Tetrapisispora blattae'],Yes
+median_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Metaphlan,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+median_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",HMS,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+median_2,EqualCoverage,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",Kraken,1,['Neurospora tetrasperma'],Yes
+median_2,EqualCoverage,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",Euk,2,[],Yes
+median_2,EqualCoverage,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",Metaphlan,0,"['Neurospora tetrasperma', 'Neurospora crassa']",No
+median_2,EqualCoverage,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",HMS,0,"['Neurospora tetrasperma', 'Neurospora crassa']",No
+median_2,EqualReads,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Kraken,0,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Yes
+median_2,EqualReads,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Euk,2,"['Ogataea angusta', 'Ogataea haglerorum']",Yes
+median_2,EqualReads,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Metaphlan,0,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+median_2,EqualReads,Ogataea,4,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",HMS,0,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+median_2,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Kraken,0,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Yes
+median_2,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Euk,4,[],Yes
+median_2,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Metaphlan,3,['Aspergillus aculeatinus'],Yes
+median_2,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",HMS,1,"['Aspergillus fischeri', 'Aspergillus aculeatinus', 'Aspergillus candidus']",Yes
+median_2,EqualReads,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",Kraken,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii']",Yes
+median_2,EqualReads,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",Euk,1,"['Cryptococcus decagattii', 'Cryptococcus gattii']",Yes
+median_2,EqualReads,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",Metaphlan,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii']",Yes
+median_2,EqualReads,Cryptococcus,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii']",HMS,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii']",Yes
+median_2,EqualReads,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",Kraken,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualReads,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",Euk,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualReads,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",Metaphlan,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualReads,Candida,3,"['Candida albicans', 'Candida jiufengensis', 'Candida oxycetoniae']",HMS,1,"['Candida jiufengensis', 'Candida oxycetoniae']",Yes
+median_2,EqualReads,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",Kraken,1,['Malassezia pachydermatis'],Yes
+median_2,EqualReads,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",Euk,1,['Malassezia pachydermatis'],Yes
+median_2,EqualReads,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",Metaphlan,2,[],Yes
+median_2,EqualReads,Malassezia,2,"['Malassezia restricta', 'Malassezia pachydermatis']",HMS,1,['Malassezia pachydermatis'],Yes
+median_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Kraken,2,[],Yes
+median_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Euk,2,[],Yes
+median_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Metaphlan,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+median_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",HMS,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+median_2,EqualReads,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",Kraken,1,['Neurospora tetrasperma'],Yes
+median_2,EqualReads,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",Euk,2,[],Yes
+median_2,EqualReads,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",Metaphlan,0,"['Neurospora tetrasperma', 'Neurospora crassa']",No
+median_2,EqualReads,Neurospora,2,"['Neurospora tetrasperma', 'Neurospora crassa']",HMS,0,"['Neurospora tetrasperma', 'Neurospora crassa']",No
+median_3,EqualCoverage,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Kraken,3,"['Candida tropicalis', 'Candida margitis']",Yes
+median_3,EqualCoverage,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Euk,1,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis']",Yes
+median_3,EqualCoverage,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Metaphlan,4,['Candida margitis'],Yes
+median_3,EqualCoverage,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",HMS,4,['Candida margitis'],Yes
+median_3,EqualCoverage,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Kraken,3,[],Yes
+median_3,EqualCoverage,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Euk,2,['Saccharomyces kudriavzevii'],Yes
+median_3,EqualCoverage,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Metaphlan,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Yes
+median_3,EqualCoverage,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",No
+median_3,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",Kraken,1,"['Malassezia globosa', 'Malassezia sympodialis']",Yes
+median_3,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",Euk,1,"['Malassezia globosa', 'Malassezia sympodialis']",Yes
+median_3,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",Metaphlan,3,[],Yes
+median_3,EqualCoverage,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",HMS,3,[],Yes
+median_3,EqualCoverage,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Kraken,1,"['Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+median_3,EqualCoverage,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Euk,1,"['Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+median_3,EqualCoverage,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Metaphlan,0,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+median_3,EqualCoverage,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",HMS,0,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+median_3,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Kraken,1,['Debaryomyces fabryi'],Yes
+median_3,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Euk,2,[],Yes
+median_3,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Metaphlan,2,[],Yes
+median_3,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",HMS,1,['Debaryomyces hansenii'],Yes
+median_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+median_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces lactis'],Yes
+median_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+median_3,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+median_3,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Kraken,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+median_3,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Euk,1,['Fonsecaea monophora'],Yes
+median_3,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Metaphlan,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+median_3,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",HMS,2,[],Yes
+median_3,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Kraken,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+median_3,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Euk,2,[],Yes
+median_3,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Metaphlan,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+median_3,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",HMS,2,[],Yes
+median_3,EqualReads,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Kraken,3,"['Candida tropicalis', 'Candida margitis']",Yes
+median_3,EqualReads,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Euk,1,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis']",Yes
+median_3,EqualReads,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Metaphlan,4,['Candida margitis'],Yes
+median_3,EqualReads,Candida,5,"['Candida albicans', 'Candida dubliniensis', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",HMS,4,['Candida margitis'],Yes
+median_3,EqualReads,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Kraken,3,[],Yes
+median_3,EqualReads,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Euk,2,['Saccharomyces kudriavzevii'],Yes
+median_3,EqualReads,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Metaphlan,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Yes
+median_3,EqualReads,Saccharomyces,3,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",No
+median_3,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",Kraken,1,"['Malassezia globosa', 'Malassezia sympodialis']",Yes
+median_3,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",Euk,1,"['Malassezia globosa', 'Malassezia sympodialis']",Yes
+median_3,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",Metaphlan,3,[],Yes
+median_3,EqualReads,Malassezia,3,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis']",HMS,3,[],Yes
+median_3,EqualReads,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Kraken,1,"['Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+median_3,EqualReads,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Euk,1,"['Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+median_3,EqualReads,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Metaphlan,0,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+median_3,EqualReads,Scheffersomyces,3,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",HMS,0,"['Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+median_3,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Kraken,1,['Debaryomyces fabryi'],Yes
+median_3,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Euk,1,['Debaryomyces hansenii'],Yes
+median_3,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Metaphlan,2,[],Yes
+median_3,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",HMS,1,['Debaryomyces hansenii'],Yes
+median_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+median_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces lactis'],Yes
+median_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+median_3,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+median_3,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Kraken,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+median_3,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Euk,1,['Fonsecaea monophora'],Yes
+median_3,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Metaphlan,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+median_3,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",HMS,2,[],Yes
+median_3,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Kraken,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+median_3,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Euk,1,['Cladophialophora bantiana'],Yes
+median_3,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Metaphlan,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+median_3,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",HMS,2,[],Yes
+large_1,EqualCoverage,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Kraken,2,"['Cryptococcus decagattii', 'Cryptococcus wingfieldii', 'Cryptococcus deuterogattii']",Yes
+large_1,EqualCoverage,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Euk,2,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus deuterogattii']",Yes
+large_1,EqualCoverage,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Metaphlan,2,"['Cryptococcus decagattii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Yes
+large_1,EqualCoverage,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",HMS,0,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",No
+large_1,EqualCoverage,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",Kraken,2,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida tropicalis']",Yes
+large_1,EqualCoverage,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",Euk,1,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis']",Yes
+large_1,EqualCoverage,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",Metaphlan,3,"['Candida jiufengensis', 'Candida pseudojiufengensis']",Yes
+large_1,EqualCoverage,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",HMS,0,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",No
+large_1,EqualCoverage,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Kraken,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+large_1,EqualCoverage,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Euk,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Yes
+large_1,EqualCoverage,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Metaphlan,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+large_1,EqualCoverage,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",HMS,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+large_1,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Kraken,0,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Yes
+large_1,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Euk,2,"['Aspergillus lentulus', 'Aspergillus aculeatinus']",Yes
+large_1,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Metaphlan,3,['Aspergillus aculeatinus'],Yes
+large_1,EqualCoverage,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",HMS,0,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",No
+large_1,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",Kraken,4,[],Yes
+large_1,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",Euk,2,"['Saccharomyces kudriavzevii', 'Saccharomyces paradoxus']",Yes
+large_1,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",Metaphlan,1,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Yes
+large_1,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",No
+large_1,EqualCoverage,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Kraken,2,"['Malassezia globosa', 'Malassezia sympodialis']",Yes
+large_1,EqualCoverage,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Euk,1,"['Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Yes
+large_1,EqualCoverage,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Metaphlan,4,[],Yes
+large_1,EqualCoverage,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",HMS,0,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",No
+large_1,EqualCoverage,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",Kraken,1,"['Ogataea angusta', 'Ogataea polymorpha']",Yes
+large_1,EqualCoverage,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",Euk,2,['Ogataea angusta'],Yes
+large_1,EqualCoverage,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",Metaphlan,0,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",No
+large_1,EqualCoverage,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",HMS,0,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",No
+large_1,EqualCoverage,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",No
+large_1,EqualCoverage,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella shandongensis']",Yes
+large_1,EqualCoverage,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",No
+large_1,EqualCoverage,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",No
+large_1,EqualCoverage,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Kraken,1,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+large_1,EqualCoverage,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Euk,1,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+large_1,EqualCoverage,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Metaphlan,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_1,EqualCoverage,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",HMS,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_1,EqualCoverage,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",Kraken,2,[],Yes
+large_1,EqualCoverage,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",Euk,1,['Eremothecium sinecaudum'],Yes
+large_1,EqualCoverage,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",Metaphlan,0,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",No
+large_1,EqualCoverage,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",HMS,0,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",No
+large_1,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",Kraken,1,['Scheffersomyces amazonensis'],Yes
+large_1,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",Euk,1,['Scheffersomyces amazonensis'],Yes
+large_1,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",Metaphlan,0,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",No
+large_1,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",HMS,0,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",No
+large_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Kraken,2,[],Yes
+large_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Euk,1,['Tetrapisispora blattae'],Yes
+large_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Metaphlan,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+large_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",HMS,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+large_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Kraken,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+large_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Euk,1,['Trichophyton rubrum'],Yes
+large_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Metaphlan,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+large_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",HMS,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+large_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",Kraken,0,"['Pneumocystis murina', 'Pneumocystis carinii']",No
+large_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",Euk,1,['Pneumocystis murina'],Yes
+large_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",Metaphlan,2,[],Yes
+large_1,EqualCoverage,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",HMS,0,"['Pneumocystis murina', 'Pneumocystis carinii']",No
+large_1,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Kraken,1,['Fusarium proliferatum'],Yes
+large_1,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Euk,1,['Fusarium falciforme'],Yes
+large_1,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Metaphlan,0,"['Fusarium falciforme', 'Fusarium proliferatum']",No
+large_1,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",HMS,0,"['Fusarium falciforme', 'Fusarium proliferatum']",No
+large_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+large_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,2,[],Yes
+large_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+large_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+large_1,EqualReads,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Kraken,2,"['Cryptococcus decagattii', 'Cryptococcus wingfieldii', 'Cryptococcus deuterogattii']",Yes
+large_1,EqualReads,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Euk,2,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus deuterogattii']",Yes
+large_1,EqualReads,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Metaphlan,2,"['Cryptococcus decagattii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Yes
+large_1,EqualReads,Cryptococcus,5,"['Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",HMS,3,"['Cryptococcus decagattii', 'Cryptococcus wingfieldii']",Yes
+large_1,EqualReads,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",Kraken,2,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida tropicalis']",Yes
+large_1,EqualReads,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",Euk,1,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis']",Yes
+large_1,EqualReads,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",Metaphlan,3,"['Candida jiufengensis', 'Candida pseudojiufengensis']",Yes
+large_1,EqualReads,Candida,5,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida tropicalis']",HMS,3,"['Candida jiufengensis', 'Candida pseudojiufengensis']",Yes
+large_1,EqualReads,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Kraken,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+large_1,EqualReads,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Euk,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Yes
+large_1,EqualReads,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Metaphlan,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+large_1,EqualReads,Alternaria,4,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",HMS,0,"['Alternaria infectoria', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+large_1,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Kraken,0,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Yes
+large_1,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Euk,1,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus aculeatinus']",Yes
+large_1,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Metaphlan,3,['Aspergillus aculeatinus'],Yes
+large_1,EqualReads,Aspergillus,4,"['Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",HMS,1,"['Aspergillus fischeri', 'Aspergillus thermomutatus', 'Aspergillus aculeatinus']",Yes
+large_1,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",Kraken,4,[],Yes
+large_1,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",Euk,2,"['Saccharomyces kudriavzevii', 'Saccharomyces paradoxus']",Yes
+large_1,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",Metaphlan,1,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Yes
+large_1,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus']",No
+large_1,EqualReads,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Kraken,2,"['Malassezia globosa', 'Malassezia sympodialis']",Yes
+large_1,EqualReads,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Euk,1,"['Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Yes
+large_1,EqualReads,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",Metaphlan,4,[],Yes
+large_1,EqualReads,Malassezia,4,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia sympodialis', 'Malassezia japonica']",HMS,4,[],Yes
+large_1,EqualReads,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",Kraken,1,"['Ogataea angusta', 'Ogataea polymorpha']",Yes
+large_1,EqualReads,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",Euk,2,['Ogataea angusta'],Yes
+large_1,EqualReads,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",Metaphlan,0,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",No
+large_1,EqualReads,Ogataea,3,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",HMS,0,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha']",No
+large_1,EqualReads,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",No
+large_1,EqualReads,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella shandongensis']",Yes
+large_1,EqualReads,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",No
+large_1,EqualReads,Kwoniella,3,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella shandongensis', 'Kwoniella dejecticola']",No
+large_1,EqualReads,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Kraken,1,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+large_1,EqualReads,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Euk,1,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+large_1,EqualReads,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Metaphlan,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_1,EqualReads,Kazachstania,3,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",HMS,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_1,EqualReads,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",Kraken,2,[],Yes
+large_1,EqualReads,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",Euk,1,['Eremothecium sinecaudum'],Yes
+large_1,EqualReads,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",Metaphlan,0,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",No
+large_1,EqualReads,Eremothecium,2,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",HMS,0,"['Eremothecium gossypii', 'Eremothecium sinecaudum']",No
+large_1,EqualReads,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",Kraken,1,['Scheffersomyces amazonensis'],Yes
+large_1,EqualReads,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",Euk,1,['Scheffersomyces amazonensis'],Yes
+large_1,EqualReads,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",Metaphlan,0,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",No
+large_1,EqualReads,Scheffersomyces,2,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",HMS,0,"['Scheffersomyces stipitis', 'Scheffersomyces amazonensis']",No
+large_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Kraken,2,[],Yes
+large_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Euk,1,['Tetrapisispora blattae'],Yes
+large_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Metaphlan,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+large_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",HMS,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+large_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Kraken,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+large_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Euk,1,['Trichophyton rubrum'],Yes
+large_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Metaphlan,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+large_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",HMS,1,['Trichophyton benhamiae'],Yes
+large_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",Kraken,0,"['Pneumocystis murina', 'Pneumocystis carinii']",No
+large_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",Euk,1,['Pneumocystis murina'],Yes
+large_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",Metaphlan,2,[],Yes
+large_1,EqualReads,Pneumocystis,2,"['Pneumocystis murina', 'Pneumocystis carinii']",HMS,0,"['Pneumocystis murina', 'Pneumocystis carinii']",Yes
+large_1,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Kraken,1,['Fusarium proliferatum'],Yes
+large_1,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Euk,1,['Fusarium falciforme'],Yes
+large_1,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Metaphlan,0,"['Fusarium falciforme', 'Fusarium proliferatum']",No
+large_1,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",HMS,2,[],Yes
+large_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+large_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces lactis'],Yes
+large_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+large_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+large_2,EqualCoverage,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Kraken,3,"['Candida jiufengensis', 'Candida margitis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Yes
+large_2,EqualCoverage,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Euk,2,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Yes
+large_2,EqualCoverage,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Metaphlan,6,"['Candida jiufengensis', 'Candida margitis', 'Candida pseudojiufengensis']",Yes
+large_2,EqualCoverage,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",HMS,0,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",No
+large_2,EqualCoverage,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Kraken,3,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus fischeri', 'Aspergillus glaucus', 'Aspergillus terreus']",Yes
+large_2,EqualCoverage,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Euk,2,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus flavus', 'Aspergillus oryzae', 'Aspergillus terreus']",Yes
+large_2,EqualCoverage,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Metaphlan,6,"['Aspergillus chevalieri', 'Aspergillus oryzae']",Yes
+large_2,EqualCoverage,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",HMS,0,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",No
+large_2,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",No
+large_2,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella pini']",Yes
+large_2,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",No
+large_2,EqualCoverage,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",No
+large_2,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",Kraken,4,[],Yes
+large_2,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",Euk,3,['Saccharomyces paradoxus'],Yes
+large_2,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",Metaphlan,2,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus']",Yes
+large_2,EqualCoverage,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",No
+large_2,EqualCoverage,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Kraken,0,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Yes
+large_2,EqualCoverage,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Euk,2,"['Ogataea angusta', 'Ogataea haglerorum']",Yes
+large_2,EqualCoverage,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Metaphlan,0,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",No
+large_2,EqualCoverage,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",HMS,0,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",No
+large_2,EqualCoverage,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",Kraken,2,"['Malassezia pachydermatis', 'Malassezia sympodialis']",Yes
+large_2,EqualCoverage,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",Euk,1,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia sympodialis']",Yes
+large_2,EqualCoverage,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",Metaphlan,4,[],Yes
+large_2,EqualCoverage,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",HMS,0,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",No
+large_2,EqualCoverage,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",Kraken,1,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus wingfieldii']",Yes
+large_2,EqualCoverage,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",Euk,1,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii']",Yes
+large_2,EqualCoverage,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",Metaphlan,2,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii']",Yes
+large_2,EqualCoverage,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",HMS,0,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",No
+large_2,EqualCoverage,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Kraken,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",No
+large_2,EqualCoverage,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Euk,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Yes
+large_2,EqualCoverage,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Metaphlan,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",No
+large_2,EqualCoverage,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",HMS,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",No
+large_2,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Kraken,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+large_2,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Euk,1,['Cladophialophora carrionii'],Yes
+large_2,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Metaphlan,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+large_2,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",HMS,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+large_2,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+large_2,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces lactis'],Yes
+large_2,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+large_2,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+large_2,EqualCoverage,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Kraken,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+large_2,EqualCoverage,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Euk,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_2,EqualCoverage,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Metaphlan,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_2,EqualCoverage,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",HMS,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",Kraken,2,[],Yes
+large_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",Euk,1,['Tetrapisispora blattae'],Yes
+large_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",Metaphlan,0,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",No
+large_2,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",HMS,0,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",No
+large_2,EqualCoverage,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",Kraken,0,"['Wallemia ichthyophaga', 'Wallemia mellicola']",No
+large_2,EqualCoverage,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",Euk,1,['Wallemia mellicola'],Yes
+large_2,EqualCoverage,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",Metaphlan,0,"['Wallemia ichthyophaga', 'Wallemia mellicola']",No
+large_2,EqualCoverage,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",HMS,0,"['Wallemia ichthyophaga', 'Wallemia mellicola']",No
+large_2,EqualCoverage,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",Kraken,1,['Neurospora hispaniola'],Yes
+large_2,EqualCoverage,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",Euk,1,['Neurospora hispaniola'],Yes
+large_2,EqualCoverage,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",Metaphlan,0,"['Neurospora crassa', 'Neurospora hispaniola']",No
+large_2,EqualCoverage,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",HMS,0,"['Neurospora crassa', 'Neurospora hispaniola']",No
+large_2,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",Kraken,1,['Scheffersomyces coipomensis'],Yes
+large_2,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",Euk,1,['Scheffersomyces coipomensis'],Yes
+large_2,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",Metaphlan,0,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",No
+large_2,EqualCoverage,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",HMS,0,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",No
+large_2,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Kraken,1,['Fusarium proliferatum'],Yes
+large_2,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Euk,1,['Fusarium falciforme'],Yes
+large_2,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Metaphlan,0,"['Fusarium falciforme', 'Fusarium proliferatum']",No
+large_2,EqualCoverage,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",HMS,0,"['Fusarium falciforme', 'Fusarium proliferatum']",No
+large_2,EqualReads,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Kraken,3,"['Candida jiufengensis', 'Candida margitis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Yes
+large_2,EqualReads,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Euk,2,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Yes
+large_2,EqualReads,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",Metaphlan,6,"['Candida jiufengensis', 'Candida margitis', 'Candida pseudojiufengensis']",Yes
+large_2,EqualReads,Candida,9,"['Candida albicans', 'Candida dubliniensis', 'Candida jiufengensis', 'Candida margitis', 'Candida orthopsilosis', 'Candida parapsilosis', 'Candida pseudojiufengensis', 'Candida theae', 'Candida tropicalis']",HMS,6,"['Candida jiufengensis', 'Candida margitis', 'Candida pseudojiufengensis']",Yes
+large_2,EqualReads,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Kraken,3,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus fischeri', 'Aspergillus glaucus', 'Aspergillus terreus']",Yes
+large_2,EqualReads,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Euk,1,"['Aspergillus alliaceus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Yes
+large_2,EqualReads,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",Metaphlan,6,"['Aspergillus chevalieri', 'Aspergillus oryzae']",Yes
+large_2,EqualReads,Aspergillus,8,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus flavus', 'Aspergillus glaucus', 'Aspergillus oryzae', 'Aspergillus terreus']",HMS,2,"['Aspergillus alliaceus', 'Aspergillus candidus', 'Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus glaucus', 'Aspergillus oryzae']",Yes
+large_2,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",No
+large_2,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella pini']",Yes
+large_2,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",No
+large_2,EqualReads,Kwoniella,5,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella dejecticola', 'Kwoniella mangrovensis', 'Kwoniella pini']",No
+large_2,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",Kraken,4,[],Yes
+large_2,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",Euk,3,['Saccharomyces paradoxus'],Yes
+large_2,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",Metaphlan,2,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus']",Yes
+large_2,EqualReads,Saccharomyces,4,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces eubayanus', 'Saccharomyces mikatae', 'Saccharomyces paradoxus']",No
+large_2,EqualReads,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Kraken,0,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Yes
+large_2,EqualReads,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Euk,2,"['Ogataea angusta', 'Ogataea haglerorum']",Yes
+large_2,EqualReads,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",Metaphlan,0,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",No
+large_2,EqualReads,Ogataea,4,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",HMS,0,"['Ogataea angusta', 'Ogataea haglerorum', 'Ogataea philodendri', 'Ogataea polymorpha']",No
+large_2,EqualReads,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",Kraken,2,"['Malassezia pachydermatis', 'Malassezia sympodialis']",Yes
+large_2,EqualReads,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",Euk,1,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia sympodialis']",Yes
+large_2,EqualReads,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",Metaphlan,4,[],Yes
+large_2,EqualReads,Malassezia,4,"['Malassezia japonica', 'Malassezia pachydermatis', 'Malassezia restricta', 'Malassezia sympodialis']",HMS,3,['Malassezia pachydermatis'],Yes
+large_2,EqualReads,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",Kraken,1,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus wingfieldii']",Yes
+large_2,EqualReads,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",Euk,1,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii']",Yes
+large_2,EqualReads,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",Metaphlan,2,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii']",Yes
+large_2,EqualReads,Cryptococcus,4,"['Cryptococcus decagattii', 'Cryptococcus deuterogattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii']",HMS,2,"['Cryptococcus decagattii', 'Cryptococcus wingfieldii']",Yes
+large_2,EqualReads,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Kraken,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",No
+large_2,EqualReads,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Euk,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Yes
+large_2,EqualReads,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",Metaphlan,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",No
+large_2,EqualReads,Alternaria,3,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",HMS,0,"['Alternaria ethzedia', 'Alternaria postmessia', 'Alternaria triticimaculans']",No
+large_2,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Kraken,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+large_2,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Euk,1,['Cladophialophora bantiana'],Yes
+large_2,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Metaphlan,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+large_2,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",HMS,2,[],Yes
+large_2,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+large_2,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces lactis'],Yes
+large_2,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+large_2,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+large_2,EqualReads,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Kraken,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+large_2,EqualReads,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Euk,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_2,EqualReads,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Metaphlan,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_2,EqualReads,Kazachstania,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",HMS,0,"['Kazachstania barnettii', 'Kazachstania heterogenica']",No
+large_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",Kraken,2,[],Yes
+large_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",Euk,1,['Tetrapisispora blattae'],Yes
+large_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",Metaphlan,0,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",No
+large_2,EqualReads,Tetrapisispora,2,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",HMS,0,"['Tetrapisispora blattae', 'Tetrapisispora phaffii']",No
+large_2,EqualReads,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",Kraken,0,"['Wallemia ichthyophaga', 'Wallemia mellicola']",No
+large_2,EqualReads,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",Euk,1,['Wallemia mellicola'],Yes
+large_2,EqualReads,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",Metaphlan,0,"['Wallemia ichthyophaga', 'Wallemia mellicola']",No
+large_2,EqualReads,Wallemia,2,"['Wallemia ichthyophaga', 'Wallemia mellicola']",HMS,0,"['Wallemia ichthyophaga', 'Wallemia mellicola']",No
+large_2,EqualReads,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",Kraken,1,['Neurospora hispaniola'],Yes
+large_2,EqualReads,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",Euk,1,['Neurospora hispaniola'],Yes
+large_2,EqualReads,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",Metaphlan,0,"['Neurospora crassa', 'Neurospora hispaniola']",No
+large_2,EqualReads,Neurospora,2,"['Neurospora crassa', 'Neurospora hispaniola']",HMS,0,"['Neurospora crassa', 'Neurospora hispaniola']",No
+large_2,EqualReads,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",Kraken,1,['Scheffersomyces coipomensis'],Yes
+large_2,EqualReads,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",Euk,1,['Scheffersomyces coipomensis'],Yes
+large_2,EqualReads,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",Metaphlan,0,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",No
+large_2,EqualReads,Scheffersomyces,2,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",HMS,0,"['Scheffersomyces coipomensis', 'Scheffersomyces stipitis']",No
+large_2,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Kraken,1,['Fusarium proliferatum'],Yes
+large_2,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Euk,1,['Fusarium falciforme'],Yes
+large_2,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",Metaphlan,0,"['Fusarium falciforme', 'Fusarium proliferatum']",No
+large_2,EqualReads,Fusarium,2,"['Fusarium falciforme', 'Fusarium proliferatum']",HMS,2,[],Yes
+complete_1,EqualCoverage,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",Kraken,3,"['Aspergillus terreus', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus candidus']",Yes
+complete_1,EqualCoverage,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",Euk,10,"['Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus flavus']",Yes
+complete_1,EqualCoverage,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",Metaphlan,10,"['Aspergillus chevalieri', 'Aspergillus oryzae', 'Aspergillus aculeatinus']",Yes
+complete_1,EqualCoverage,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",HMS,0,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",No
+complete_1,EqualCoverage,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Kraken,3,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis']",Yes
+complete_1,EqualCoverage,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Euk,1,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Yes
+complete_1,EqualCoverage,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Metaphlan,6,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida oxycetoniae', 'Candida margitis']",Yes
+complete_1,EqualCoverage,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",HMS,0,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",No
+complete_1,EqualCoverage,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+complete_1,EqualCoverage,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii']",Yes
+complete_1,EqualCoverage,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+complete_1,EqualCoverage,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+complete_1,EqualCoverage,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Kraken,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+complete_1,EqualCoverage,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Euk,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Yes
+complete_1,EqualCoverage,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Metaphlan,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+complete_1,EqualCoverage,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",HMS,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+complete_1,EqualCoverage,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Kraken,3,"['Malassezia globosa', 'Malassezia sympodialis', 'Malassezia pachydermatis']",Yes
+complete_1,EqualCoverage,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Euk,1,"['Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Yes
+complete_1,EqualCoverage,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Metaphlan,6,[],Yes
+complete_1,EqualCoverage,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",HMS,0,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",No
+complete_1,EqualCoverage,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Kraken,2,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus wingfieldii', 'Cryptococcus deuterogattii']",Yes
+complete_1,EqualCoverage,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Euk,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus deuterogattii']",Yes
+complete_1,EqualCoverage,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Metaphlan,2,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Yes
+complete_1,EqualCoverage,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",HMS,0,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",No
+complete_1,EqualCoverage,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Kraken,1,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+complete_1,EqualCoverage,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Euk,1,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+complete_1,EqualCoverage,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Metaphlan,0,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+complete_1,EqualCoverage,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",HMS,0,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+complete_1,EqualCoverage,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Kraken,1,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Yes
+complete_1,EqualCoverage,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Euk,1,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Yes
+complete_1,EqualCoverage,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Metaphlan,0,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+complete_1,EqualCoverage,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",HMS,0,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+complete_1,EqualCoverage,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Kraken,5,[],Yes
+complete_1,EqualCoverage,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Euk,1,"['Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Yes
+complete_1,EqualCoverage,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Metaphlan,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Yes
+complete_1,EqualCoverage,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",No
+complete_1,EqualCoverage,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",Kraken,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+complete_1,EqualCoverage,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",Euk,1,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+complete_1,EqualCoverage,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",Metaphlan,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",No
+complete_1,EqualCoverage,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",HMS,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",No
+complete_1,EqualCoverage,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",Kraken,1,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora tetraspora']",Yes
+complete_1,EqualCoverage,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",Euk,1,"['Neurospora hispaniola', 'Neurospora crassa', 'Neurospora tetraspora']",Yes
+complete_1,EqualCoverage,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",Metaphlan,0,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",No
+complete_1,EqualCoverage,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",HMS,0,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",No
+complete_1,EqualCoverage,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",Kraken,0,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",No
+complete_1,EqualCoverage,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",Euk,1,"['Pneumocystis murina', 'Pneumocystis carinii']",Yes
+complete_1,EqualCoverage,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",Metaphlan,3,[],Yes
+complete_1,EqualCoverage,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",HMS,0,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",No
+complete_1,EqualCoverage,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",Kraken,0,"['Wallemia mellicola', 'Wallemia ichthyophaga']",No
+complete_1,EqualCoverage,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",Euk,1,['Wallemia mellicola'],Yes
+complete_1,EqualCoverage,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",Metaphlan,0,"['Wallemia mellicola', 'Wallemia ichthyophaga']",No
+complete_1,EqualCoverage,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",HMS,0,"['Wallemia mellicola', 'Wallemia ichthyophaga']",No
+complete_1,EqualCoverage,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",Kraken,0,"['Penicillium chrysogenum', 'Penicillium rubens']",Yes
+complete_1,EqualCoverage,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",Euk,1,['Penicillium rubens'],Yes
+complete_1,EqualCoverage,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",Metaphlan,1,['Penicillium rubens'],Yes
+complete_1,EqualCoverage,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",HMS,0,"['Penicillium chrysogenum', 'Penicillium rubens']",No
+complete_1,EqualCoverage,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",Kraken,0,"['Rhodotorula graminis', 'Rhodotorula toruloides']",No
+complete_1,EqualCoverage,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",Euk,1,['Rhodotorula graminis'],Yes
+complete_1,EqualCoverage,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",Metaphlan,2,[],Yes
+complete_1,EqualCoverage,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",HMS,0,"['Rhodotorula graminis', 'Rhodotorula toruloides']",No
+complete_1,EqualCoverage,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",Kraken,1,['Pichia membranifaciens'],Yes
+complete_1,EqualCoverage,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",Euk,1,['Pichia kudriavzevii'],Yes
+complete_1,EqualCoverage,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",Metaphlan,2,[],Yes
+complete_1,EqualCoverage,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",HMS,0,"['Pichia kudriavzevii', 'Pichia membranifaciens']",No
+complete_1,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Kraken,1,['Debaryomyces fabryi'],Yes
+complete_1,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Euk,2,[],Yes
+complete_1,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Metaphlan,2,[],Yes
+complete_1,EqualCoverage,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",HMS,0,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",No
+complete_1,EqualCoverage,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",Kraken,0,"['Spathaspora passalidarum', '[Candida] subhashii']",No
+complete_1,EqualCoverage,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",Euk,1,['[Candida] subhashii'],Yes
+complete_1,EqualCoverage,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",Metaphlan,0,"['Spathaspora passalidarum', '[Candida] subhashii']",No
+complete_1,EqualCoverage,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",HMS,0,"['Spathaspora passalidarum', '[Candida] subhashii']",No
+complete_1,EqualCoverage,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",Kraken,0,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",No
+complete_1,EqualCoverage,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",Euk,1,['Blastomyces gilchristii'],Yes
+complete_1,EqualCoverage,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",Metaphlan,0,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",No
+complete_1,EqualCoverage,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",HMS,0,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",No
+complete_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Kraken,2,[],Yes
+complete_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Euk,1,['Tetrapisispora blattae'],Yes
+complete_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Metaphlan,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+complete_1,EqualCoverage,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",HMS,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+complete_1,EqualCoverage,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",Kraken,0,"['Chaetomium strumarium', 'Chaetomium globosum']",No
+complete_1,EqualCoverage,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",Euk,1,['Chaetomium strumarium'],Yes
+complete_1,EqualCoverage,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",Metaphlan,0,"['Chaetomium strumarium', 'Chaetomium globosum']",No
+complete_1,EqualCoverage,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",HMS,0,"['Chaetomium strumarium', 'Chaetomium globosum']",No
+complete_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+complete_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces lactis'],Yes
+complete_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+complete_1,EqualCoverage,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+complete_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Kraken,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+complete_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Euk,1,['Trichophyton rubrum'],Yes
+complete_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Metaphlan,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+complete_1,EqualCoverage,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",HMS,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+complete_1,EqualCoverage,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",Kraken,1,['Lachancea lanzarotensis'],Yes
+complete_1,EqualCoverage,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",Euk,1,['Lachancea thermotolerans'],Yes
+complete_1,EqualCoverage,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",Metaphlan,0,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",No
+complete_1,EqualCoverage,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",HMS,0,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",No
+complete_1,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Kraken,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+complete_1,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Euk,1,['Fonsecaea monophora'],Yes
+complete_1,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Metaphlan,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+complete_1,EqualCoverage,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",HMS,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+complete_1,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Kraken,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+complete_1,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Euk,2,[],Yes
+complete_1,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Metaphlan,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+complete_1,EqualCoverage,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",HMS,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+complete_1,EqualReads,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",Kraken,3,"['Aspergillus terreus', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus candidus']",Yes
+complete_1,EqualReads,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",Euk,10,"['Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus flavus']",Yes
+complete_1,EqualReads,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",Metaphlan,10,"['Aspergillus chevalieri', 'Aspergillus oryzae', 'Aspergillus aculeatinus']",Yes
+complete_1,EqualReads,Aspergillus,13,"['Aspergillus terreus', 'Aspergillus chevalieri', 'Aspergillus lentulus', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus flavus', 'Aspergillus candidus']",HMS,3,"['Aspergillus chevalieri', 'Aspergillus fischeri', 'Aspergillus niger', 'Aspergillus oryzae', 'Aspergillus thermomutatus', 'Aspergillus alliaceus', 'Aspergillus aculeatinus', 'Aspergillus glaucus', 'Aspergillus tubingensis', 'Aspergillus candidus']",Yes
+complete_1,EqualReads,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Kraken,3,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis']",Yes
+complete_1,EqualReads,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Euk,2,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis']",Yes
+complete_1,EqualReads,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",Metaphlan,6,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida oxycetoniae', 'Candida margitis']",Yes
+complete_1,EqualReads,Candida,10,"['Candida albicans', 'Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida parapsilosis', 'Candida dubliniensis', 'Candida theae', 'Candida oxycetoniae', 'Candida tropicalis', 'Candida margitis', 'Candida orthopsilosis']",HMS,6,"['Candida jiufengensis', 'Candida pseudojiufengensis', 'Candida oxycetoniae', 'Candida margitis']",Yes
+complete_1,EqualReads,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Kraken,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+complete_1,EqualReads,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Euk,1,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii']",Yes
+complete_1,EqualReads,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",Metaphlan,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+complete_1,EqualReads,Kwoniella,7,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",HMS,0,"['Kwoniella bestiolae', 'Kwoniella botswanensis', 'Kwoniella pini', 'Kwoniella shandongensis', 'Kwoniella dejecticola', 'Kwoniella shivajii', 'Kwoniella mangrovensis']",No
+complete_1,EqualReads,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Kraken,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+complete_1,EqualReads,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Euk,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Yes
+complete_1,EqualReads,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",Metaphlan,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+complete_1,EqualReads,Alternaria,6,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",HMS,0,"['Alternaria infectoria', 'Alternaria burnsii', 'Alternaria rosae', 'Alternaria postmessia', 'Alternaria triticimaculans', 'Alternaria ethzedia']",No
+complete_1,EqualReads,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Kraken,3,"['Malassezia globosa', 'Malassezia sympodialis', 'Malassezia pachydermatis']",Yes
+complete_1,EqualReads,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Euk,1,"['Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Yes
+complete_1,EqualReads,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",Metaphlan,6,[],Yes
+complete_1,EqualReads,Malassezia,6,"['Malassezia restricta', 'Malassezia globosa', 'Malassezia vespertilionis', 'Malassezia sympodialis', 'Malassezia japonica', 'Malassezia pachydermatis']",HMS,4,"['Malassezia vespertilionis', 'Malassezia pachydermatis']",Yes
+complete_1,EqualReads,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Kraken,2,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus wingfieldii', 'Cryptococcus deuterogattii']",Yes
+complete_1,EqualReads,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Euk,1,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus deuterogattii']",Yes
+complete_1,EqualReads,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Metaphlan,2,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",Yes
+complete_1,EqualReads,Cryptococcus,6,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus gattii', 'Cryptococcus wingfieldii', 'Cryptococcus neoformans', 'Cryptococcus deuterogattii']",HMS,3,"['Cryptococcus amylolentus', 'Cryptococcus decagattii', 'Cryptococcus wingfieldii']",Yes
+complete_1,EqualReads,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Kraken,1,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+complete_1,EqualReads,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Euk,1,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Yes
+complete_1,EqualReads,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",Metaphlan,0,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+complete_1,EqualReads,Scheffersomyces,5,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",HMS,0,"['Scheffersomyces xylosifermentans', 'Scheffersomyces coipomensis', 'Scheffersomyces stipitis', 'Scheffersomyces spartinae', 'Scheffersomyces amazonensis']",No
+complete_1,EqualReads,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Kraken,1,"['Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Yes
+complete_1,EqualReads,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Euk,1,"['Ogataea parapolymorpha', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Yes
+complete_1,EqualReads,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",Metaphlan,0,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+complete_1,EqualReads,Ogataea,5,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",HMS,0,"['Ogataea parapolymorpha', 'Ogataea philodendri', 'Ogataea angusta', 'Ogataea polymorpha', 'Ogataea haglerorum']",No
+complete_1,EqualReads,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Kraken,5,[],Yes
+complete_1,EqualReads,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Euk,3,"['Saccharomyces kudriavzevii', 'Saccharomyces paradoxus']",Yes
+complete_1,EqualReads,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",Metaphlan,2,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus']",Yes
+complete_1,EqualReads,Saccharomyces,5,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",HMS,0,"['Saccharomyces cerevisiae', 'Saccharomyces kudriavzevii', 'Saccharomyces eubayanus', 'Saccharomyces paradoxus', 'Saccharomyces mikatae']",No
+complete_1,EqualReads,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",Kraken,2,"['Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+complete_1,EqualReads,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",Euk,1,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania heterogenica']",Yes
+complete_1,EqualReads,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",Metaphlan,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",No
+complete_1,EqualReads,Kazachstania,4,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",HMS,0,"['Kazachstania naganishii', 'Kazachstania barnettii', 'Kazachstania africana', 'Kazachstania heterogenica']",No
+complete_1,EqualReads,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",Kraken,1,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora tetraspora']",Yes
+complete_1,EqualReads,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",Euk,1,"['Neurospora hispaniola', 'Neurospora crassa', 'Neurospora tetraspora']",Yes
+complete_1,EqualReads,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",Metaphlan,0,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",No
+complete_1,EqualReads,Neurospora,4,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",HMS,0,"['Neurospora hispaniola', 'Neurospora tetrasperma', 'Neurospora crassa', 'Neurospora tetraspora']",No
+complete_1,EqualReads,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",Kraken,0,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",No
+complete_1,EqualReads,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",Euk,2,['Pneumocystis murina'],Yes
+complete_1,EqualReads,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",Metaphlan,3,[],Yes
+complete_1,EqualReads,Pneumocystis,3,"['Pneumocystis murina', 'Pneumocystis carinii', 'Pneumocystis jirovecii']",HMS,1,"['Pneumocystis murina', 'Pneumocystis carinii']",Yes
+complete_1,EqualReads,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",Kraken,0,"['Wallemia mellicola', 'Wallemia ichthyophaga']",No
+complete_1,EqualReads,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",Euk,1,['Wallemia mellicola'],Yes
+complete_1,EqualReads,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",Metaphlan,0,"['Wallemia mellicola', 'Wallemia ichthyophaga']",No
+complete_1,EqualReads,Wallemia,2,"['Wallemia mellicola', 'Wallemia ichthyophaga']",HMS,0,"['Wallemia mellicola', 'Wallemia ichthyophaga']",No
+complete_1,EqualReads,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",Kraken,0,"['Penicillium chrysogenum', 'Penicillium rubens']",Yes
+complete_1,EqualReads,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",Euk,1,['Penicillium rubens'],Yes
+complete_1,EqualReads,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",Metaphlan,1,['Penicillium rubens'],Yes
+complete_1,EqualReads,Penicillium,2,"['Penicillium chrysogenum', 'Penicillium rubens']",HMS,1,['Penicillium chrysogenum'],Yes
+complete_1,EqualReads,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",Kraken,0,"['Rhodotorula graminis', 'Rhodotorula toruloides']",No
+complete_1,EqualReads,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",Euk,1,['Rhodotorula graminis'],Yes
+complete_1,EqualReads,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",Metaphlan,2,[],Yes
+complete_1,EqualReads,Rhodotorula,2,"['Rhodotorula graminis', 'Rhodotorula toruloides']",HMS,0,"['Rhodotorula graminis', 'Rhodotorula toruloides']",No
+complete_1,EqualReads,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",Kraken,1,['Pichia membranifaciens'],Yes
+complete_1,EqualReads,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",Euk,1,['Pichia kudriavzevii'],Yes
+complete_1,EqualReads,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",Metaphlan,2,[],Yes
+complete_1,EqualReads,Pichia,2,"['Pichia kudriavzevii', 'Pichia membranifaciens']",HMS,1,['Pichia membranifaciens'],Yes
+complete_1,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Kraken,1,['Debaryomyces fabryi'],Yes
+complete_1,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Euk,1,['Debaryomyces hansenii'],Yes
+complete_1,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",Metaphlan,2,[],Yes
+complete_1,EqualReads,Debaryomyces,2,"['Debaryomyces hansenii', 'Debaryomyces fabryi']",HMS,1,['Debaryomyces hansenii'],Yes
+complete_1,EqualReads,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",Kraken,0,"['Spathaspora passalidarum', '[Candida] subhashii']",No
+complete_1,EqualReads,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",Euk,1,['[Candida] subhashii'],Yes
+complete_1,EqualReads,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",Metaphlan,0,"['Spathaspora passalidarum', '[Candida] subhashii']",No
+complete_1,EqualReads,Spathaspora,2,"['Spathaspora passalidarum', '[Candida] subhashii']",HMS,0,"['Spathaspora passalidarum', '[Candida] subhashii']",No
+complete_1,EqualReads,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",Kraken,0,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",No
+complete_1,EqualReads,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",Euk,1,['Blastomyces gilchristii'],Yes
+complete_1,EqualReads,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",Metaphlan,0,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",No
+complete_1,EqualReads,Blastomyces,2,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",HMS,0,"['Blastomyces dermatitidis', 'Blastomyces gilchristii']",No
+complete_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Kraken,2,[],Yes
+complete_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Euk,1,['Tetrapisispora blattae'],Yes
+complete_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",Metaphlan,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+complete_1,EqualReads,Tetrapisispora,2,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",HMS,0,"['Tetrapisispora phaffii', 'Tetrapisispora blattae']",No
+complete_1,EqualReads,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",Kraken,0,"['Chaetomium strumarium', 'Chaetomium globosum']",No
+complete_1,EqualReads,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",Euk,1,['Chaetomium strumarium'],Yes
+complete_1,EqualReads,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",Metaphlan,0,"['Chaetomium strumarium', 'Chaetomium globosum']",No
+complete_1,EqualReads,Chaetomium,2,"['Chaetomium strumarium', 'Chaetomium globosum']",HMS,0,"['Chaetomium strumarium', 'Chaetomium globosum']",No
+complete_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Kraken,2,[],Yes
+complete_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Euk,1,['Kluyveromyces marxianus'],Yes
+complete_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",Metaphlan,0,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",No
+complete_1,EqualReads,Kluyveromyces,2,"['Kluyveromyces lactis', 'Kluyveromyces marxianus']",HMS,1,['Kluyveromyces lactis'],Yes
+complete_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Kraken,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+complete_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Euk,1,['Trichophyton rubrum'],Yes
+complete_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",Metaphlan,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+complete_1,EqualReads,Trichophyton,2,"['Trichophyton rubrum', 'Trichophyton benhamiae']",HMS,0,"['Trichophyton rubrum', 'Trichophyton benhamiae']",No
+complete_1,EqualReads,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",Kraken,1,['Lachancea lanzarotensis'],Yes
+complete_1,EqualReads,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",Euk,1,['Lachancea lanzarotensis'],Yes
+complete_1,EqualReads,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",Metaphlan,0,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",No
+complete_1,EqualReads,Lachancea,2,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",HMS,0,"['Lachancea lanzarotensis', 'Lachancea thermotolerans']",No
+complete_1,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Kraken,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+complete_1,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Euk,1,['Fonsecaea monophora'],Yes
+complete_1,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",Metaphlan,0,"['Fonsecaea monophora', 'Fonsecaea nubica']",No
+complete_1,EqualReads,Fonsecaea,2,"['Fonsecaea monophora', 'Fonsecaea nubica']",HMS,2,[],Yes
+complete_1,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Kraken,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+complete_1,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Euk,1,['Cladophialophora bantiana'],Yes
+complete_1,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",Metaphlan,0,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",No
+complete_1,EqualReads,Cladophialophora,2,"['Cladophialophora bantiana', 'Cladophialophora carrionii']",HMS,2,[],Yes

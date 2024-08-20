@@ -1,0 +1,18 @@
+V1
+Arthroderma	1e-04
+Aspergillus	0.0141
+Blastomyces	6e-04
+Candida	0.2638
+Clavispora	1e-04
+Debaryomyces	0.067
+Emergomyces	3e-04
+Histoplasma	7e-04
+Kluyveromyces	0.0051
+Lodderomyces	3e-04
+Malassezia	0.3292
+Nakaseomyces	0.002
+Naumovozyma	0.0011
+Paracoccidioides	0.315
+Pichia	1e-04
+Pneumocystis	2e-04
+Unclassified	2e-04

@@ -1,0 +1,10 @@
+Name	Rank	Lineage	Taxid	Observed_markers	Read_counts	Percent_observed_markers	Total_marker_coverage	Percent_identity
+Malassezia restricta	species	phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	76775	150	7819	100.0%	86.71%	99.78%
+Kluyveromyces marxianus DMKU3-1042	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_marxianus	1003335	162	4246	99.39%	80.6%	99.84%
+Kluyveromyces lactis	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	28985	162	4418	99.39%	80.72%	99.86%
+Saccharomyces cerevisiae S288C	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	559292	180	4321	98.9%	81.69%	99.9%
+Candida albicans SC5314	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	237561	164	3002	98.2%	74.35%	99.95%
+Debaryomyces hansenii CBS767	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	284592	179	4217	97.81%	77.36%	99.89%
+Aspergillus candidus	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_candidus	41067	178	1582	88.56%	43.82%	99.98%
+Kwoniella mangroviensis CBS 8507	species	phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella|species-Kwoniella_mangrovensis	1296122	61	140	33.15%	9.2%	97.39%
+Fusarium metavorans	species	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium|species-Fusarium_metavorans	2421284	3	4	1.5%	4.77%	97.33%

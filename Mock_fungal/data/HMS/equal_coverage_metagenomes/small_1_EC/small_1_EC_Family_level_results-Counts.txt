@@ -1,0 +1,9 @@
+
+Aspergillaceae	832801
+Cordycipitaceae	3
+Debaryomycetaceae	326859
+Dipodascaceae	67937
+Metschnikowiaceae	10
+Pneumocystaceae	224
+Saccharomycetaceae	9285
+Trichocomaceae	13

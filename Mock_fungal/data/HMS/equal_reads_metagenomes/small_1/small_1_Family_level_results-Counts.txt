@@ -1,0 +1,18 @@
+
+Aspergillaceae	193335
+Debaryomycetaceae	203103
+Dipodascaceae	24681
+Malasseziaceae	203234
+Metschnikowiaceae	236
+Microascaceae	16
+Nectriaceae	26
+Ophiocordycipitaceae	24
+Ophiostomataceae	13
+Phaffomycetaceae	5
+Pichiaceae	50
+Pneumocystaceae	171
+Saccharomycetaceae	6357
+Saccotheciaceae	3
+Sporocadaceae	7
+Stachybotryaceae	12
+Unclassified	6

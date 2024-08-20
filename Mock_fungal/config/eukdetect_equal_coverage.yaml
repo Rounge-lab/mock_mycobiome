@@ -1,0 +1,45 @@
+#Default config file for eukdetect. Copy and edit for analysis
+
+#Directory where EukDetect output should be written
+output_dir: "/FULL_PATH_TO/Mock_fungal/data/eukdetect/equal_coverage_metagenomes"
+  
+#Indicate whether reads are paired (true) or single (false)
+paired_end: true 
+
+#filename excluding sample name. no need to edit if paired_end = false
+fwd_suffix: "_1.fq" 
+
+#filename excludign sample name. no need to edit if paired_end = false
+rev_suffix: "_2.fq"
+
+#file name excluding sample name. no need to edit if paired_end = true 
+se_suffix: ".fastq.gz" 
+
+#length of your reads. pre-trimming reads not recommended
+readlen: 150
+
+#full path to directory with raw fastq files
+fq_dir: "/FULL_PATH_TO/Mock_fungal/data/equal_coverage_metagenomes"
+
+#full path to folder with eukdetect database files
+database_dir: "/FULL_PATH_TO_TOOLS/envs/EukDetect/eukdb"
+
+#name of database. Default is original genomes only database name
+database_prefix: "ncbi_eukprot_met_arch_markers.fna"
+
+#full path to eukdetect installation folder
+eukdetect_dir: "/FULL_PATH_TO_TOOLS/envs/EukDetect"
+
+#list sample names here. fastqs must correspond to {samplename}{se_suffix} for SE reads or {samplename}{fwd_suffix} and {samplename}{rev_suffix} for PE
+#each sample name should be preceded by 2 spaces and followed by a colon character
+samples:
+  small_1_EC:
+  small_2_EC:
+  small_3_EC:
+  median_1_EC:
+  median_2_EC:
+  median_3_EC:
+  large_1_EC:
+  large_2_EC:
+  complete_1_EC:
+

@@ -1,0 +1,48 @@
+Name	Rank	Lineage	Taxid	Observed_markers	Read_counts	Percent_observed_markers	Total_marker_coverage	Percent_identity
+Tetrapisispora phaffii CBS 4417	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Tetrapisispora|species-Tetrapisispora_phaffii	1071381	172	6528	100.0%	87.83%	99.82%
+Ogataea philodendri	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Ogataea|species-Ogataea_philodendri	1378263	152	7132	100.0%	89.8%	99.78%
+Yamadazyma tenuis ATCC 10573	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Yamadazyma|species-Yamadazyma_tenuis	590646	178	8359	100.0%	86.66%	99.8%
+Ascoidea rubescens DSM 1968	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Ascoideaceae|genus-Ascoidea|species-Ascoidea_rubescens	1344418	162	6175	100.0%	83.05%	99.81%
+Candida albicans SC5314	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	237561	167	5723	100.0%	87.62%	99.89%
+Kluyveromyces lactis	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	28985	163	6373	100.0%	86.86%	99.8%
+Debaryomyces hansenii CBS767	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	284592	183	7142	100.0%	87.16%	99.83%
+Saprochaete ingens	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae|genus-Saprochaete|species-Saprochaete_ingens	2606893	187	7737	100.0%	84.78%	99.74%
+Cyberlindnera jadinii NRRL Y-1542	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Phaffomycetaceae|genus-Cyberlindnera|species-Cyberlindnera_jadinii	983966	172	7541	100.0%	89.23%	99.77%
+Suhomyces tanzawaensis NRRL Y-17324	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Suhomyces|species-Suhomyces_tanzawaensis	984487	180	7722	100.0%	87.18%	99.79%
+Scheffersomyces shehatae	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Scheffersomyces|species-Scheffersomyces_shehatae	45589	180	7026	100.0%	86.09%	99.64%
+Saccharomyces cerevisiae S288C	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	559292	182	6848	100.0%	90.5%	99.88%
+Naumovozyma castellii CBS 4309	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Naumovozyma|species-Naumovozyma_castellii	1064592	182	7025	100.0%	88.92%	99.81%
+Clavispora lusitaniae ATCC 42720	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Metschnikowiaceae|genus-Clavispora|species-Clavispora_lusitaniae	306902	172	7129	99.42%	88.91%	99.78%
+Brettanomyces bruxellensis	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Brettanomyces|species-Brettanomyces_bruxellensis	5007	169	6652	99.41%	86.02%	98.97%
+Ogataea polymorpha	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Ogataea|species-Ogataea_polymorpha	460523	157	6404	99.37%	86.25%	99.94%
+Malassezia restricta	species	phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	76775	149	7534	99.33%	87.29%	99.76%
+Meyerozyma	genus	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Meyerozyma	766728	130	4073	99.24%	82.65%	99.77%
+Ascochyta rabiei	species	phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Didymellaceae|genus-Ascochyta|species-Ascochyta_rabiei	5454	198	6685	98.51%	81.29%	99.89%
+Neurospora crassa OR74A	species	phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora|species-Neurospora_crassa	367110	185	4683	98.4%	70.42%	99.95%
+Aspergillus fischeri NRRL 181	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_fischeri	331117	203	5857	97.6%	75.38%	99.96%
+Bipolaris sorokiniana ND90Pr	species	phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Bipolaris|species-Bipolaris_sorokiniana	665912	200	6528	97.09%	80.03%	99.97%
+Xylona heveae TC161	species	phylum-Ascomycota|class-Xylonomycetes|order-Xylonales|family-Xylonaceae|genus-Xylona|species-Xylona_heveae	1328760	197	6530	96.57%	80.57%	99.67%
+Aspergillus candidus	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_candidus	41067	193	5747	96.02%	75.79%	99.95%
+Trichosporon asahii var. asahii CBS 2479	no rank	phylum-Basidiomycota|class-Tremellomycetes|order-Trichosporonales|family-Trichosporonaceae|genus-Trichosporon|species-Trichosporon_asahii	1186058	131	4910	95.62%	76.4%	99.77%
+Aspergillus lentulus	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_lentulus	293939	199	4452	95.22%	64.22%	99.95%
+Neurospora tetrasperma FGSC 2508	species	phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora|species-Neurospora_tetrasperma	510951	179	4847	95.21%	72.02%	99.94%
+Beauveria bassiana ARSEF 2860	species	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Cordycipitaceae|genus-Beauveria|species-Beauveria_bassiana	655819	137	2333	95.14%	54.26%	99.97%
+Schizophyllum commune H4-8	species	phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales|family-Schizophyllaceae|genus-Schizophyllum|species-Schizophyllum_commune	578458	169	4581	93.89%	65.33%	99.44%
+Neurospora	genus	phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora	5140	14	373	93.33%	83.61%	99.8%
+Aspergillus aculeatinus CBS 121060	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_aculeatinus	1448322	146	2615	92.41%	53.29%	99.98%
+Rhodotorula toruloides NP11	species	phylum-Basidiomycota|class-Microbotryomycetes|order-Sporidiobolales|family-Sporidiobolaceae|genus-Rhodotorula|species-Rhodotorula_toruloides	1130832	166	4751	91.21%	64.9%	99.51%
+Cryptococcus amylolentus CBS 6039	species	phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Cryptococcus|species-Cryptococcus_amylolentus	1295533	153	3035	88.44%	55.53%	99.89%
+Cryptococcus gattii WM276	species	phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Cryptococcus|species-Cryptococcus_gattii_VGI	367775	142	2501	85.54%	49.76%	99.9%
+Kwoniella pini CBS 10737	species	phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella|species-Kwoniella_pini	1296096	147	3431	84.97%	58.72%	99.46%
+Meyerozyma caribbica MG20W	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Meyerozyma|species-Meyerozyma_caribbica	1091232	33	1135	73.33%	44.29%	99.56%
+Trichophyton	genus	phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|family-Arthrodermataceae|genus-Trichophyton	5550	170	2785	41.16%	50.19%	99.92%
+Alternaria sect. Alternaria	section	phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Alternaria	2499237	26	110	40.62%	20.76%	98.57%
+Beauveria	genus	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Cordycipitaceae|genus-Beauveria	5581	54	773	38.57%	45.08%	99.96%
+Trichophyton violaceum	species	phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|family-Arthrodermataceae|genus-Trichophyton|species-Trichophyton_violaceum	34388	14	144	37.84%	18.38%	99.43%
+Cryptococcus gattii species complex	species group	phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Cryptococcus	1884637	3	26	25.0%	27.35%	99.19%
+Alternaria arborescens	species	phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Alternaria|species-Alternaria_arborescens	156630	19	124	12.67%	15.76%	97.82%
+Alternaria alternata complex	species group	phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Alternaria	187734	9	25	10.98%	10.28%	98.92%
+[Candida] glabrata	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Nakaseomyces|species-[Candida]_glabrata	5478	7	28	4.38%	9.6%	99.49%
+Fusarium solani	species	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium|species-Fusarium_solani	169388	7	41	3.61%	10.41%	97.24%
+Aspergillus	genus	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus	5052	59	621	3.2%	38.88%	99.88%
+Fusarium solani species complex	species group	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium	232080	3	7	0.87%	4.39%	97.48%

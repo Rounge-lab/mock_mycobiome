@@ -1,0 +1,500 @@
+Taxon name,RelAbCoverage,PredictedRelAb,Mock_community,Tool,Level,ComType
+Candida albicans,9.564136789729329,0.2561,small_1,HMS,Species,EqualReads
+Malassezia restricta,18.633624917901184,0.3164,small_1,HMS,Species,EqualReads
+Yarrowia lipolytica,6.6625127022268735,0.0004,small_1,HMS,Species,EqualReads
+Aspergillus,4.02055286420652,0.3062,small_1,HMS,Genus,EqualReads
+Candida,9.564136789729329,0.2562,small_1,HMS,Genus,EqualReads
+Debaryomyces,11.240611291057338,0.0655,small_1,HMS,Genus,EqualReads
+Kluyveromyces,12.779434723004906,0.0053,small_1,HMS,Genus,EqualReads
+Malassezia,18.633624917901184,0.3219,small_1,HMS,Genus,EqualReads
+Yarrowia,6.6625127022268735,0.0391,small_1,HMS,Genus,EqualReads
+Aspergillaceae,4.02055286420652,30.62591975972589,small_1,HMS,Family,EqualReads
+Debaryomycetaceae,20.804748080786666,32.1732546148375,small_1,HMS,Family,EqualReads
+Dipodascaceae,6.6625127022268735,3.9096817730353775,small_1,HMS,Family,EqualReads
+Malasseziaceae,18.633624917901184,32.194006136747774,small_1,HMS,Family,EqualReads
+Saccharomycetaceae,46.38905524419632,1.007003242623309,small_1,HMS,Family,EqualReads
+Candida albicans,9.847519473788333,0.2625,small_2,HMS,Species,EqualReads
+Malassezia restricta,19.185733985251005,0.324,small_2,HMS,Species,EqualReads
+Paracoccidioides brasiliensis,4.695723019570779,0.3151,small_2,HMS,Species,EqualReads
+Candida,20.87996246543949,0.2638,small_2,HMS,Genus,EqualReads
+Debaryomyces,11.573667443238733,0.067,small_2,HMS,Genus,EqualReads
+Kluyveromyces,13.158085780824463,0.0051,small_2,HMS,Genus,EqualReads
+Malassezia,19.185733985251005,0.3292,small_2,HMS,Genus,EqualReads
+Paracoccidioides,4.695723019570779,0.315,small_2,HMS,Genus,EqualReads
+Debaryomycetaceae,32.453629908678224,33.11278800553581,small_2,HMS,Family,EqualReads
+Malasseziaceae,19.185733985251005,32.91614680595959,small_2,HMS,Family,EqualReads
+Saccharomycetaceae,34.821162860273255,0.8113883160731467,small_2,HMS,Family,EqualReads
+Candida albicans,10.248322833854944,0.2078,small_3,HMS,Species,EqualReads
+Fusarium falciforme,2.7327284061016712,0.2087,small_3,HMS,Species,EqualReads
+Kluyveromyces marxianus,13.403959786311173,0.2509,small_3,HMS,Species,EqualReads
+Malassezia restricta,19.966611511525624,0.2569,small_3,HMS,Species,EqualReads
+Aspergillus,5.358173869235143,0.0123,small_3,HMS,Genus,EqualReads
+Candida,10.248322833854944,0.2078,small_3,HMS,Genus,EqualReads
+Debaryomyces,12.044726658901169,0.0531,small_3,HMS,Genus,EqualReads
+Fusarium,2.7327284061016712,0.2094,small_3,HMS,Genus,EqualReads
+Kluyveromyces,27.097592108275926,0.2509,small_3,HMS,Genus,EqualReads
+Malassezia,19.966611511525624,0.261,small_3,HMS,Genus,EqualReads
+Aspergillaceae,5.358173869235143,1.2512221478927599,small_3,HMS,Family,EqualReads
+Debaryomycetaceae,22.29304949275611,26.09311480471363,small_3,HMS,Family,EqualReads
+Malasseziaceae,19.966611511525624,26.098132043431278,small_3,HMS,Family,EqualReads
+Nectriaceae,2.7327284061016712,20.936937168733596,small_3,HMS,Family,EqualReads
+Pleosporaceae,4.0640814581235,0.1515463387022076,small_3,HMS,Family,EqualReads
+Saccharomycetaceae,39.22329992994552,25.28276642824062,small_3,HMS,Family,EqualReads
+Aspergillus terreus,1.0753006782141523,0.0742,median_1,HMS,Species,EqualReads
+Candida albicans,2.208260970069002,0.0628,median_1,HMS,Species,EqualReads
+Candida parapsilosis,2.4264425515009087,0.0773,median_1,HMS,Species,EqualReads
+Cryptococcus neoformans,1.6554683499298155,0.0407,median_1,HMS,Species,EqualReads
+Diutina rugosa,2.345675297413264,0.0772,median_1,HMS,Species,EqualReads
+Fusarium proliferatum,0.6976250352979454,0.0697,median_1,HMS,Species,EqualReads
+Histoplasma capsulatum,1.0361700545050165,0.0763,median_1,HMS,Species,EqualReads
+Malassezia japonica,3.7397059937581427,0.0763,median_1,HMS,Species,EqualReads
+Malassezia restricta,4.30231264376039,0.0773,median_1,HMS,Species,EqualReads
+Pneumocystis jirovecii,3.756425956896367,0.0787,median_1,HMS,Species,EqualReads
+Rhizopus microsporus,1.2143606269784342,0.0537,median_1,HMS,Species,EqualReads
+Aspergillus,4.121106322056927,0.1444,median_1,HMS,Genus,EqualReads
+Candida,4.634703521569911,0.1405,median_1,HMS,Genus,EqualReads
+Cryptococcus,3.2348459829411222,0.0433,median_1,HMS,Genus,EqualReads
+Debaryomyces,2.5953417166110335,0.0162,median_1,HMS,Genus,EqualReads
+Diutina,2.345675297413264,0.0771,median_1,HMS,Genus,EqualReads
+Fusarium,0.6976250352979454,0.0706,median_1,HMS,Genus,EqualReads
+Histoplasma,1.0361700545050165,0.0769,median_1,HMS,Genus,EqualReads
+Kluyveromyces,2.9506402447799953,0.0024,median_1,HMS,Genus,EqualReads
+Malassezia,12.194620467427693,0.1555,median_1,HMS,Genus,EqualReads
+Penicillium,0.9740602560768576,0.0703,median_1,HMS,Genus,EqualReads
+Pneumocystis,7.960986910359175,0.0787,median_1,HMS,Genus,EqualReads
+Rhizopus,1.2143606269784342,0.054,median_1,HMS,Genus,EqualReads
+Trichophyton,1.4191696728394483,0.0593,median_1,HMS,Genus,EqualReads
+Ajellomycetaceae,1.0361700545050165,7.690638152269538,median_1,HMS,Family,EqualReads
+Arthrodermataceae,1.4191696728394483,5.927321654356136,median_1,HMS,Family,EqualReads
+Aspergillaceae,5.095166578133784,21.46550798607544,median_1,HMS,Family,EqualReads
+Cryptococcaceae,10.19607631065472,4.333543679534344,median_1,HMS,Family,EqualReads
+Debaryomycetaceae,12.118619363092437,23.393883173668467,median_1,HMS,Family,EqualReads
+Didymellaceae,0.8929209267953917,0.2689831009870309,median_1,HMS,Family,EqualReads
+Malasseziaceae,12.194620467427693,15.548227337642729,median_1,HMS,Family,EqualReads
+Nectriaceae,0.6976250352979454,7.062804947280857,median_1,HMS,Family,EqualReads
+Pleosporaceae,2.724571198948993,0.26361502474335574,median_1,HMS,Family,EqualReads
+Pneumocystaceae,7.960986910359175,7.865853705633236,median_1,HMS,Family,EqualReads
+Rhizopodaceae,1.2143606269784342,5.397542734135017,median_1,HMS,Family,EqualReads
+Saccharomycetaceae,30.405111935333228,0.501393768860678,median_1,HMS,Family,EqualReads
+Arthroderma uncinatum,1.3808386560153023,0.086,median_2,HMS,Species,EqualReads
+Aspergillus lentulus,1.0763412974488835,0.1027,median_2,HMS,Species,EqualReads
+Candida albicans,2.2780799289421534,0.07,median_2,HMS,Species,EqualReads
+Clavispora lusitaniae,2.6857073712571693,0.0856,median_2,HMS,Species,EqualReads
+Cryptococcus gattii,1.7707471959570904,0.1306,median_2,HMS,Species,EqualReads
+Fusarium falciforme,0.607452930017487,0.0701,median_2,HMS,Species,EqualReads
+Malassezia restricta,4.438339586954862,0.0861,median_2,HMS,Species,EqualReads
+Meyerozyma guilliermondii,3.0666537052266682,0.0856,median_2,HMS,Species,EqualReads
+Trichophyton rubrum,1.445941586777214,0.0742,median_2,HMS,Species,EqualReads
+Trichosporon asahii,1.327623467668341,0.0769,median_2,HMS,Species,EqualReads
+Arthroderma,1.3808386560153023,0.086,median_2,HMS,Genus,EqualReads
+Aspergillus,4.196473020531119,0.1558,median_2,HMS,Genus,EqualReads
+Candida,7.211095640148834,0.0715,median_2,HMS,Genus,EqualReads
+Clavispora,2.6857073712571693,0.0855,median_2,HMS,Genus,EqualReads
+Cryptococcus,5.20827924197334,0.1619,median_2,HMS,Genus,EqualReads
+Cyberlindnera,2.499309996369336,0.0003,median_2,HMS,Genus,EqualReads
+Debaryomyces,2.6773990726164594,0.0181,median_2,HMS,Genus,EqualReads
+Fusarium,0.607452930017487,0.0704,median_2,HMS,Genus,EqualReads
+Kluyveromyces,3.043931134168545,0.0017,median_2,HMS,Genus,EqualReads
+Malassezia,8.43029884545609,0.0882,median_2,HMS,Genus,EqualReads
+Meyerozyma,3.0666537052266682,0.0856,median_2,HMS,Genus,EqualReads
+Naumovozyma,2.900034907529134,0.0003,median_2,HMS,Genus,EqualReads
+Trichophyton,1.445941586777214,0.0857,median_2,HMS,Genus,EqualReads
+Trichosporon,1.327623467668341,0.077,median_2,HMS,Genus,EqualReads
+Arthrodermataceae,2.826780242792516,17.172117784406048,median_2,HMS,Family,EqualReads
+Aspergillaceae,4.196473020531119,15.592574079825457,median_2,HMS,Family,EqualReads
+Cryptococcaceae,6.770413986533244,16.19483964104095,median_2,HMS,Family,EqualReads
+Debaryomycetaceae,20.345740589618927,17.54196845902435,median_2,HMS,Family,EqualReads
+Didymellaceae,0.7965647263602551,0.19456089803425958,median_2,HMS,Family,EqualReads
+Malasseziaceae,8.43029884545609,8.815806793242373,median_2,HMS,Family,EqualReads
+Metschnikowiaceae,2.6857073712571693,8.598275406693789,median_2,HMS,Family,EqualReads
+Nectriaceae,0.607452930017487,7.0435518741595775,median_2,HMS,Family,EqualReads
+Pleosporaceae,1.9328166243968283,0.5185136115200011,median_2,HMS,Family,EqualReads
+Saccharomycetaceae,13.64107071416545,0.37355004168240336,median_2,HMS,Family,EqualReads
+Trichosporonaceae,1.327623467668341,7.702469370531186,median_2,HMS,Family,EqualReads
+Candida albicans,1.8338936691203975,0.0405,median_3,HMS,Species,EqualReads
+Candida dubliniensis,1.791772788852387,0.0487,median_3,HMS,Species,EqualReads
+Candida orthopsilosis,2.0690466125183233,0.0511,median_3,HMS,Species,EqualReads
+Candida tropicalis,1.7965148957831905,0.0424,median_3,HMS,Species,EqualReads
+Cladophialophora bantiana,0.7132644472955239,0.0495,median_3,HMS,Species,EqualReads
+Cladophialophora carrionii,0.9034800617182666,0.0495,median_3,HMS,Species,EqualReads
+Cryptococcus deuterogattii,1.4924620327745368,0.0493,median_3,HMS,Species,EqualReads
+Debaryomyces fabryi,2.2394807539250032,0.0601,median_3,HMS,Species,EqualReads
+Fonsecaea monophora,0.743486848804753,0.0478,median_3,HMS,Species,EqualReads
+Fonsecaea nubica,0.7752255077325346,0.0492,median_3,HMS,Species,EqualReads
+Kluyveromyces marxianus,2.398581445156725,0.0489,median_3,HMS,Species,EqualReads
+Lodderomyces elongisporus,1.6282569785745982,0.0488,median_3,HMS,Species,EqualReads
+Malassezia globosa,2.9249465779401715,0.0496,median_3,HMS,Species,EqualReads
+Malassezia restricta,3.572939986220146,0.0494,median_3,HMS,Species,EqualReads
+Malassezia sympodialis,3.4151177127991947,0.0501,median_3,HMS,Species,EqualReads
+Nakaseomyces glabratus,2.126349228770909,0.0499,median_3,HMS,Species,EqualReads
+Paracoccidioides brasiliensis,0.8744797855394285,0.0481,median_3,HMS,Species,EqualReads
+Penicillium rubens,0.8634116712648487,0.049,median_3,HMS,Species,EqualReads
+Pichia kudriavzevii,2.422451562610428,0.0494,median_3,HMS,Species,EqualReads
+Aspergillus,0.7709285852069958,0.0482,median_3,HMS,Genus,EqualReads
+Blastomyces,0.39347411535608795,0.006,median_3,HMS,Genus,EqualReads
+Candida,9.520172814156723,0.1919,median_3,HMS,Genus,EqualReads
+Cladophialophora,1.6167445090137904,0.099,median_3,HMS,Genus,EqualReads
+Cryptococcus,1.4924620327745368,0.0494,median_3,HMS,Genus,EqualReads
+Debaryomyces,4.394833227119465,0.06,median_3,HMS,Genus,EqualReads
+Fonsecaea,1.5187123565372875,0.099,median_3,HMS,Genus,EqualReads
+Kluyveromyces,4.848998555315948,0.0488,median_3,HMS,Genus,EqualReads
+Lodderomyces,1.6282569785745982,0.0488,median_3,HMS,Genus,EqualReads
+Malassezia,9.913004276959512,0.1491,median_3,HMS,Genus,EqualReads
+Nakaseomyces,2.126349228770909,0.0504,median_3,HMS,Genus,EqualReads
+Paracoccidioides,0.8744797855394285,0.0481,median_3,HMS,Genus,EqualReads
+Penicillium,0.8634116712648487,0.0491,median_3,HMS,Genus,EqualReads
+Pichia,2.422451562610428,0.0495,median_3,HMS,Genus,EqualReads
+Pneumocystis,3.4187875980180706,0.0007,median_3,HMS,Genus,EqualReads
+Ajellomycetaceae,0.39347411535608795,0.6550770139379299,median_3,HMS,Family,EqualReads
+Aspergillaceae,1.6343402564718446,9.724149829343341,median_3,HMS,Family,EqualReads
+Cryptococcaceae,2.590126120916292,4.943090107062332,median_3,HMS,Family,EqualReads
+Debaryomycetaceae,25.171555968925418,30.091859297427735,median_3,HMS,Family,EqualReads
+Herpotrichiellaceae,3.135456865551078,19.796098151898164,median_3,HMS,Family,EqualReads
+Malasseziaceae,9.913004276959512,14.909047884607435,median_3,HMS,Family,EqualReads
+Pichiaceae,5.373899878195651,4.949946571557356,median_3,HMS,Family,EqualReads
+Saccharomycetaceae,20.154974660384973,9.939175486629523,median_3,HMS,Family,EqualReads
+Aspergillus lentulus,0.5012647208576916,0.0441,large_1,HMS,Species,EqualReads
+Candida albicans,1.0609284456326726,0.0341,large_1,HMS,Species,EqualReads
+Candida dubliniensis,1.0365610350330987,0.0406,large_1,HMS,Species,EqualReads
+Candida tropicalis,1.0393043980861663,0.0356,large_1,HMS,Species,EqualReads
+Clavispora lusitaniae,1.2507653092467206,0.041,large_1,HMS,Species,EqualReads
+Cokeromyces recurvatus,0.5388504991034959,0.0401,large_1,HMS,Species,EqualReads
+Cryptococcus deuterogattii,0.8634063420681989,0.0561,large_1,HMS,Species,EqualReads
+Cryptococcus gattii,0.8246576629501894,0.063,large_1,HMS,Species,EqualReads
+Cryptococcus neoformans,0.7953468757047517,0.0227,large_1,HMS,Species,EqualReads
+Diutina rugosa,1.1269472589400746,0.0072,large_1,HMS,Species,EqualReads
+Fusarium falciforme,0.28289792849267054,0.0334,large_1,HMS,Species,EqualReads
+Fusarium proliferatum,0.33516430094309035,0.0371,large_1,HMS,Species,EqualReads
+Kluyveromyces marxianus,1.3876067774169425,0.0385,large_1,HMS,Species,EqualReads
+Malassezia globosa,1.6921150221217942,0.0413,large_1,HMS,Species,EqualReads
+Malassezia japonica,1.7966900293297492,0.0406,large_1,HMS,Species,EqualReads
+Malassezia restricta,2.0669866141898434,0.0071,large_1,HMS,Species,EqualReads
+Malassezia sympodialis,1.975684625396235,0.0417,large_1,HMS,Species,EqualReads
+Meyerozyma guilliermondii,1.4281764688961538,0.041,large_1,HMS,Species,EqualReads
+Nakaseomyces glabratus,1.2301173291220155,0.0423,large_1,HMS,Species,EqualReads
+Paracoccidioides brasiliensis,0.5058965496372135,0.04,large_1,HMS,Species,EqualReads
+Pichia kudriavzevii,1.4014159131556436,0.0363,large_1,HMS,Species,EqualReads
+Rhizopus microsporus,0.5834227701708149,0.0002,large_1,HMS,Species,EqualReads
+Scedosporium apiospermum,0.3488463326019382,0.0411,large_1,HMS,Species,EqualReads
+Talaromyces marneffei,0.5373680760501071,0.0019,large_1,HMS,Species,EqualReads
+Trichophyton rubrum,0.6733918949224645,0.0487,large_1,HMS,Species,EqualReads
+Trichosporon asahii,0.6182897641317123,0.0368,large_1,HMS,Species,EqualReads
+Aspergillus,1.8893129868152878,0.0787,large_1,HMS,Genus,EqualReads
+Blastomyces,0.20108950158003172,0.0028,large_1,HMS,Genus,EqualReads
+Candida,5.328401032806139,0.1174,large_1,HMS,Genus,EqualReads
+Clavispora,1.2507653092467206,0.041,large_1,HMS,Genus,EqualReads
+Cokeromyces,0.5388504991034959,0.0401,large_1,HMS,Genus,EqualReads
+Cryptococcus,4.094993741757146,0.1418,large_1,HMS,Genus,EqualReads
+Daldinia,0.42616228635711717,0.0039,large_1,HMS,Genus,EqualReads
+Debaryomyces,1.246896037475017,0.0089,large_1,HMS,Genus,EqualReads
+Diutina,1.1269472589400746,0.0072,large_1,HMS,Genus,EqualReads
+Fusarium,0.618062229435761,0.0711,large_1,HMS,Genus,EqualReads
+Kluyveromyces,2.8052010794245676,0.0384,large_1,HMS,Genus,EqualReads
+Malassezia,7.531476291037622,0.1307,large_1,HMS,Genus,EqualReads
+Meyerozyma,1.4281764688961538,0.041,large_1,HMS,Genus,EqualReads
+Nakaseomyces,1.2301173291220155,0.0432,large_1,HMS,Genus,EqualReads
+Naumovozyma,1.3505801476219854,0.0002,large_1,HMS,Genus,EqualReads
+Paracoccidioides,0.5058965496372135,0.04,large_1,HMS,Genus,EqualReads
+Pichia,1.4014159131556436,0.0365,large_1,HMS,Genus,EqualReads
+Pneumocystis,3.997830862303182,0.0013,large_1,HMS,Genus,EqualReads
+Rhizopus,0.5834227701708149,0.0002,large_1,HMS,Genus,EqualReads
+Scedosporium,0.3488463326019382,0.0411,large_1,HMS,Genus,EqualReads
+Talaromyces,0.5373680760501071,0.0019,large_1,HMS,Genus,EqualReads
+Trichophyton,1.3552123389289252,0.0718,large_1,HMS,Genus,EqualReads
+Trichosporon,0.6182897641317123,0.0369,large_1,HMS,Genus,EqualReads
+Ajellomycetaceae,0.20108950158003172,0.32291374442660425,large_1,HMS,Family,EqualReads
+Arthrodermataceae,1.3552123389289252,7.1866368993529575,large_1,HMS,Family,EqualReads
+Aspergillaceae,1.8893129868152878,7.871200041658321,large_1,HMS,Family,EqualReads
+Cryptococcaceae,6.063509762247184,14.179039812718672,large_1,HMS,Family,EqualReads
+Debaryomycetaceae,16.112805285592277,17.454590061732116,large_1,HMS,Family,EqualReads
+Hypoxylaceae,0.42616228635711717,0.38920893027644127,large_1,HMS,Family,EqualReads
+Malasseziaceae,7.531476291037622,13.06704664106107,large_1,HMS,Family,EqualReads
+Metschnikowiaceae,2.1945644402119675,4.1326126004487325,large_1,HMS,Family,EqualReads
+Microascaceae,0.3488463326019382,4.113841656799229,large_1,HMS,Family,EqualReads
+Mucoraceae,0.5388504991034959,4.012042218980758,large_1,HMS,Family,EqualReads
+Nectriaceae,0.618062229435761,7.106098848365559,large_1,HMS,Family,EqualReads
+Pichiaceae,7.651423443677393,3.6460705643406,large_1,HMS,Family,EqualReads
+Pleosporaceae,1.6879589340352257,0.13289910432548818,large_1,HMS,Family,EqualReads
+Pneumocystaceae,3.997830862303182,0.12818578623805796,large_1,HMS,Family,EqualReads
+Saccharomycetaceae,24.283262408675373,8.181373419726327,large_1,HMS,Family,EqualReads
+Trichocomaceae,0.5373680760501071,0.19071443405296165,large_1,HMS,Family,EqualReads
+Trichosporonaceae,0.6182897641317123,3.6911249455344195,large_1,HMS,Family,EqualReads
+Aspergillus flavus,0.44261891314006774,0.0639,large_2,HMS,Species,EqualReads
+Aspergillus terreus,0.5582774345138093,0.0311,large_2,HMS,Species,EqualReads
+Candida albicans,1.1464907389015666,0.0266,large_2,HMS,Species,EqualReads
+Candida dubliniensis,1.1201581330614374,0.0319,large_2,HMS,Species,EqualReads
+Candida orthopsilosis,1.293500719016977,0.0332,large_2,HMS,Species,EqualReads
+Candida parapsilosis,1.259766826239543,0.0328,large_2,HMS,Species,EqualReads
+Candida theae,1.3182500033468951,0.0317,large_2,HMS,Species,EqualReads
+Candida tropicalis,1.1231227442439684,0.0279,large_2,HMS,Species,EqualReads
+Cladophialophora bantiana,0.44590975855447823,0.0323,large_2,HMS,Species,EqualReads
+Cladophialophora carrionii,0.564826380604188,0.0323,large_2,HMS,Species,EqualReads
+Clavispora lusitaniae,1.351637661798737,0.0321,large_2,HMS,Species,EqualReads
+Cokeromyces recurvatus,0.5823079863847308,0.0315,large_2,HMS,Species,EqualReads
+Cryptococcus deuterogattii,0.933038772939827,0.0434,large_2,HMS,Species,EqualReads
+Cryptococcus gattii,0.8911650707723133,0.0489,large_2,HMS,Species,EqualReads
+Diutina rugosa,1.2178338708175658,0.0322,large_2,HMS,Species,EqualReads
+Fusarium falciforme,0.3057132235509698,0.0262,large_2,HMS,Species,EqualReads
+Fusarium proliferatum,0.3621948008119618,0.0291,large_2,HMS,Species,EqualReads
+Histoplasma capsulatum,0.5379614943699388,0.032,large_2,HMS,Species,EqualReads
+Kluyveromyces marxianus,1.4995151898268444,0.0319,large_2,HMS,Species,EqualReads
+Lodderomyces elongisporus,1.017933361089032,0.0319,large_2,HMS,Species,EqualReads
+Malassezia japonica,1.941590394510493,0.0319,large_2,HMS,Species,EqualReads
+Malassezia restricta,2.2336859949013532,0.0323,large_2,HMS,Species,EqualReads
+Malassezia sympodialis,2.135020637189367,0.0328,large_2,HMS,Species,EqualReads
+Paracoccidioides brasiliensis,0.5466963501534189,0.0313,large_2,HMS,Species,EqualReads
+Pichia kudriavzevii,1.5144380117210328,0.0322,large_2,HMS,Species,EqualReads
+Talaromyces marneffei,0.5807060081280067,0.0262,large_2,HMS,Species,EqualReads
+Trichophyton rubrum,0.7276999446645864,0.0296,large_2,HMS,Species,EqualReads
+Trichosporon asahii,0.6681539093919932,0.0288,large_2,HMS,Species,EqualReads
+Aspergillus,4.098450730030756,0.1228,large_2,HMS,Genus,EqualReads
+Blastomyces,0.2459872329836945,0.0039,large_2,HMS,Genus,EqualReads
+Candida,10.898076558503062,0.1896,large_2,HMS,Genus,EqualReads
+Cladophialophora,1.0107361391586662,0.0645,large_2,HMS,Genus,EqualReads
+Clavispora,1.351637661798737,0.032,large_2,HMS,Genus,EqualReads
+Cokeromyces,0.5823079863847308,0.0315,large_2,HMS,Genus,EqualReads
+Cryptococcus,3.56575845350125,0.0929,large_2,HMS,Genus,EqualReads
+Cyberlindnera,1.2578293360462343,0.0001,large_2,HMS,Genus,EqualReads
+Daldinia,0.4605316377262237,0.0038,large_2,HMS,Genus,EqualReads
+Debaryomyces,1.3474563390424177,0.0069,large_2,HMS,Genus,EqualReads
+Diutina,1.2178338708175658,0.0322,large_2,HMS,Genus,EqualReads
+Fusarium,0.6679080243629316,0.0558,large_2,HMS,Genus,EqualReads
+Histoplasma,0.5379614943699388,0.0323,large_2,HMS,Genus,EqualReads
+Kluyveromyces,3.031436353277379,0.0319,large_2,HMS,Genus,EqualReads
+Lodderomyces,1.017933361089032,0.0318,large_2,HMS,Genus,EqualReads
+Malassezia,8.319332908880058,0.0972,large_2,HMS,Genus,EqualReads
+Naumovozyma,1.459502417686174,0.0001,large_2,HMS,Genus,EqualReads
+Paracoccidioides,0.5466963501534189,0.0313,large_2,HMS,Genus,EqualReads
+Pichia,1.5144380117210328,0.0324,large_2,HMS,Genus,EqualReads
+Talaromyces,0.5807060081280067,0.0262,large_2,HMS,Genus,EqualReads
+Trichophyton,0.7276999446645864,0.0375,large_2,HMS,Genus,EqualReads
+Trichosporon,0.6681539093919932,0.0288,large_2,HMS,Genus,EqualReads
+Yarrowia,0.7986616334387795,0.004,large_2,HMS,Genus,EqualReads
+Ajellomycetaceae,0.7839487273536333,3.631875449441644,large_2,HMS,Family,EqualReads
+Arthrodermataceae,2.1365686635459724,3.811845588780647,large_2,HMS,Family,EqualReads
+Aspergillaceae,4.098450730030756,12.300947737393868,large_2,HMS,Family,EqualReads
+Cryptococcaceae,7.144885393184611,9.28940655967134,large_2,HMS,Family,EqualReads
+Debaryomycetaceae,21.674945065836084,26.06655122264251,large_2,HMS,Family,EqualReads
+Dipodascaceae,1.5714580633867161,0.4015871940975212,large_2,HMS,Family,EqualReads
+Herpotrichiellaceae,1.0107361391586662,6.797976182414457,large_2,HMS,Family,EqualReads
+Hypoxylaceae,0.4605316377262237,0.3814651072049325,large_2,HMS,Family,EqualReads
+Malasseziaceae,8.319332908880058,9.716581695995254,large_2,HMS,Family,EqualReads
+Metschnikowiaceae,1.351637661798737,3.2246289184055823,large_2,HMS,Family,EqualReads
+Mucoraceae,0.5823079863847308,3.149009857887761,large_2,HMS,Family,EqualReads
+Nectriaceae,0.6679080243629316,5.57515631701316,large_2,HMS,Family,EqualReads
+Pichiaceae,10.08757768276835,3.239510878503226,large_2,HMS,Family,EqualReads
+Pleosporaceae,1.8515365218177822,0.24080398056154811,large_2,HMS,Family,EqualReads
+Saccharomycetaceae,19.96214405914431,3.360936708942398,large_2,HMS,Family,EqualReads
+Trichocomaceae,0.5807060081280067,2.6194507057241534,large_2,HMS,Family,EqualReads
+Trichosporonaceae,0.6681539093919932,2.8852783071649464,large_2,HMS,Family,EqualReads
+Arthroderma uncinatum,0.4151942198097687,0.0258,complete_1,HMS,Species,EqualReads
+Aspergillus flavus,0.26444583818407963,0.0498,complete_1,HMS,Species,EqualReads
+Aspergillus lentulus,0.32363714855211245,0.0316,complete_1,HMS,Species,EqualReads
+Aspergillus terreus,0.33354684973107507,0.0245,complete_1,HMS,Species,EqualReads
+Candida albicans,0.6849790992170418,0.0212,complete_1,HMS,Species,EqualReads
+Candida dubliniensis,0.669246495353455,0.006,complete_1,HMS,Species,EqualReads
+Candida orthopsilosis,0.7728112642215725,0.0261,complete_1,HMS,Species,EqualReads
+Candida parapsilosis,0.7526567084944942,0.0162,complete_1,HMS,Species,EqualReads
+Candida theae,0.7875979013145298,0.0249,complete_1,HMS,Species,EqualReads
+Candida tropicalis,0.6710177235269024,0.022,complete_1,HMS,Species,EqualReads
+Cladophialophora bantiana,0.26641197733474137,0.0254,complete_1,HMS,Species,EqualReads
+Cladophialophora carrionii,0.3374595644540099,0.0254,complete_1,HMS,Species,EqualReads
+Clavispora lusitaniae,0.8075455968652325,0.0199,complete_1,HMS,Species,EqualReads
+Cokeromyces recurvatus,0.3479040749712917,0.0247,complete_1,HMS,Species,EqualReads
+Cryptococcus deuterogattii,0.5574506941375026,0.0346,complete_1,HMS,Species,EqualReads
+Cryptococcus gattii,0.5324329510207405,0.0389,complete_1,HMS,Species,EqualReads
+Cryptococcus neoformans,0.5135086995998543,0.0139,complete_1,HMS,Species,EqualReads
+Debaryomyces fabryi,0.8364702574458482,0.031,complete_1,HMS,Species,EqualReads
+Diutina rugosa,0.7276035640966829,0.0253,complete_1,HMS,Species,EqualReads
+Fonsecaea monophora,0.2777003708280767,0.0245,complete_1,HMS,Species,EqualReads
+Fonsecaea nubica,0.2895551028492283,0.0252,complete_1,HMS,Species,EqualReads
+Fusarium falciforme,0.1826505538869951,0.0206,complete_1,HMS,Species,EqualReads
+Histoplasma capsulatum,0.32140894585857765,0.0005,complete_1,HMS,Species,EqualReads
+Kluyveromyces marxianus,0.8958960845806268,0.0254,complete_1,HMS,Species,EqualReads
+Lodderomyces elongisporus,0.6081715735530291,0.0251,complete_1,HMS,Species,EqualReads
+Malassezia globosa,1.0924991486427849,0.005,complete_1,HMS,Species,EqualReads
+Malassezia japonica,1.1600170802552314,0.0251,complete_1,HMS,Species,EqualReads
+Malassezia restricta,1.3345316877022002,0.0254,complete_1,HMS,Species,EqualReads
+Malassezia sympodialis,1.275583363432059,0.0258,complete_1,HMS,Species,EqualReads
+Meyerozyma guilliermondii,0.9220895482768191,0.0253,complete_1,HMS,Species,EqualReads
+Nakaseomyces glabratus,0.7942144105022957,0.0263,complete_1,HMS,Species,EqualReads
+Penicillium rubens,0.3224935877117362,0.0481,complete_1,HMS,Species,EqualReads
+Pichia kudriavzevii,0.9048118313477143,0.0254,complete_1,HMS,Species,EqualReads
+Pneumocystis jirovecii,1.165203435239806,0.0262,complete_1,HMS,Species,EqualReads
+Rhizopus microsporus,0.3766817688972413,0.0171,complete_1,HMS,Species,EqualReads
+Scedosporium apiospermum,0.22522955968849262,0.0253,complete_1,HMS,Species,EqualReads
+Talaromyces marneffei,0.3469469615939019,0.0206,complete_1,HMS,Species,EqualReads
+Trichosporon asahii,0.3991933362079835,0.0226,complete_1,HMS,Species,EqualReads
+Arthroderma,0.4151942198097687,0.0258,complete_1,HMS,Genus,EqualReads
+Aspergillus,3.923769911321915,0.1606,complete_1,HMS,Genus,EqualReads
+Candida,7.278534506547874,0.1184,complete_1,HMS,Genus,EqualReads
+Cladophialophora,0.6038715417887512,0.0507,complete_1,HMS,Genus,EqualReads
+Clavispora,0.8075455968652325,0.0199,complete_1,HMS,Genus,EqualReads
+Cokeromyces,0.3479040749712917,0.0247,complete_1,HMS,Genus,EqualReads
+Cryptococcus,3.126904740987323,0.0873,complete_1,HMS,Genus,EqualReads
+Cyberlindnera,0.7514991411087986,0.0001,complete_1,HMS,Genus,EqualReads
+Daldinia,0.2751479237179791,0.0024,complete_1,HMS,Genus,EqualReads
+Debaryomyces,1.6415176930979312,0.031,complete_1,HMS,Genus,EqualReads
+Diutina,0.7276035640966829,0.0253,complete_1,HMS,Genus,EqualReads
+Fonsecaea,0.567255473677305,0.0507,complete_1,HMS,Genus,EqualReads
+Fusarium,0.1826505538869951,0.0206,complete_1,HMS,Genus,EqualReads
+Histoplasma,0.32140894585857765,0.0006,complete_1,HMS,Genus,EqualReads
+Kluyveromyces,1.8111533500838952,0.0254,complete_1,HMS,Genus,EqualReads
+Lodderomyces,0.6081715735530291,0.0251,complete_1,HMS,Genus,EqualReads
+Malassezia,7.351037133077227,0.0813,complete_1,HMS,Genus,EqualReads
+Meyerozyma,0.9220895482768191,0.0253,complete_1,HMS,Genus,EqualReads
+Nakaseomyces,0.7942144105022957,0.027,complete_1,HMS,Genus,EqualReads
+Naumovozyma,0.8719901674300423,0.0001,complete_1,HMS,Genus,EqualReads
+Penicillium,0.6246367337592785,0.0483,complete_1,HMS,Genus,EqualReads
+Pichia,1.7495019528793696,0.0256,complete_1,HMS,Genus,EqualReads
+Pneumocystis,3.7463676920332887,0.0262,complete_1,HMS,Genus,EqualReads
+Rhizopus,0.3766817688972413,0.0171,complete_1,HMS,Genus,EqualReads
+Scedosporium,0.22522955968849262,0.0253,complete_1,HMS,Genus,EqualReads
+Talaromyces,0.3469469615939019,0.0206,complete_1,HMS,Genus,EqualReads
+Trichosporon,0.3991933362079835,0.0227,complete_1,HMS,Genus,EqualReads
+Yarrowia,0.4771661101913841,0.0031,complete_1,HMS,Genus,EqualReads
+Arthrodermataceae,2.131913822339112,2.5852965079345767,complete_1,HMS,Family,EqualReads
+Aspergillaceae,4.548406645081194,20.886674545221332,complete_1,HMS,Family,EqualReads
+Cryptococcaceae,6.165900657803067,8.729517152079934,complete_1,HMS,Family,EqualReads
+Debaryomycetaceae,19.19030403651491,22.503907590738997,complete_1,HMS,Family,EqualReads
+Didymellaceae,0.5164877769433153,0.15662049549720827,complete_1,HMS,Family,EqualReads
+Dipodascaceae,0.9388788693987058,0.3151548612558132,complete_1,HMS,Family,EqualReads
+Herpotrichiellaceae,1.1711270154660562,10.415510105995459,complete_1,HMS,Family,EqualReads
+Hypoxylaceae,0.2751479237179791,0.2403745000489241,complete_1,HMS,Family,EqualReads
+Malasseziaceae,7.351037133077227,8.133289529786158,complete_1,HMS,Family,EqualReads
+Metschnikowiaceae,1.4169011865203651,2.0265224394317096,complete_1,HMS,Family,EqualReads
+Microascaceae,0.22522955968849262,2.536752646337562,complete_1,HMS,Family,EqualReads
+Mucoraceae,0.3479040749712917,2.4700840531259964,complete_1,HMS,Family,EqualReads
+Nectriaceae,0.1826505538869951,2.0647998446596425,complete_1,HMS,Family,EqualReads
+Pichiaceae,7.9739834549461115,2.5595669938244097,complete_1,HMS,Family,EqualReads
+Pleosporaceae,1.960156731392446,0.2801221632260096,complete_1,HMS,Family,EqualReads
+Pneumocystaceae,3.7463676920332887,2.6216980668135914,complete_1,HMS,Family,EqualReads
+Rhizopodaceae,0.3766817688972413,1.7124575970002682,complete_1,HMS,Family,EqualReads
+Saccharomycetaceae,18.212033663834408,5.249061696586415,complete_1,HMS,Family,EqualReads
+Trichocomaceae,0.3469469615939019,2.0595271954626826,complete_1,HMS,Family,EqualReads
+Trichosporonaceae,0.3991933362079835,2.2710795698532227,complete_1,HMS,Family,EqualReads
+Candida albicans,10.0,0.2642,small_1,HMS,Species,EqualCoverage
+Yarrowia lipolytica,10.0,0.0006,small_1,HMS,Species,EqualCoverage
+Aspergillus,10.0,0.6731,small_1,HMS,Genus,EqualCoverage
+Candida,10.0,0.2642,small_1,HMS,Genus,EqualCoverage
+Kluyveromyces,10.0,0.004,small_1,HMS,Genus,EqualCoverage
+Yarrowia,10.0,0.0549,small_1,HMS,Genus,EqualCoverage
+Aspergillaceae,10.0,67.31706883339854,small_1,HMS,Family,EqualCoverage
+Debaryomycetaceae,20.0,26.42070530873019,small_1,HMS,Family,EqualCoverage
+Dipodascaceae,10.0,5.491491611242778,small_1,HMS,Family,EqualCoverage
+Saccharomycetaceae,40.0,0.7505262170892031,small_1,HMS,Family,EqualCoverage
+Candida albicans,10.0,0.2354,small_2,HMS,Species,EqualCoverage
+Malassezia restricta,10.0,0.139,small_2,HMS,Species,EqualCoverage
+Paracoccidioides brasiliensis,10.0,0.5524,small_2,HMS,Species,EqualCoverage
+Candida,20.0,0.2364,small_2,HMS,Genus,EqualCoverage
+Debaryomyces,10.0,0.0474,small_2,HMS,Genus,EqualCoverage
+Kluyveromyces,10.0,0.0033,small_2,HMS,Genus,EqualCoverage
+Malassezia,10.0,0.1426,small_2,HMS,Genus,EqualCoverage
+Paracoccidioides,10.0,0.5522,small_2,HMS,Genus,EqualCoverage
+Debaryomycetaceae,30.0,28.400477779549444,small_2,HMS,Family,EqualCoverage
+Malasseziaceae,10.0,14.259996924899204,small_2,HMS,Family,EqualCoverage
+Saccharomycetaceae,30.0,0.6787288444454569,small_2,HMS,Family,EqualCoverage
+Candida albicans,10.0,0.1583,small_3,HMS,Species,EqualCoverage
+Fusarium falciforme,10.0,0.5581,small_3,HMS,Species,EqualCoverage
+Kluyveromyces marxianus,10.0,0.1362,small_3,HMS,Species,EqualCoverage
+Malassezia restricta,10.0,0.0936,small_3,HMS,Species,EqualCoverage
+Aspergillus,10.0,0.0086,small_3,HMS,Genus,EqualCoverage
+Candida,10.0,0.1583,small_3,HMS,Genus,EqualCoverage
+Debaryomyces,10.0,0.0319,small_3,HMS,Genus,EqualCoverage
+Fusarium,10.0,0.56,small_3,HMS,Genus,EqualCoverage
+Kluyveromyces,20.0,0.1362,small_3,HMS,Genus,EqualCoverage
+Malassezia,10.0,0.0961,small_3,HMS,Genus,EqualCoverage
+Aspergillaceae,10.0,0.8997659831584601,small_3,HMS,Family,EqualCoverage
+Debaryomycetaceae,20.0,19.021684921259087,small_3,HMS,Family,EqualCoverage
+Malasseziaceae,10.0,9.605672031151094,small_3,HMS,Family,EqualCoverage
+Nectriaceae,10.0,56.00257993976944,small_3,HMS,Family,EqualCoverage
+Pleosporaceae,10.0,0.30359848848138415,small_3,HMS,Family,EqualCoverage
+Saccharomycetaceae,30.0,13.819126081368807,small_3,HMS,Family,EqualCoverage
+Candida albicans,2.0,0.4654,median_1,HMS,Species,EqualCoverage
+Cryptococcus neoformans,2.0,0.3866,median_1,HMS,Species,EqualCoverage
+Aspergillus,8.0,0.0008,median_1,HMS,Genus,EqualCoverage
+Candida,4.0,0.4659,median_1,HMS,Genus,EqualCoverage
+Cryptococcus,4.0,0.4116,median_1,HMS,Genus,EqualCoverage
+Debaryomyces,2.0,0.0956,median_1,HMS,Genus,EqualCoverage
+Kluyveromyces,2.0,0.0121,median_1,HMS,Genus,EqualCoverage
+Malassezia,6.0,0.0008,median_1,HMS,Genus,EqualCoverage
+Cryptococcaceae,14.0,41.159303384094514,median_1,HMS,Family,EqualCoverage
+Debaryomycetaceae,10.0,56.16554497853431,median_1,HMS,Family,EqualCoverage
+Saccharomycetaceae,20.0,2.435002918424704,median_1,HMS,Family,EqualCoverage
+Arthroderma uncinatum,2.0,0.0937,median_2,HMS,Species,EqualCoverage
+Aspergillus lentulus,2.0,0.1446,median_2,HMS,Species,EqualCoverage
+Candida albicans,2.0,0.0495,median_2,HMS,Species,EqualCoverage
+Clavispora lusitaniae,2.0,0.0479,median_2,HMS,Species,EqualCoverage
+Cryptococcus gattii,2.0,0.1085,median_2,HMS,Species,EqualCoverage
+Fusarium falciforme,2.0,0.1737,median_2,HMS,Species,EqualCoverage
+Malassezia restricta,2.0,0.0291,median_2,HMS,Species,EqualCoverage
+Meyerozyma guilliermondii,2.0,0.042,median_2,HMS,Species,EqualCoverage
+Trichophyton rubrum,2.0,0.0772,median_2,HMS,Species,EqualCoverage
+Trichosporon asahii,2.0,0.087,median_2,HMS,Species,EqualCoverage
+Arthroderma,2.0,0.0936,median_2,HMS,Genus,EqualCoverage
+Aspergillus,8.0,0.22,median_2,HMS,Genus,EqualCoverage
+Candida,6.0,0.0506,median_2,HMS,Genus,EqualCoverage
+Clavispora,2.0,0.0479,median_2,HMS,Genus,EqualCoverage
+Cryptococcus,6.0,0.1353,median_2,HMS,Genus,EqualCoverage
+Cyberlindnera,2.0,0.0002,median_2,HMS,Genus,EqualCoverage
+Debaryomyces,2.0,0.0101,median_2,HMS,Genus,EqualCoverage
+Fusarium,2.0,0.1745,median_2,HMS,Genus,EqualCoverage
+Kluyveromyces,2.0,0.0009,median_2,HMS,Genus,EqualCoverage
+Malassezia,4.0,0.0302,median_2,HMS,Genus,EqualCoverage
+Meyerozyma,2.0,0.042,median_2,HMS,Genus,EqualCoverage
+Naumovozyma,2.0,0.0004,median_2,HMS,Genus,EqualCoverage
+Trichophyton,2.0,0.0893,median_2,HMS,Genus,EqualCoverage
+Trichosporon,2.0,0.0872,median_2,HMS,Genus,EqualCoverage
+Arthrodermataceae,4.0,18.289352235838063,median_2,HMS,Family,EqualCoverage
+Aspergillaceae,8.0,22.031534876885864,median_2,HMS,Family,EqualCoverage
+Cryptococcaceae,8.0,13.525526981019844,median_2,HMS,Family,EqualCoverage
+Debaryomycetaceae,16.0,10.278113988238024,median_2,HMS,Family,EqualCoverage
+Didymellaceae,2.0,0.37015691129722295,median_2,HMS,Family,EqualCoverage
+Malasseziaceae,4.0,3.0192618413026016,median_2,HMS,Family,EqualCoverage
+Metschnikowiaceae,2.0,4.814424494383932,median_2,HMS,Family,EqualCoverage
+Nectriaceae,2.0,17.449538995470213,median_2,HMS,Family,EqualCoverage
+Pleosporaceae,4.0,0.8687121875012576,median_2,HMS,Family,EqualCoverage
+Saccharomycetaceae,10.0,0.22332224025115108,median_2,HMS,Family,EqualCoverage
+Trichosporonaceae,2.0,8.726200286247126,median_2,HMS,Family,EqualCoverage
+Candida albicans,2.0,0.0314,median_3,HMS,Species,EqualCoverage
+Candida dubliniensis,2.0,0.0359,median_3,HMS,Species,EqualCoverage
+Candida orthopsilosis,2.0,0.0328,median_3,HMS,Species,EqualCoverage
+Candida tropicalis,2.0,0.0312,median_3,HMS,Species,EqualCoverage
+Cladophialophora bantiana,2.0,0.0918,median_3,HMS,Species,EqualCoverage
+Cladophialophora carrionii,2.0,0.0725,median_3,HMS,Species,EqualCoverage
+Cryptococcus deuterogattii,2.0,0.0437,median_3,HMS,Species,EqualCoverage
+Debaryomyces fabryi,2.0,0.0357,median_3,HMS,Species,EqualCoverage
+Fonsecaea monophora,2.0,0.085,median_3,HMS,Species,EqualCoverage
+Fonsecaea nubica,2.0,0.0838,median_3,HMS,Species,EqualCoverage
+Kluyveromyces marxianus,2.0,0.0269,median_3,HMS,Species,EqualCoverage
+Lodderomyces elongisporus,2.0,0.0397,median_3,HMS,Species,EqualCoverage
+Malassezia globosa,2.0,0.0224,median_3,HMS,Species,EqualCoverage
+Malassezia restricta,2.0,0.0183,median_3,HMS,Species,EqualCoverage
+Malassezia sympodialis,2.0,0.0196,median_3,HMS,Species,EqualCoverage
+Nakaseomyces glabratus,2.0,0.0311,median_3,HMS,Species,EqualCoverage
+Paracoccidioides brasiliensis,2.0,0.0728,median_3,HMS,Species,EqualCoverage
+Penicillium rubens,2.0,0.0751,median_3,HMS,Species,EqualCoverage
+Pichia kudriavzevii,2.0,0.027,median_3,HMS,Species,EqualCoverage
+Aspergillus,2.0,0.0799,median_3,HMS,Genus,EqualCoverage
+Blastomyces,2.0,0.0293,median_3,HMS,Genus,EqualCoverage
+Candida,10.0,0.138,median_3,HMS,Genus,EqualCoverage
+Cladophialophora,4.0,0.1642,median_3,HMS,Genus,EqualCoverage
+Cryptococcus,2.0,0.0438,median_3,HMS,Genus,EqualCoverage
+Debaryomyces,4.0,0.0357,median_3,HMS,Genus,EqualCoverage
+Fonsecaea,4.0,0.1724,median_3,HMS,Genus,EqualCoverage
+Kluyveromyces,4.0,0.0269,median_3,HMS,Genus,EqualCoverage
+Lodderomyces,2.0,0.0396,median_3,HMS,Genus,EqualCoverage
+Malassezia,6.0,0.0603,median_3,HMS,Genus,EqualCoverage
+Nakaseomyces,2.0,0.0314,median_3,HMS,Genus,EqualCoverage
+Paracoccidioides,2.0,0.0727,median_3,HMS,Genus,EqualCoverage
+Penicillium,2.0,0.0752,median_3,HMS,Genus,EqualCoverage
+Pichia,2.0,0.027,median_3,HMS,Genus,EqualCoverage
+Pneumocystis,2.0,0.0003,median_3,HMS,Genus,EqualCoverage
+Ajellomycetaceae,2.0,3.0762214461058135,median_3,HMS,Family,EqualCoverage
+Aspergillaceae,4.0,15.508740307084171,median_3,HMS,Family,EqualCoverage
+Cryptococcaceae,4.0,4.382272029967623,median_3,HMS,Family,EqualCoverage
+Debaryomycetaceae,26.0,21.33949498615137,median_3,HMS,Family,EqualCoverage
+Herpotrichiellaceae,8.0,33.66939565391473,median_3,HMS,Family,EqualCoverage
+Malasseziaceae,6.0,6.027340358369836,median_3,HMS,Family,EqualCoverage
+Pichiaceae,4.0,2.704250412009843,median_3,HMS,Family,EqualCoverage
+Saccharomycetaceae,18.0,5.853014082563924,median_3,HMS,Family,EqualCoverage

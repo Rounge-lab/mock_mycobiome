@@ -1,0 +1,13 @@
+V1
+Aspergillus	0.3062
+Candida	0.2562
+Clavispora	1e-04
+Debaryomyces	0.0655
+Kluyveromyces	0.0053
+Malassezia	0.3219
+Nakaseomyces	0.0036
+Naumovozyma	0.0011
+Pichia	1e-04
+Pneumocystis	3e-04
+Unclassified	3e-04
+Yarrowia	0.0391

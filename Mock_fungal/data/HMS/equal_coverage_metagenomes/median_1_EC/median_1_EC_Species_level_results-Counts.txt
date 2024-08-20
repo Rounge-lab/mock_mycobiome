@@ -1,0 +1,20 @@
+""
+"Aspergillus_latus"	577
+"Aspergillus_welwitschiae"	4
+"Candida_albicans"	327565
+"Candida_metapsilosis"	22
+"Candida_tropicalis"	506
+"Clavispora_lusitaniae"	128
+"Cryptococcus_deuterogattii"	10570
+"Cryptococcus_gattii"	7099
+"Cryptococcus_neoformans"	272153
+"Cyberlindnera_fabianii"	179
+"Debaryomyces_fabryi"	67287
+"Kluyveromyces_marxianus"	8547
+"Malassezia_globosa"	180
+"Malassezia_sympodialis"	362
+"Meyerozyma_guilliermondii"	108
+"Nakaseomyces_glabratus"	2647
+"Nakaseomyces_nivariensis"	3580
+"Naumovozyma_dairenensis"	2372
+"Pichia_kudriavzevii"	20
