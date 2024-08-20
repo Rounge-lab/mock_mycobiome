@@ -1,0 +1,36 @@
+Lineage	Rank	Name	TaxID	RPKS	Euk_fraction	Reads	Amt_marker_sequence
+phylum-Ascomycota	phylum	Ascomycota	4890	9.8136	39.5254	21824	2223847
+phylum-Ascomycota|class-Sordariomycetes	class	Sordariomycetes	147550	0.0223	0.0543	8	358312
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales	order	Hypocreales	5125	0.0223	0.0543	8	358312
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae	family	Nectriaceae	110618	0.0223	0.0413	8	358312
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium	genus	Fusarium	5506	0.0223	0.0278	8	358312
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium|species-Fusarium_metavorans	species	Fusarium metavorans	2421284	0.0115	0.012	4	347782
+phylum-Ascomycota|class-Eurotiomycetes	class	Eurotiomycetes	147545	4.3135	10.5001	1600	370932
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales	order	Eurotiales	5042	4.3135	10.5001	1600	370932
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae	family	Aspergillaceae	1131492	4.3135	7.9723	1600	370932
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus	genus	Aspergillus	5052	4.3135	5.3756	1600	370932
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_candidus	species	Aspergillus candidus	41067	4.4204	4.6208	1582	357885
+phylum-Ascomycota|class-Saccharomycetes	class	Saccharomycetes	4891	13.526	32.926	20216	1494603
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales	order	Saccharomycetales	4892	13.526	32.926	20216	1494603
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae	family	Saccharomycetaceae	4893	14.58	26.9472	12985	890601
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces	genus	Kluyveromyces	4910	14.8598	18.5189	8664	583049
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_marxianus	species	Kluyveromyces marxianus	4911	14.4577	15.1129	4246	293685
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	species	Kluyveromyces lactis	28985	15.268	15.96	4418	289364
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces	genus	Saccharomyces	4930	14.0497	17.5093	4321	307552
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	species	Saccharomyces cerevisiae	4932	14.0497	14.6864	4321	307552
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae	family	Debaryomycetaceae	766764	11.9718	22.1266	7231	604002
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces	genus	Debaryomyces	4958	12.7431	15.881	4222	331317
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	species	Debaryomyces hansenii	4959	12.991	13.5798	4217	324609
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida	genus	Candida	1535326	11.0347	13.7519	3009	272685
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	species	Candida albicans	5476	11.2477	11.7575	3002	266898
+phylum-Basidiomycota	phylum	Basidiomycota	5204	15.0151	60.4746	7959	530068
+phylum-Basidiomycota|class-Malasseziomycetes	class	Malasseziomycetes	1538075	22.4479	54.6444	7819	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales	order	Malasseziales	162474	22.4479	54.6444	7819	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae	family	Malasseziaceae	742845	22.4479	41.4889	7819	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia	genus	Malassezia	55193	22.4479	27.9756	7819	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	species	Malassezia restricta	76775	22.4479	23.4654	7819	348317
+phylum-Basidiomycota|class-Tremellomycetes	class	Tremellomycetes	155616	0.7703	1.8751	140	181751
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales	order	Tremellales	5234	0.7703	1.8751	140	181751
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae	family	Cryptococcaceae	1884633	0.7703	1.4237	140	181751
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella	genus	Kwoniella	490731	0.7703	0.96	140	181751
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella|species-Kwoniella_mangrovensis	species	Kwoniella mangrovensis	463800	0.7703	0.8052	140	181751

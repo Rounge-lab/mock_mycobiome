@@ -1,0 +1,22 @@
+
+Aspergillaceae	9726
+Cladosporiaceae	11
+Cordycipitaceae	3
+Corynesporascaceae	33
+Cryptococcaceae	380
+Cucurbitariaceae	291
+Debaryomycetaceae	202827
+Didymellaceae	243
+Malasseziaceae	202866
+Metschnikowiaceae	153
+Microascaceae	15
+Nectriaceae	162747
+Pichiaceae	12
+Pleosporaceae	1178
+Pneumocystaceae	133
+Saccharomycetaceae	196528
+Saccotheciaceae	3
+Sporocadaceae	15
+Stachybotryaceae	39
+Trichosporonaceae	3
+Unclassified	114

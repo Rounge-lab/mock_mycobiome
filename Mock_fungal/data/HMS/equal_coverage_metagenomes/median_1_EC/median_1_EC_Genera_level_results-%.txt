@@ -1,0 +1,13 @@
+V1
+Aspergillus	8e-04
+Candida	0.4659
+Clavispora	2e-04
+Cryptococcus	0.4116
+Cyberlindnera	3e-04
+Debaryomyces	0.0956
+Kluyveromyces	0.0121
+Malassezia	8e-04
+Meyerozyma	2e-04
+Nakaseomyces	0.0088
+Naumovozyma	0.0034
+Unclassified	3e-04

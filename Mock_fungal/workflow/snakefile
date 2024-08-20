@@ -1,0 +1,109 @@
+configfile: "config/config.yaml"
+
+import os
+genomelist=os.listdir(config['genomes'])
+profiles=['small_1_EC','small_2_EC','small_3_EC','median_1_EC','median_2_EC','median_3_EC','large_1_EC','large_2_EC','complete_1_EC']
+#profiles=['small_1','small_2']
+
+rule all:
+    input:
+        #expand("log/simdata/{genome}.txt", genome=genomelist),
+        #expand('log/simmetagenome/{profile}.flag',profile=profiles),
+        expand("data/kraken/equal_coverage_metagenomes/{profile}_report.txt",profile=profiles),
+        expand("data/metaphlan/equal_coverage_metagenomes/{profile}_metarep.txt",profile=profiles)
+        
+rule art_illumina:
+    input:
+        infile=config['genomes']+"/{genome}"
+    output:
+        logfile="log/simdata/{genome}.txt"
+    threads:
+        4
+    params:
+        outprefix="data/simdata/{genome}_",
+        seqpl="HS25",
+        numreads=1010000,
+        length=150,
+        meansize=300,
+        stdev=100,
+        minqual=30,
+        maxqual=40,
+        seed=1234      
+    shell:
+        """
+        art_illumina \
+            -i {input.infile} \
+            -ss {params.seqpl} \
+            -c {params.numreads} \
+            -l {params.length}\
+            -m {params.meansize} \
+            -s {params.stdev} \
+            --paired \
+            -qL {params.minqual} \
+            -qU {params.maxqual} \
+            -rs {params.seed} \
+            -o {params.outprefix} > {output.logfile}
+
+        rm *.aln
+        """
+
+rule generate_metagenomes:
+    input:
+        infile=config['profdir']+'/{profile}.csv'
+    output:
+        outfile='log/simmetagenome/{profile}.flag'
+    params:
+        #profile=lambda wildcards: wildcards.profiles,
+        simfol="data/simdata",
+        outfolname="equal_coverage_metagenomes",
+        seed=1234
+    shell:
+        """
+        python workflow/scripts/simulate_metagenome.py \
+        --profile {input.infile} \
+        --simfol {params.simfol}\
+        --outfol {params.outfolname} \
+        --seed {params.seed}
+
+        touch {output.outfile}
+        """
+
+rule classify_kraken:
+    input:
+        outfile='log/simmetagenome/{profile}.flag'
+    output:
+        out="data/kraken/equal_coverage_metagenomes/{profile}.txt",
+        rep="data/kraken/equal_coverage_metagenomes/{profile}_report.txt"
+    params:
+        inF="data/equal_coverage_metagenomes/{profile}_1.fq",
+        inR="data/equal_coverage_metagenomes/{profile}_2.fq",
+        db=config['kraken']
+    shell:
+        """
+        kraken2 {params.inF} {params.inR} --paired --use-names \
+         --use-mpa-style --output {output.out} --report {output.rep} \
+         --db {params.db}
+        """
+
+rule classify_metaphlan:
+    input:
+        outfile='log/simmetagenome/{profile}.flag'
+    output:
+        out="data/metaphlan/equal_coverage_metagenomes/{profile}_metarep.txt"
+    threads:
+        10
+    params:
+        inF="/fp/projects01/ec34/katya/projects/Mock_fungal/data/equal_coverage_metagenomes/{profile}_1.fq",
+        inR="/fp/projects01/ec34/katya/projects/Mock_fungal/data/equal_coverage_metagenomes/{profile}_2.fq",
+        db=config['metaphlan'],
+        bowout="data/metaphlan/equal_coverage_metagenomes/{profile}.bz2"
+    shell:
+        """
+        #pwd
+        metaphlan --input_type fastq \
+        -o {output.out} --bowtie2db {params.db} --bowtie2out {params.bowout} \
+        --nproc {threads} {params.inF},{params.inR}
+
+        """
+
+

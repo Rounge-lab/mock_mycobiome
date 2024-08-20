@@ -1,0 +1,12 @@
+Name	Rank	Lineage	Taxid	Observed_markers	Read_counts	Percent_observed_markers	Total_marker_coverage	Percent_identity
+Kluyveromyces marxianus DMKU3-1042	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_marxianus	1003335	163	6364	100.0%	87.6%	99.8%
+Kluyveromyces lactis	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	28985	163	6373	100.0%	86.86%	99.8%
+Candida albicans SC5314	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	237561	167	5723	100.0%	87.62%	99.89%
+Debaryomyces hansenii CBS767	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	284592	183	7142	100.0%	87.16%	99.83%
+Saccharomyces cerevisiae S288C	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	559292	182	6848	100.0%	90.5%	99.88%
+Malassezia restricta	species	phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	76775	149	7534	99.33%	87.29%	99.76%
+Aspergillus candidus	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_candidus	41067	194	5797	96.52%	76.48%	99.96%
+Kwoniella mangroviensis CBS 8507	species	phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella|species-Kwoniella_mangrovensis	1296122	86	454	46.74%	15.32%	97.22%
+Fusarium solani	species	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium|species-Fusarium_solani	169388	7	36	3.61%	9.7%	97.24%
+Fusarium solani species complex	species group	phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium	232080	4	9	1.17%	5.35%	97.79%
+Aspergillus	genus	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus	5052	3	5	0.16%	19.4%	99.84%

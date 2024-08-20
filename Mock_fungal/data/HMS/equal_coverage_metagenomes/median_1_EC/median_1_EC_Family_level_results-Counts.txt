@@ -1,0 +1,9 @@
+
+Aspergillaceae	581
+Cryptococcaceae	289822
+Debaryomycetaceae	395488
+Malasseziaceae	542
+Metschnikowiaceae	369
+Phaffomycetaceae	179
+Pichiaceae	20
+Saccharomycetaceae	17146

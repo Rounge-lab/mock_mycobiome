@@ -1,0 +1,33 @@
+Lineage	Rank	Name	TaxID	RPKS	Euk_fraction	Reads	Amt_marker_sequence
+phylum-Ascomycota	phylum	Ascomycota	4890	17.3885	44.565	46878	2695925
+phylum-Ascomycota|class-Eurotiomycetes	class	Eurotiomycetes	147545	4.9954	8.3641	1965	393364
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales	order	Eurotiales	5042	4.9954	8.3641	1965	393364
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae	family	Aspergillaceae	1131492	4.9954	4.9048	1965	393364
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus	genus	Aspergillus	5052	4.9954	3.4527	1965	393364
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_niger	species	Aspergillus niger	5061	4.7997	3.2146	622	129592
+phylum-Ascomycota|class-Sordariomycetes	class	Sordariomycetes	147550	11.8485	19.8388	5063	427310
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales	order	Sordariales	5139	11.8485	19.8388	5063	427310
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae	family	Sordariaceae	5148	11.8485	11.6337	5063	427310
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora	genus	Neurospora	5140	11.8485	8.1894	5063	427310
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora|species-Neurospora_tetrasperma	species	Neurospora tetrasperma	40127	14.6711	9.8261	4890	333309
+phylum-Ascomycota|class-Saccharomycetes	class	Saccharomycetes	4891	21.2505	35.5811	39850	1875251
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales	order	Saccharomycetales	4892	21.2505	35.5811	39850	1875251
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae	family	Dipodascaceae	34353	20.7208	20.3451	7206	347766
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae|genus-Yarrowia	genus	Yarrowia	4951	20.7208	14.3218	7206	347766
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae|genus-Yarrowia|species-Yarrowia_lipolytica	species	Yarrowia lipolytica	4952	20.8932	13.9934	7204	344802
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae	family	Debaryomycetaceae	766764	21.1021	20.7194	12888	610746
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces	genus	Debaryomyces	4958	21.4698	14.8395	7153	333165
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	species	Debaryomyces hansenii	4959	21.8773	14.6526	7142	326457
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida	genus	Candida	1535326	20.6606	14.2801	5735	277581
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	species	Candida albicans	5476	21.2001	14.199	5723	269952
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae	family	Saccharomycetaceae	4893	21.5503	21.1595	19756	916739
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces	genus	Saccharomyces	4930	21.3317	14.744	13383	627375
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	species	Saccharomyces cerevisiae	4932	22.212	14.8767	6848	308302
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces	genus	Kluyveromyces	4910	22.0242	15.2226	6373	289364
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	species	Kluyveromyces lactis	28985	22.0242	14.7509	6373	289364
+phylum-Basidiomycota	phylum	Basidiomycota	5204	21.6297	55.435	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes	class	Malasseziomycetes	1538075	21.6297	36.2161	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales	order	Malasseziales	162474	21.6297	36.2161	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae	family	Malasseziaceae	742845	21.6297	21.2375	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia	genus	Malassezia	55193	21.6297	14.95	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	species	Malassezia restricta	76775	21.6297	14.4867	7534	348317

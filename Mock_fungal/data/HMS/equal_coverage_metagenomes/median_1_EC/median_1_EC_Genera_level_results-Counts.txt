@@ -1,0 +1,14 @@
+V1
+Aspergillus	581
+Candida	328093
+Clavispora	128
+Cryptococcus	289822
+Cyberlindnera	179
+Debaryomyces	67287
+Kluyveromyces	8547
+Malassezia	542
+Meyerozyma	108
+Nakaseomyces	6227
+Naumovozyma	2372
+Pichia	20
+Unclassified	241

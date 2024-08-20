@@ -1,0 +1,29 @@
+Lineage	Rank	Name	TaxID	RPKS	Euk_fraction	Reads	Amt_marker_sequence
+phylum-Basidiomycota	phylum	Basidiomycota	5204	17.4004	49.1395	12265	704868
+phylum-Basidiomycota|class-Malasseziomycetes	class	Malasseziomycetes	1538075	21.6297	31.653	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales	order	Malasseziales	162474	21.6297	31.653	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia	genus	Malassezia	55193	21.6297	13.0038	7534	348317
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	species	Malassezia restricta	76775	21.6297	12.9996	7534	348317
+phylum-Basidiomycota|class-Agaricomycetes	class	Agaricomycetes	155619	13.2688	19.4176	4731	356551
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales	order	Agaricales	5338	13.2688	19.4176	4731	356551
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales|family-Schizophyllaceae|genus-Schizophyllum	genus	Schizophyllum	5333	13.2688	7.9772	4731	356551
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales|family-Schizophyllaceae|genus-Schizophyllum|species-Schizophyllum_commune	species	Schizophyllum commune	5334	13.2688	7.9746	4731	356551
+phylum-Ascomycota	phylum	Ascomycota	4890	18.0099	50.8605	42565	2363427
+phylum-Ascomycota|class-Saccharomycetes	class	Saccharomycetes	4891	21.554	31.5422	32276	1497448
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales	order	Saccharomycetales	4892	21.554	31.5422	32276	1497448
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces	genus	Debaryomyces	4958	21.4698	12.9077	7153	333165
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	species	Debaryomyces hansenii	4959	21.8773	13.1484	7142	326457
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida	genus	Candida	1535326	20.6606	12.4212	5735	277581
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	species	Candida albicans	5476	21.2001	12.7414	5723	269952
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces	genus	Saccharomyces	4930	22.0635	13.2646	6851	310513
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	species	Saccharomyces cerevisiae	4932	22.212	13.3495	6848	308302
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Tetrapisispora	genus	Tetrapisispora	113604	21.4905	12.9201	6164	286825
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Tetrapisispora|species-Tetrapisispora_blattae	species	Tetrapisispora blattae	1071379	21.4905	12.9159	6164	286825
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces	genus	Kluyveromyces	4910	22.0242	13.2409	6373	289364
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	species	Kluyveromyces lactis	28985	22.0242	13.2366	6373	289364
+phylum-Ascomycota|class-Eurotiomycetes	class	Eurotiomycetes	147545	11.8814	17.3872	10289	865979
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales	order	Onygenales	33183	11.8814	17.3872	10289	865979
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|genus-Coccidioides	genus	Coccidioides	5500	10.9638	6.5915	4652	424305
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|genus-Coccidioides|species-Coccidioides_posadasii	species	Coccidioides posadasii	199306	7.58	4.5556	1586	209235
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|genus-Paracoccidioides	genus	Paracoccidioides	38946	12.7628	7.673	5637	441674
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|genus-Paracoccidioides|species-Paracoccidioides_brasiliensis	species	Paracoccidioides brasiliensis	121759	15.1053	9.0784	5385	356498

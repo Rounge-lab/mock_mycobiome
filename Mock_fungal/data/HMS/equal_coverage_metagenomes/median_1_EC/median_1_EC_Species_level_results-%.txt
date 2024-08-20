@@ -1,0 +1,17 @@
+""
+"Aspergillus_latus"	8e-04
+"Candida_albicans"	0.4654
+"Candida_tropicalis"	7e-04
+"Clavispora_lusitaniae"	2e-04
+"Cryptococcus_deuterogattii"	0.015
+"Cryptococcus_gattii"	0.0101
+"Cryptococcus_neoformans"	0.3866
+"Cyberlindnera_fabianii"	3e-04
+"Debaryomyces_fabryi"	0.0956
+"Kluyveromyces_marxianus"	0.0121
+"Malassezia_globosa"	3e-04
+"Malassezia_sympodialis"	5e-04
+"Meyerozyma_guilliermondii"	2e-04
+"Nakaseomyces_glabratus"	0.0038
+"Nakaseomyces_nivariensis"	0.0051
+"Naumovozyma_dairenensis"	0.0034
