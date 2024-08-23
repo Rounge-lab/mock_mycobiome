@@ -1,8 +1,8 @@
 # Mock mycobiome communities - metagenomic data generation and analysis
 
-### This is a collection of all scripts and resulting files related to "Challenges in capturing the mycobiome from shotgun metagenomic data" publication by [Avershina et al., 2024](INSERT_LINK_HERE)
+This is a collection of all scripts and resulting files related to **"Challenges in capturing the mycobiome from shotgun metagenomic data: lack of software and databases"** publication 
 
-Fastq files generated here are deposited in European Nucleotide Archive under [PRJEB79245](https://www.ebi.ac.uk/ena/browser/home)
+Fastq files are deposited in European Nucleotide Archive under [PRJEB79245](https://www.ebi.ac.uk/ena/browser/home)
 
 ### Contents
 
@@ -22,17 +22,17 @@ Fastq files generated here are deposited in European Nucleotide Archive under [P
 
     b) `manually_added_taxa.csv`: List of fungal species manually added to the list of taxIDs
 
-    c) `genomes_to_download.csv`: List of species IDs that were searched throuh the NCBI RefSeq database - generated using ./scripts/data_analysis/prepare_fastas.py
+    c) `genomes_to_download.csv`: List of species IDs that were searched through the NCBI RefSeq database - generated using `./scripts/data_analysis/prepare_fastas.py`
 
-    d) final_genomes_summary.csv: List of species IDs that had genome assembly deposited in the NCBI RefSeq - generated using ./scripts/data_analysis/prepare_fastas.py
+    d) `final_genomes_summary.csv`: List of species IDs that had genome assembly deposited in the NCBI RefSeq - generated using `./scripts/data_analysis/prepare_fastas.py`
 
-    e) metadata_ufcg.csv: Genome metadata file prepared for the UFCG phylogenetic tree generation
+    e) `metadata_ufcg.csv`: Genome metadata file prepared for the UFCG phylogenetic tree generation
 
-    f) `./profiles`: Equal reads mock community profiles - generated using ./scripts/data_analysis/prepare_fastas.py
+    f) `./profiles`: Equal reads mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
 
-    g) `./profiles_equal_cov`: Equal coverage mock community profiles - generated using ./scripts/data_analysis/prepare_fastas.py
+    g) `./profiles_equal_cov`: Equal coverage mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
 
-4. `./workflow`: Snakefile for mock communities sequencing data generation, taxonomy classification and scripts related to data analysis. The description of the scripts is provided in [Data analysis](#data-analysis).
+4. `./workflow`: Snakefile for mock communities sequencing data generation, taxonomy classification and scripts related to data analysis. Detailed info is provided in [Data analysis](#data-analysis).
 
 5. `./data`: All figures and tables generated during the analysis of mock communities data
 
@@ -49,8 +49,7 @@ Fastq files generated here are deposited in European Nucleotide Archive under [P
 
 ### Data analysis
 
-All other analyses were performed in Python v3.12 using Spyder IDE v5.5.4 unless stated otherwise.
-All scripts are located in `./workflow/scripts/data_analysis`. 
+Analyses were performed in Python v3.12 using Spyder IDE v5.5.4 unless stated otherwise. All scripts are located in `./workflow/scripts` and `./workflow/scripts/data_analysis`. 
 
 1. `prepare_fastas.py` - Download allspecies taxids, download NCBI RefSeq genomes, concatenate genome contigs in each file, and create profiles for the mock communities. Note that the script is dependent on the [ncbi-datasets](https://github.com/ncbi/datasets) conda environment
 
@@ -59,17 +58,20 @@ All scripts are located in `./workflow/scripts/data_analysis`.
     cd ./Mock_fungal
     snakemake
 ```
-The EukDetect and the HumanMycobiomeScan (MycobiomeScan v2.0) classifications are performed independently using the original pipeline/script. Configuration scripts used for EukDetect are located in `./mock_conda/eukdetect_equal_{reads/coverage}.yaml`
+The EukDetect and the HumanMycobiomeScan (MycobiomeScan v2.0) classifications are performed independently using the original pipeline/commands. Configuration scripts for EukDetect are located in `./mock_conda/eukdetect_equal_{reads/coverage}.yaml`
 
 3. `{kraken/metaphlan/hms/eukdetect}_summary.py` - Summarize taxonomy predictions on species/genus and family levels; find true and false positives. These summaries will be used further for all the analyses
 
-4. `abundance_estimation.py` - Calculate relative abundance on different taxonomy levels; calculate RMSE; compare equal reads vs equal coverage predictions; generate boxplot (Figure 2b)
+4. `check_presence_database.py` - Find which mock community species are deposited in the databases; make a summary of genomes characteristics (*Figure 1*)
 
-5. `summarize_prec_recall.py` - Calculate precision, recall and F1 score for all tools; compare equal reads vs equal coverage predictions; generate boxplot (Figure 2a); Calculate Pearson correlation to community richness (Figure 2c). Note that for this part, RMSE results from `abundance_estimation.py` should be available
+5. `abundance_estimation.py` - Calculate relative abundance on different taxonomy levels; calculate RMSE; compare equal reads vs equal coverage predictions; generate boxplot (*Figure 2b*)
 
-6. `check_presence_database.py` - Find which mock community species are deposited in the databases; make a summary of genomes characteristics (Figure 1)
+6. `summarize_prec_recall.py` - Calculate precision, recall and F1 score for all tools; compare equal reads vs equal coverage predictions; generate boxplot (*Figure 2a*); Calculate Pearson correlation to community richness (*Figure 2c*). Note that for this part, RMSE results from `abundance_estimation.py` should be available
 
-7. `ER_EC_detection.py` - Find which species/genera/families were differentially detected between equal reads and equal coverage mock communities by tested tools
+7. `create_datasets_itol.py` - Generate files for visualization of phylogenetic tree with [iTOL](https://itol.embl.de) (used for *Figure 3a*)
 
-8. `create_datasets_itol.py` - Generate files for visualization of phylogenetic tree with iTOL
+8. `taxa_detection.py` - Find which species/genera/families were differentially detected between equal reads and equal coverage mock communities by tested tools; which genera are not detected in case there are more than 1 species per genus (*Figure 3b*); presense of unidentified genera in the databases
+
+
+
 
