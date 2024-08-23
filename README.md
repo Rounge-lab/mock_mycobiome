@@ -1,8 +1,6 @@
 # Mock mycobiome communities - metagenomic data generation and analysis
 
-This is a collection of all scripts and resulting files related to ***"Challenges in capturing the mycobiome from shotgun metagenomic data: lack of software and databases"***.  
-
-Fastq files are deposited in [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) under PRJEB79245
+A collection of all scripts and resulting files related to ***"Challenges in capturing the mycobiome from shotgun metagenomic data: lack of software and databases"***.  Fastq files are deposited in [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) under PRJEB79245
 
 ### Contents
  
@@ -28,9 +26,9 @@ Fastq files are deposited in [European Nucleotide Archive](https://www.ebi.ac.uk
 
     e) `metadata_ufcg.csv`: Genome metadata file prepared for the UFCG phylogenetic tree generation
 
-    f) `/profiles`: Equal reads mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
+    f) `/profiles`: Equal reads mock community profiles - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-    g) `/profiles_equal_cov`: Equal coverage mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
+    g) `/profiles_equal_cov`: Equal coverage mock community profiles - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
 4. `./Mock_fungal/workflow`: Snakefile for mock communities sequencing data generation, taxonomy classification and scripts related to data analysis. Detailed info is provided in [Data analysis](#data-analysis).
 
