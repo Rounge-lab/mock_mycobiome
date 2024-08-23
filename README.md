@@ -10,46 +10,46 @@ Fastq files are deposited in [European Nucleotide Archive](https://www.ebi.ac.uk
 - [Data analysis](#data-analysis)
 
 ### Folder structure
-1. `./mock_conda`: 
+1. `./Mock_fungal/mock_conda`: 
     
     a) `snakemake_conda.yaml`: configuration file for conda environment with snakemake and all dependencies (ART/Kraken2/MetaPhlAn4) for mock data generation and Kraken2/MetaPhlAn4 taxonomy analysis
 
     b) `eukdetect_equal_{reads/coverage}.yaml`: configuration files used for taxonomy classification with EukDetect
-2. `./config`: configuration file for the Snakemake
-3. `./mock_profiles`: 
+2. `./Mock_fungal/config`: configuration file for the Snakemake
+3. `./Mock_fungal/mock_profiles`: 
 
     a) `unicellular_classes.tsv`: List of taxIDs for unicellular classes within Ascomycota and Basidiomycota that were initially searched for
 
     b) `manually_added_taxa.csv`: List of fungal species manually added to the list of taxIDs
 
-    c) `genomes_to_download.csv`: List of species IDs that were searched through the NCBI RefSeq database - generated using `./scripts/data_analysis/prepare_fastas.py`
+    c) `genomes_to_download.csv`: List of species IDs that were searched through the NCBI RefSeq database - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-    d) `final_genomes_summary.csv`: List of species IDs that had genome assembly deposited in the NCBI RefSeq - generated using `./scripts/data_analysis/prepare_fastas.py`
+    d) `final_genomes_summary.csv`: List of species IDs that had genome assembly deposited in the NCBI RefSeq - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
     e) `metadata_ufcg.csv`: Genome metadata file prepared for the UFCG phylogenetic tree generation
 
-    f) `./profiles`: Equal reads mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
+    f) `/profiles`: Equal reads mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
 
-    g) `./profiles_equal_cov`: Equal coverage mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
+    g) `/profiles_equal_cov`: Equal coverage mock community profiles - generated using `./scripts/data_analysis/prepare_fastas.py`
 
-4. `./workflow`: Snakefile for mock communities sequencing data generation, taxonomy classification and scripts related to data analysis. Detailed info is provided in [Data analysis](#data-analysis).
+4. `./Mock_fungal/workflow`: Snakefile for mock communities sequencing data generation, taxonomy classification and scripts related to data analysis. Detailed info is provided in [Data analysis](#data-analysis).
 
-5. `./data`: All figures and tables generated during the analysis of mock communities data
+5. `./Mock_fungal/data`: All figures and tables generated during the analysis of mock communities data
 
-    a)`./data/kraken` - Kraken2 reports and their summary
+    a)`/kraken` - Kraken2 reports and their summary
 
-    b)`./data/metaphlan` - MetaPhlAn4 reports and their summary
+    b)`/metaphlan` - MetaPhlAn4 reports and their summary
 
-    c) `./data/eukdetect` - EukDetect reports and their summary
+    c) `/eukdetect` - EukDetect reports and their summary
 
-    d)`./data/HMS` - MycobiomeScan2.0 reports and their summary
+    d)`HMS` - MycobiomeScan2.0 reports and their summary
 
-    e)`./data/all_methods_summary` - Statistics, summary reports and figures 
+    e)`/all_methods_summary` - Statistics, summary reports and figures 
 
 
 ### Data analysis
 
-All python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). Scripts are located in `./workflow/scripts` and `./workflow/scripts/data_analysis`. 
+All python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). Scripts are located in `./Mock_fungal/workflow/scripts` and `./Mock_fungal/workflow/scripts/data_analysis`. 
 
 1. `prepare_fastas.py` - Download species taxids based on class taxids; download existing NCBI RefSeq genomes; concatenate contigs in each fasta file; and create profiles for the mock communities. Note that the script is dependent on the [ncbi-datasets](https://github.com/ncbi/datasets) conda environment
 
@@ -59,7 +59,7 @@ All python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). Scripts
     snakemake
 ```
 
-3. The EukDetect and the HumanMycobiomeScan (MycobiomeScan v2.0) classifications are performed independently using the original pipeline/commands. Configuration scripts for EukDetect are located in `./mock_conda/eukdetect_equal_{reads/coverage}.yaml`
+3. The EukDetect and the HumanMycobiomeScan (MycobiomeScan v2.0) classifications are performed independently using the original pipeline/commands. Configuration scripts for EukDetect are located in `./Mock_fungal/mock_conda/eukdetect_equal_{reads/coverage}.yaml`
 
 4. `{kraken/metaphlan/hms/eukdetect}_summary.py` - Summarize taxonomy predictions on species/genus and family levels; find true and false positives. These summaries will be used further for all the analyses
 
