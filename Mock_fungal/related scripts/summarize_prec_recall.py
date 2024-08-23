@@ -15,10 +15,10 @@ from scipy.stats import pearsonr
 from statsmodels.stats.multitest import multipletests
 
 
-wdir='/FULL_PATH_TO/Mock_fungal/data/'
+wdir='/FULL_PATH_TO/Mock_fungal/data/' # NB! CHANGE TO LOCAL PATH
 tool=['kraken','metaphlan','eukdetect','HMS']
 com=['EqualReads','EqualCoverage']
-resdir='/FULL_PATH_TO/data/all_methods_summary'
+resdir='/FULL_PATH_TO/data/all_methods_summary' # NB! CHANGE TO LOCAL PATH
 
 global wdir,tool,com
 

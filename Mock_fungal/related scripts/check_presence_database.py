@@ -12,12 +12,17 @@ import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
 
-profdir='FULL_PATH_TO/Mock_fungal/mock_profiles'
+profdir='FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
+krdb=pd.read_csv('/PATH_TO_DATABASES/db/kraken-PlusPF/library_report.tsv',sep='\t') # NB! CHANGE TO LOCAL PATH
+metadb=pd.read_csv('/PATH_TO_DATABASES/db/biobakery/jun24/metaphlan/mpa_vJun23_CHOCOPhlAnSGB_202307_species.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
+hmsdb=pd.read_csv('/PATH_TO_HMS/tools/MScan2.0/HMS/var/HMS_taxonomy.txt',sep='\t') # NB! CHANGE TO LOCAL PATH
+eukdb=pd.read_csv('/PATH_TO_EUKDETECT/EukDetect/eukdb/busco_taxid_link.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
+
 taxonomy=pd.read_csv('/'.join([profdir,'metadata_ufcg_full.csv']),sep='\t')
 taxonomy[['domain','phylum','class','order','family','genus','species']] = taxonomy['taxonomy'].str.split(';', expand=True)
 
 dbsum=pd.DataFrame({'TotalSpecies':[],'Fungi':[],'MockSpecies':[]})
-krdb=pd.read_csv('/PATH_TO_DATABASES/db/kraken-PlusPF/library_report.tsv',sep='\t') # NB! CHANGE TO LOCAL PATH
+
 krdb=krdb.drop(columns='URL')
 krdb['Species']=krdb['Sequence Name'].apply(lambda row: ' '.join(row.split(' ')[1:3]))
 dbsum.at['Kraken','TotalSpecies']=len(krdb['Species'].unique().tolist())
@@ -27,7 +32,6 @@ dbsum.at['Kraken','Fungi']=len(krspecies)
 taxonomy['In_KrakenDb']=taxonomy['species'].apply(lambda row: 'Yes' if row in krspecies else 'No')
 dbsum.at['Kraken','MockSpecies']=len(taxonomy.loc[taxonomy['In_KrakenDb']=='Yes'])
 
-metadb=pd.read_csv('/PATH_TO_DATABASES/db/biobakery/jun24/metaphlan/mpa_vJun23_CHOCOPhlAnSGB_202307_species.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
 metadb.columns=['SGB','Taxon']
 metadb['species']=metadb['Taxon'].apply(lambda row: row.split('s__')[-1])
 metadb['species']=metadb['species'].apply(lambda row: row.replace('_',' '))
@@ -38,7 +42,6 @@ metaspecies=metadb['species'].unique().tolist()
 taxonomy['In_MetaDb']=taxonomy['species'].apply(lambda row: 'Yes' if row in metaspecies else 'No')
 dbsum.at['Metaphlan','MockSpecies']=len(taxonomy.loc[taxonomy['In_MetaDb']=='Yes'])
 
-hmsdb=pd.read_csv('/PATH_TO_HMS/tools/MScan2.0/HMS/var/HMS_taxonomy.txt',sep='\t') # NB! CHANGE TO LOCAL PATH
 hmsdb['species']=hmsdb['species'].apply(lambda row: row.replace('_',' '))
 hmsdb['species']=hmsdb['species'].apply(lambda row: row.replace('[',''))
 hmsdb['species']=hmsdb['species'].apply(lambda row: row.replace(']',''))
@@ -48,7 +51,6 @@ hmsspecies=hmsdb['species'].unique().tolist()
 taxonomy['In_HMSDb']=taxonomy['species'].apply(lambda row: 'Yes' if row in hmsspecies else 'No')
 dbsum.at['HMS','MockSpecies']=len(taxonomy.loc[taxonomy['In_HMSDb']=='Yes'])
 
-eukdb=pd.read_csv('/PATH_TO_EUKDETECT/EukDetect/eukdb/busco_taxid_link.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
 eukdb.columns=['ID','Rec']
 eukdb['group']=eukdb['ID'].apply(lambda row: row.split('-')[0])
 eukdb['name']=eukdb['ID'].apply(lambda row: row.split('-')[1] if '-' in row else row)
@@ -63,7 +65,6 @@ dbsum.at['EukDetect','MockSpecies']=len(taxonomy.loc[taxonomy['In_EukDb']=='Yes'
 taxonomy[['accession','label','In_KrakenDb','In_MetaDb','In_HMSDb','In_EukDb']].to_csv('/'.join([profdir,'metadata_Db_presence.csv']),sep='\t',index=False)
 taxonomy.loc[taxonomy['genus'].str.contains('Encephalitozoon'),'class']='Microsporea'
 
-
 #Make a summary plot
 fig, (ax1, ax2,ax3) = plt.subplots(1, 3)
 classsum=taxonomy['class'].value_counts().to_frame().reset_index()
@@ -74,27 +75,8 @@ ax2.set(yticklabels='',ylabel='',xlabel='Genome length, bp', xlim=[10**6,10**8])
 sb.boxplot(data=taxonomy, x='PercCoreGenes',y='class',color='#6b519d',ax=ax3,order=classsum['class'])
 ax3.set(yticklabels='',ylabel='',xlabel='Universal core genes, %')
 
-#Make stacked barplot
+#Make stacked barplot of database structure
 dbsum_norm = dbsum.div(dbsum.sum(axis=1), axis=0) * 100
-
 ax = dbsum_norm.plot(kind='barh', stacked=True, figsize=(7, 4), color=['#6b519d','#ff66c4','#7ed957'])
 ax.legend().remove()
 
-
-#Make pie plots
-dbsum['TotalSpecies']=dbsum['TotalSpecies']-dbsum['Fungi']
-dbsum['Fungi']=dbsum['Fungi']-dbsum['MockSpecies']
-
-num_rows = dbsum.shape[0]
-fig, axes = plt.subplots(1, num_rows, figsize=(num_rows * 5, 5))
-
-# Plot each row as a separate pie chart
-for i, (index, row) in enumerate(dbsum.iterrows()):
-    axes[i].pie(row, labels=['','',''], startangle=90, colors=['#6b519d','#ff66c4','#7ed957'])
-    axes[i].set_title(f'{index}')
-
-# Adjust layout
-plt.tight_layout()
-
-# Show the plot
-plt.show()

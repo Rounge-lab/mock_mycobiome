@@ -13,9 +13,9 @@ import os
 import seaborn as sb
 import matplotlib.pyplot as plt
 
-profdir='/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles' #if equal reads; else profiles_equal_cov AND remember to change the last line of the script
-krdir='/FULL_PATH_TO/Mock_fungal/data/kraken/equal_reads_metagenomes'
-taxonomy=pd.read_csv('/FULL_PATH_TO/Mock_fungal/mock_profiles/final_genomes_summary.csv')
+profdir='/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles' #if equal reads; else profiles_equal_cov AND remember to change the last line of the script; NB! CHANGE TO LOCAL PATH
+krdir='/FULL_PATH_TO/Mock_fungal/data/kraken/equal_reads_metagenomes' # NB! CHANGE TO LOCAL PATH
+taxonomy=pd.read_csv('/FULL_PATH_TO/Mock_fungal/mock_profiles/final_genomes_summary.csv')# NB! CHANGE TO LOCAL PATH
 
 replist=os.listdir(krdir)
 replist=[l for l in replist if '_report' in l]

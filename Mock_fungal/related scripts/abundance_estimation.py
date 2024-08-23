@@ -16,8 +16,8 @@ from statsmodels.stats.multitest import multipletests
 
 
 
-profdir='FULL_PATH_TO/Mock_fungal/mock_profiles'
-preddir='FULL_PATH_TO/Mock_fungal/data'
+profdir='FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
+preddir='FULL_PATH_TO/Mock_fungal/data' # NB! CHANGE TO LOCAL PATH
 tools={'kraken':'report','metaphlan':'metarep','eukdetect':'filtered_hits_table','HMS':''}
 prof=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']
 

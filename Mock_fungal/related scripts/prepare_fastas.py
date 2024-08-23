@@ -4,6 +4,7 @@
 Created on Wed May 29 11:11:21 2024
 
 Download and format fungal genomes, create profiles for metagenome datasets
+NCBI_DATASETS need to be installed as a conda env 
 
 @author: ekateria
 """
@@ -18,15 +19,15 @@ from Bio.SeqRecord import SeqRecord
 from Bio.Seq import Seq
 import random
 
-wdir='/FULL_PATH_TO/Mock_fungal/mock_profiles'
+wdir='/FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
 file=pd.read_csv('/'.join([wdir,'unicellular_taxids_class.tsv']),sep='\t')
 file=file.rename(columns={'Tax name':'Tax_name'})
 
 os.chdir(wdir)
 
 global condaenvs, conda_env
-condaenvs="PATH_TO_CONDA_ENVS"
-conda_env="ncbi_datasets"
+condaenvs="PATH_TO_CONDA_ENVS" # NB! CHANGE TO LOCAL PATH
+conda_env="ncbi_datasets" #use name of the environment where ncbi_datasets is installed
 
 taxons=pd.DataFrame()
 for ix,f in file.iterrows():
