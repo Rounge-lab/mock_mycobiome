@@ -40,7 +40,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
     c) `/eukdetect` - EukDetect reports and their summary
 
-    d)`HMS` - MycobiomeScan2.0 reports and their summary
+    d)`/HMS` - MycobiomeScan2.0 reports and their summary
 
     e)`/all_methods_summary` - Statistics, summary reports and figures 
 
@@ -51,7 +51,7 @@ All python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). Scripts
 
 1. `prepare_fastas.py` - Download species taxids based on class taxids; download existing NCBI RefSeq genomes; concatenate contigs in each fasta file; and create profiles for the mock communities. Note that the script is dependent on the [ncbi-datasets](https://github.com/ncbi/datasets) conda environment
 
-2. Reads simulation by ART, mock community metagenome data generation and its classification by Kraken2 and MetaPhlAn4 are wrapped into the Snakemake v8, conda is provided in `./mock_conda/snakemake_conda.yaml`. When all fastas, profiles and Kraken2/MetaPhlAn4 databases are available, provide paths to data in `./config/config.yaml` and run 
+2. Reads simulation by ART, mock community metagenome data generation and its classification by Kraken2 and MetaPhlAn4 are wrapped into the Snakemake v8, conda is provided in `./Mock_fungal/mock_conda/snakemake_conda.yaml`. When all fastas, profiles and Kraken2/MetaPhlAn4 databases are available, provide paths to data in `./Mock_fungal/config/config.yaml` and run 
 ```bash
     cd ./Mock_fungal
     snakemake
