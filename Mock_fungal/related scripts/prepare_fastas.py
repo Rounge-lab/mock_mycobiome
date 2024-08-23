@@ -20,7 +20,7 @@ from Bio.Seq import Seq
 import random
 
 wdir='/FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
-file=pd.read_csv('/'.join([wdir,'unicellular_taxids_class.tsv']),sep='\t')
+file=pd.read_csv('/'.join([wdir,'unicellular_classes.tsv']),sep='\t')
 file=file.rename(columns={'Tax name':'Tax_name'})
 
 os.chdir(wdir)
@@ -45,14 +45,11 @@ species=taxons.loc[taxons['Rank']=='SPECIES']
 #Keep only those that were reported in publications
 publ=species.dropna(subset='Authority')
 publ=publ.dropna(subset='Genus name')
-publ.to_csv('/'.join([wdir,'unicellular_taxids_species_publ.tsv']),sep='\t')
 num_species=publ['Genus name'].value_counts()
 
-publ=pd.read_csv('/'.join([wdir,'unicellular_taxids_species_publ.tsv']),sep='\t')
-
 #Add parasitic fungal species 
-from_arfa=pd.read_csv('/'.join([wdir,'additional_genomes.csv']),sep=';').dropna(subset='Species')
-found=from_arfa['Species'].tolist()
+manual=pd.read_csv('/'.join([wdir,'manually_added_taxa.csv']),sep=';').dropna(subset='Species')
+found=manual['Species'].tolist()
 found=['"'+f+'"' for f in found]
 found=','.join(found)
 
