@@ -40,7 +40,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
     c) `/eukdetect` - EukDetect reports and their summary
 
-    d)`HMS` - MycobiomeScan2.0 reports and their summary
+    d)`/HMS` - MycobiomeScan2.0 reports and their summary
 
     e)`/all_methods_summary` - Statistics, summary reports and figures 
 
