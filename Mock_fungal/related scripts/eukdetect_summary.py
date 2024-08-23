@@ -13,9 +13,9 @@ import os
 import seaborn as sb
 import matplotlib.pyplot as plt
 
-profdir='/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles_equal_cov' # if equal coverage; else profiles AND remember to change the last line of the script
-eukdir='/FULL_PATH_TO/Mock_fungal/data/eukdetect/equal_coverage_metagenomes'
-taxonomy=pd.read_csv('FULL_PATH_TO/Mock_fungal/mock_profiles/final_genomes_summary.csv')
+profdir='/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles_equal_cov' # if equal coverage; else profiles AND remember to change the last line of the script; NB! CHANGE TO LOCAL PATH
+eukdir='/FULL_PATH_TO/Mock_fungal/data/eukdetect/equal_coverage_metagenomes' # NB! CHANGE TO LOCAL PATH
+taxonomy=pd.read_csv('FULL_PATH_TO/Mock_fungal/mock_profiles/final_genomes_summary.csv') # NB! CHANGE TO LOCAL PATH
 
 replist=os.listdir(eukdir)
 replist=[l for l in replist if '_filtered_hits_table' in l]

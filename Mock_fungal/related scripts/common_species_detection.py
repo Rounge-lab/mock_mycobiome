@@ -11,8 +11,8 @@ Check detection of five always included species
 
 import pandas as pd
 
-profdir='FULL_PATH_TO/Mock_fungal/mock_profiles'
-resfol='FULL_PATH_TO/Mock_fungal/data/all_methods_summary'
+profdir='FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
+resfol='FULL_PATH_TO/Mock_fungal/data/all_methods_summary' # NB! CHANGE TO LOCAL PATH
 
 modes={'profiles':'EqualReads', 'profiles_equal_cov':'EqualCoverage'}
 prof=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']

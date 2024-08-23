@@ -10,11 +10,16 @@ Describe detection of species in ER/EC context by different tools; compare detec
 
 import pandas as pd
 
-profdir='/projects/ec34/katya/projects/Find_fungi_genomes/fungal_genomes'
+profdir='FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
+metadb=pd.read_csv('/PATH_TO_DATABASES/db/biobakery/jun24/metaphlan/mpa_vJun23_CHOCOPhlAnSGB_202307_species.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
+krdb=pd.read_csv('/PATH_TO_DATABASES/db/kraken-PlusPF/library_report.tsv',sep='\t') # NB! CHANGE TO LOCAL PATH
+eukdb=pd.read_csv('/PATH_TO_TOOLS/EukDetect/eukdb/busco_taxid_link.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
+hmsdb=pd.read_csv('/PATH_TO_TOOLS/MScan2.0/HMS/var/HMS_taxonomy.txt',sep='\t') # NB! CHANGE TO LOCAL PATH
+
+resfol='FULL_PATH_TO/Mock_fungal/data/all_methods_summary' # NB! CHANGE TO LOCAL PATH
+
 suffix={'profiles_equal_cov':'EqualCoverage','profiles':'EqualReads'}
 prof=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']
-
-resfol='FULL_PATH_TO/Mock_fungal/data/all_methods_summary'
 
 def read_proftab(profname):
     fulltab=pd.DataFrame()
@@ -63,13 +68,6 @@ onlyEC.to_csv('/'.join([resfol,'EukDetect_onlyEC_detected_species.csv']),sep='\t
 com=read_proftab('complete_1')
 onlyEC=onlyEC.merge(com.loc[com['ComType']=='EqualCoverage',['Species','GenomeLength','NumReads']],on='Species',how='left')
 onlyER=onlyER.merge(com.loc[com['ComType']=='EqualReads',['Species','GenomeLength','AvgCoverage']],on='Species',how='left')
-
-#fig=sb.histplot(data=tab.loc[comtab['ComType']=='EqualCoverage'],x='GenomeLength',log_scale=True,bins=20,color='#9697b1')
-#fig.set(xlim=[2*10**6,10**8],ylabel='Number of genomes',xlabel='Genome size, bp')
-
-#tab.loc[comtab['ComType']=='EqualReads','AvgCoverage'].describe()
-#tab.loc[comtab['ComType']=='EqualCoverage','NumReads'].describe()
-
 
 #Find how many species out of genera were identified in cases where there are more than one species in the genus
 
@@ -136,7 +134,6 @@ missed_meta=missed_meta.query('SpeciesDet==0')
 missed_meta=missed_meta.loc[missed_meta['GenusDetected']=='No']
 missed=pd.DataFrame({'MissedGenus':missed_meta['Genus'].unique().tolist()})
 
-metadb=pd.read_csv('/PATH_TO_DATABASES/db/biobakery/jun24/metaphlan/mpa_vJun23_CHOCOPhlAnSGB_202307_species.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
 metadb.columns=['SGB','Taxon']
 metadb['genus']=metadb['Taxon'].apply(lambda row: row.split('g__')[-1])
 metadb['genus']=metadb['genus'].apply(lambda row: row.split('|')[0])   
@@ -150,7 +147,6 @@ missed_kraken=missed_kraken.query('SpeciesDet==0')
 missed_kraken=missed_kraken.loc[missed_kraken['GenusDetected']=='No']
 missed=pd.DataFrame({'MissedGenus':missed_kraken['Genus'].unique().tolist()})
 
-krdb=pd.read_csv('/PATH_TO_DATABASES/db/kraken-PlusPF/library_report.tsv',sep='\t') # NB! CHANGE TO LOCAL PATH
 krdb=krdb.drop(columns='URL')
 krdb['genus']=krdb['Sequence Name'].apply(lambda row: ' '.join(row.split(' ')[1:2])) 
 krdb=krdb.loc[krdb['#Library']=='fungi']
@@ -164,7 +160,6 @@ missed_euk=missed_euk.query('SpeciesDet==0')
 missed_euk=missed_euk.loc[missed_euk['GenusDetected']=='No']
 missed=pd.DataFrame({'MissedGenus':missed_euk['Genus'].unique().tolist()})
 
-eukdb=pd.read_csv('/PATH_TO_TOOLS/EukDetect/eukdb/busco_taxid_link.txt',sep='\t',header=None) # NB! CHANGE TO LOCAL PATH
 eukdb.columns=['ID','Rec']
 eukdb['group']=eukdb['ID'].apply(lambda row: row.split('-')[0])
 eukdb['name']=eukdb['ID'].apply(lambda row: row.split('-')[1] if '-' in row else row)
@@ -182,9 +177,6 @@ missed_hms=missed_hms.loc[missed_hms['ComType']=='EqualReads']
 missed_hms=missed_hms.query('SpeciesDet==0')
 missed_hms=missed_hms.loc[missed_hms['GenusDetected']=='No']
 missed=pd.DataFrame({'MissedGenus':missed_hms['Genus'].unique().tolist()})
-
-hmsdb=pd.read_csv('/PATH_TO_TOOLS/MScan2.0/HMS/var/HMS_taxonomy.txt',sep='\t') # NB! CHANGE TO LOCAL PATH
-
 
 missed['In_DB']=missed['MissedGenus'].apply(lambda row: 'Yes' if row in hmsdb['genus'].unique().tolist() else 'No')
 

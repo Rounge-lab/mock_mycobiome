@@ -15,12 +15,12 @@ import matplotlib.pyplot as plt
 
 global suffix 
 
-profdir='/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles_equal_cov' # if equal coverage; else profiles AND remember to change the last line of the script
-krdir='/FULL_PATH_TO/Mock_fungal/data/metaphlan/equal_coverage_metagenomes'
-taxonomy=pd.read_csv('/FULL_PATH_TO/Mock_fungal/mock_profiles/final_genomes_summary.csv')
+profdir='/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles_equal_cov' # if equal coverage; else profiles AND remember to change the last line of the script; NB! CHANGE TO LOCAL PATH
+mdir='/FULL_PATH_TO/Mock_fungal/data/metaphlan/equal_coverage_metagenomes' # NB! CHANGE TO LOCAL PATH
+taxonomy=pd.read_csv('/FULL_PATH_TO/Mock_fungal/mock_profiles/final_genomes_summary.csv') # NB! CHANGE TO LOCAL PATH
 
 suffix='_metarep.txt'
-replist=os.listdir(krdir)
+replist=os.listdir(mdir)
 replist=[l for l in replist if suffix in l]
 
 
@@ -29,7 +29,7 @@ def summary_metaphlan(replist,taxonomy):
     allprofiles=pd.DataFrame()
 
     for r in replist:
-        rep=pd.read_csv('/'.join([krdir,r]),sep='\t',skiprows=4)
+        rep=pd.read_csv('/'.join([mdir,r]),sep='\t',skiprows=4)
         rep=rep.rename(columns={'#clade_name':'Taxonomy','relative_abundance': 'RelAb'})
         rep=rep.drop(columns={'NCBI_tax_id','additional_species'})
 
@@ -84,7 +84,7 @@ for l in level:
     summary['Recall'+l]=summary['TD'+l]/summary['Num'+l]*100 #how many of those that were there, were detected
     summary['Precision'+l]=summary['TD'+l]/(summary['TD'+l]+summary['FD'+l])*100 #how many of those that were detected, truly were added there
     
-summary.to_csv('/'.join([krdir.replace('equal_coverage_metagenomes','summaries'),'EqualCoverage_Summary.csv'])) #Change for Equal reads
+summary.to_csv('/'.join([mdir.replace('equal_coverage_metagenomes','summaries'),'EqualCoverage_Summary.csv'])) #Change for Equal reads
 
 
 

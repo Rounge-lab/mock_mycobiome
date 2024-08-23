@@ -3,7 +3,7 @@
 """
 Created on Thu Jun 27 11:11:49 2024
 
-Create dataset descriptions for iTOL tree depiction
+Create dataset descriptions for iTOL tree visualization
 
 @author: ec-ekateria
 """
@@ -11,7 +11,7 @@ Create dataset descriptions for iTOL tree depiction
 import pandas as pd
 import os
 
-profdir='FULL_PATH_TO/Mock_fungal/mock_profiles'
+profdir='FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
 prof=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']
 
 os.mkdir('/'.join([profdir,'datasets_itol']))
