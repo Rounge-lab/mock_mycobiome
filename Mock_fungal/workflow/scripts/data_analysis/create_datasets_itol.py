@@ -63,7 +63,7 @@ for t in tools:
 
 final['Species']=final['Species'].apply(lambda row: row.replace(' ','_'))
 final['Species']=final['Species'].apply(lambda row: '_subhashii' if '_subhashii' in row else row)
-final.to_csv('/'.join([profdir,'datasets_itol_new','Tools_dataset2.txt']),sep=',',index=False)
+final.to_csv('/'.join([profdir,'datasets_itol','Tools_dataset2.txt']),sep=',',index=False)
 
 
 #create taxonomy color dataset

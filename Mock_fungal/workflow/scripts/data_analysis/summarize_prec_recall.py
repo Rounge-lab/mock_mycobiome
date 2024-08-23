@@ -188,11 +188,10 @@ EukReport=pd.read_csv('/'.join([resdir,'EukdetectRMSE.csv']))
 MetaReport=pd.read_csv('/'.join([resdir,'MetaphlanRMSE.csv']))
 HMSReport=pd.read_csv('/'.join([resdir,'HMSRMSE.csv']))
 
-
-KrakenReport=KrakenReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
-EukReport=EukReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
-MetaReport=MetaReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
-HMSReport=HMSReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
+#KrakenReport=KrakenReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
+#EukReport=EukReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
+#MetaReport=MetaReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
+#HMSReport=HMSReport.rename(columns={'AvgRelAb':'AvgAbunEst'})
 
 Report=pd.concat([KrakenReport,EukReport,MetaReport,HMSReport],ignore_index=True)
 Report=Report.rename(columns={'Level':'variable'})
