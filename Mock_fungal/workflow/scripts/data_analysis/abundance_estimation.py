@@ -14,8 +14,6 @@ import seaborn as sb
 from scipy.stats import kruskal
 from statsmodels.stats.multitest import multipletests
 
-global tools,cols,level
-
 profdir='FULL_PATH_TO/Mock_fungal/mock_profiles' # NB! CHANGE TO LOCAL PATH
 preddir='FULL_PATH_TO/Mock_fungal/data' # NB! CHANGE TO LOCAL PATH
 tools={'kraken':'report','metaphlan':'metarep','eukdetect':'filtered_hits_table','HMS':''}
@@ -25,6 +23,7 @@ cols={'kraken':'KrakenDetected_','eukdetect':'EukDetected_','metaphlan':'Metaphl
 level=['Species','Genus','Family']
 
 def read_files(p,mod,tool):
+    global tools,cols,level
     if '_equal_cov' in mod:
         target=pd.read_csv('/'.join([profdir,mod,p+'_EC.csv']))
         if tool !='metaphlan':
@@ -208,13 +207,13 @@ def hms_error(tar,hms):
         pq=pq.rename(columns={'count':'PredictedRelAb'})
        
         tq=tq.loc[tq[l+' name'].isin(pq['Taxon'].unique().tolist())]
-        tq=tq[[l+' name','RelAbCoverage']]
+        tq=tq[[l+' name','RelAbReads']]
         tq = tq.groupby(l+' name', as_index=False).sum()
         tq=tq.merge(pq[['Taxon', 'PredictedRelAb']],left_on=l+' name',right_on='Taxon', how='left')
         tq=tq.drop(columns='Taxon')
-        mae=mean_absolute_error(tq['RelAbCoverage'],tq['PredictedRelAb'])
-        rmse=mean_squared_error(tq['RelAbCoverage'],tq['PredictedRelAb'],squared=False)
-        r=pd.DataFrame({'Mock_community':[p],'Tool':['HMS'],'Level':[l],'AvgRelAb':[tq['RelAbCoverage'].mean().astype(int)],'MAE':[mae.astype(int)],'RMSE':[rmse.astype(int)]})
+        mae=mean_absolute_error(tq['RelAbReads'],tq['PredictedRelAb'])
+        rmse=mean_squared_error(tq['RelAbReads'],tq['PredictedRelAb'],squared=False)
+        r=pd.DataFrame({'Mock_community':[p],'Tool':['HMS'],'Level':[l],'AvgRelAb':[tq['RelAbReads'].mean().astype(int)],'MAE':[mae.astype(int)],'RMSE':[rmse.astype(int)]})
         report=pd.concat([report,r])
         
         tq=tq.rename(columns={l+' name':'Taxon name'})
