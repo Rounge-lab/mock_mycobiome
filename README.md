@@ -23,7 +23,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
     c) `genomes_to_download.csv`: List of species IDs that were searched through the NCBI RefSeq database - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-    d) `final_genomes_summary.csv`: ***List of NBCI RefSeq genomes that were used for the mock communities**** - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
+    d) `final_genomes_summary.csv`: ***List of NBCI RefSeq genomes that were used for the mock communities*** - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
     e) `metadata_ufcg.csv`: Genome metadata file prepared for the UFCG phylogenetic tree generation
 
@@ -48,7 +48,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
 ### Data analysis
 
-All python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). Scripts are located in `./Mock_fungal/workflow/scripts` and `./Mock_fungal/workflow/scripts/data_analysis`. 
+Scripts are located in `./Mock_fungal/workflow/scripts` and `./Mock_fungal/workflow/scripts/data_analysis`. All standalone Python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). List of required packages: *pandas, sklearn, seaborn, scipy, statsmodels, biopython* 
 
 1. `prepare_fastas.py` - Download species taxids based on class taxids; download existing NCBI RefSeq genomes; concatenate contigs in each fasta file; and create profiles for the mock communities. Note that the script is dependent on the [ncbi-datasets](https://github.com/ncbi/datasets) conda environment
 
