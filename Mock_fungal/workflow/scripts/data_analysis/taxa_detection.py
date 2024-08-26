@@ -119,12 +119,10 @@ for s in suffix:
         DetSummary=pd.concat([DetSummary,ts],ignore_index=True)
 
 #Plot the values
-DetSummary.drop(3,inplace=True)
-DetSummary.set_index('ComType', inplace=True)
-types = DetSummary['Tool'].unique()
-fig=DetSummary[DetSummary['Tool'].isin(types)].plot.barh(stacked=True,color=['#6b519d','#ff66c4','#7ed957','#f4cbb0'],legend=False)
-fig.set(yticklabels=['Kraken2','EukDetect','Metaphlan4','Kraken2','EukDetect','Metaphlan4','HMS'],ylabel='')
-
+DetSummary=DetSummary.loc[DetSummary['ComType']=='EqualReads']
+DetSummary=DetSummary.drop(columns={'ComType'})
+fig=DetSummary.plot.barh(stacked=True,color=['#6b519d','#ff66c4','#7ed957','#f4cbb0'],legend=False)
+fig.set(yticklabels=['Kraken2','EukDetect','Metaphlan4','HMS'],ylabel='')
 
 #Check which genera are not detected at all and if they are represented in a related database
 

@@ -3,12 +3,11 @@ configfile: "config/config.yaml"
 import os
 genomelist=os.listdir(config['genomes'])
 profiles=['small_1_EC','small_2_EC','small_3_EC','median_1_EC','median_2_EC','median_3_EC','large_1_EC','large_2_EC','complete_1_EC']
-#profiles=['small_1','small_2']
 
 rule all:
     input:
-        #expand("log/simdata/{genome}.txt", genome=genomelist),
-        #expand('log/simmetagenome/{profile}.flag',profile=profiles),
+        expand("log/simdata/{genome}.txt", genome=genomelist),
+        expand('log/simmetagenome/{profile}.flag',profile=profiles),
         expand("data/kraken/equal_coverage_metagenomes/{profile}_report.txt",profile=profiles),
         expand("data/metaphlan/equal_coverage_metagenomes/{profile}_metarep.txt",profile=profiles)
         
