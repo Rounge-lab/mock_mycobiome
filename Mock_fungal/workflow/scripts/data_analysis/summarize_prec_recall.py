@@ -20,10 +20,9 @@ tool=['kraken','metaphlan','eukdetect','HMS']
 com=['EqualReads','EqualCoverage']
 resdir='/FULL_PATH_TO/data/all_methods_summary' # NB! CHANGE TO LOCAL PATH
 
-global wdir,tool,com
-
 def get_summaries():
     allsum=pd.DataFrame()
+    global wdir,tool,com
     for t in tool:
         for c in com:
             q=pd.read_csv('/'.join([wdir,t,'summaries',c+'_Summary.csv'])).drop(columns='Unnamed: 0')
