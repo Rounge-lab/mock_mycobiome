@@ -48,7 +48,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
 ### Data analysis
 
-Scripts are located in `./Mock_fungal/workflow/scripts` and `./Mock_fungal/workflow/scripts/data_analysis`. All standalone Python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). List of required packages: *pandas, sklearn, seaborn, scipy, statsmodels, biopython* 
+Scripts are located in `./Mock_fungal/workflow/scripts` and `./Mock_fungal/workflow/scripts/data_analysis`. All standalone Python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). List of required modules: *pandas, sklearn, seaborn, scipy, statsmodels, biopython* 
 
 1. `prepare_fastas.py` - Download species taxids based on class taxids; download existing NCBI RefSeq genomes; concatenate contigs in each fasta file; and create profiles for the mock communities. Note that the script is dependent on the [ncbi-datasets](https://github.com/ncbi/datasets) conda environment
 
