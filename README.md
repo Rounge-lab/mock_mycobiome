@@ -21,15 +21,15 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
     c) `genomes_to_download.csv`: List of species IDs that were searched through the NCBI RefSeq database - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-    d) `final_genomes_summary.csv`: List of species IDs that had genome assembly deposited in the NCBI RefSeq and <span class="underline">were used for the mock communities</span> - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
+    d) `final_genomes_summary.csv`: ***List of NBCI RefSeq genomes that were used for the mock communities**** - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
     e) `metadata_ufcg.csv`: Genome metadata file prepared for the UFCG phylogenetic tree generation
 
-    f) `/profiles`: Equal reads mock community profiles - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
+    f) `/profiles`: ***Equal reads mock community profiles*** - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-    g) `/profiles_equal_cov`: Equal coverage mock community profiles - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
+    g) `/profiles_equal_cov`: ***Equal coverage mock community profiles*** - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-4. `./Mock_fungal/workflow`: Snakefile for mock communities sequencing data generation, taxonomy classification and scripts related to data analysis. Detailed info is provided in [Data analysis](#data-analysis).
+4. `./Mock_fungal/workflow`: Scripts for mock communities sequencing data generation, taxonomy classification, and data analysis. Detailed info is provided in [Data analysis](#data-analysis).
 
 5. `./Mock_fungal/data`: All figures and tables generated during the analysis of mock communities data
 
