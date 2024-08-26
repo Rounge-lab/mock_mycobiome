@@ -19,10 +19,9 @@ prof=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','
 
 bacteria=['Saccharomyces cerevisiae', 'Debaryomyces hansenii', 'Malassezia restricta', 'Candida albicans', 'Kluyveromyces lactis']
 
-global profdir, bacteria
-
 def combine_profiles(prof,modes):
     allbact=pd.DataFrame()
+    global profdir, bacteria
     for m in modes:
         for p in prof:
             if m=='profiles':
