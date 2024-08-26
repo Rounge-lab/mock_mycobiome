@@ -21,7 +21,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
 
     c) `genomes_to_download.csv`: List of species IDs that were searched through the NCBI RefSeq database - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
-    d) `final_genomes_summary.csv`: List of species IDs that had genome assembly deposited in the NCBI RefSeq and <u>were used for the mock communities</u> - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
+    d) `final_genomes_summary.csv`: List of species IDs that had genome assembly deposited in the NCBI RefSeq and <span class="underline">were used for the mock communities</span> - generated using `./Mock_fungal/scripts/data_analysis/prepare_fastas.py`
 
     e) `metadata_ufcg.csv`: Genome metadata file prepared for the UFCG phylogenetic tree generation
 
