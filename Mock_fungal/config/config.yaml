@@ -1,6 +1,6 @@
 #genome files
 
-genomes: '/PATH_TO_GENOMES/concatenated'
+genomes: '/PATH_TO_GENOMES/fungal_genomes/concatenated'
 profdir: '/FULL_PATH_TO/Mock_fungal/mock_profiles/profiles_equal_cov'
 kraken: '/PATH_TO_DATABASES/db/kraken-PlusPF' #version 2024-01-12
 metaphlan: '/PATH_TO_DATABASES/db/biobakery/jun24/metaphlan' #version vJun23

@@ -1,6 +1,6 @@
 # Mock mycobiome communities - metagenomic data generation and analysis
 
-A collection of all scripts and resulting files related to ***"Challenges in capturing the mycobiome from shotgun metagenomic data: lack of software and databases"***.  Fastq files are deposited in [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) under PRJEB79245
+A collection of all scripts and resulting files related to ***"Challenges in capturing the mycobiome from shotgun metagenomic data: lack of software and databases"***.
 
 ### Contents
  
