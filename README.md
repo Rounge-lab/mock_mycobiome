@@ -1,6 +1,8 @@
 # Mock mycobiome communities - metagenomic data generation and analysis
 
+
 A collection of all scripts and resulting files related to ***"Challenges in capturing the mycobiome from shotgun metagenomic data: lack of software and databases"***.  
+
 ### Contents
  
 - [Folder structure](#folder-structure)
