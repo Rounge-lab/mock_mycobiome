@@ -14,7 +14,7 @@ A collection of all scripts and resulting files related to ***"Challenges in cap
     a) `snakemake_conda.yaml`: configuration file for conda environment with snakemake and all dependencies (ART/Kraken2/MetaPhlAn4) for mock data generation and Kraken2/MetaPhlAn4 taxonomy analysis
 
     b) `eukdetect_equal_{reads/coverage}.yaml`: configuration files used for taxonomy classification with EukDetect
-2. `./Mock_fungal/config`: configuration file for the Snakemake
+2. `./Mock_fungal/config`: configuration file for the Snakemake (simulated reads generation by ART; mock communities generation; Kraken2 and MetaPhlAn4 classification)
 3. `./Mock_fungal/mock_profiles`: 
 
     a) `unicellular_classes.tsv`: List of taxIDs for unicellular classes within Ascomycota and Basidiomycota that were initially searched for
