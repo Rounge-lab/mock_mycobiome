@@ -36,9 +36,13 @@ metadb.columns=['SGB','Taxon']
 metadb['species']=metadb['Taxon'].apply(lambda row: row.split('s__')[-1])
 metadb['species']=metadb['species'].apply(lambda row: row.replace('_',' '))
 dbsum.at['Metaphlan','TotalSpecies']=len(metadb['species'].unique().tolist())
-metadb=metadb.loc[metadb['Taxon'].str.contains('Euk')]
 dbsum.at['Metaphlan','Fungi']=len(metadb.loc[metadb['Taxon'].str.contains('Basidiomycota')])+len(metadb.loc[metadb['Taxon'].str.contains('Ascomycota')])
-metaspecies=metadb['species'].unique().tolist()
+metadb=metadb.loc[metadb['Taxon'].str.contains('Euk')]
+taxa=metadb['Taxon'].str.split(',', expand=True) #some of the taxons are provided taxonomy in a comma-list, take all available
+taxa=taxa.melt(var_name='torem',value_name='Taxon').dropna()
+taxa['species']=taxa['Taxon'].apply(lambda row: row.split('s__')[-1])
+taxa['species']=taxa['species'].apply(lambda row: row.replace('_',' '))
+metaspecies=taxa['species'].unique().tolist()
 taxonomy['In_MetaDb']=taxonomy['species'].apply(lambda row: 'Yes' if row in metaspecies else 'No')
 dbsum.at['Metaphlan','MockSpecies']=len(taxonomy.loc[taxonomy['In_MetaDb']=='Yes'])
 
