@@ -1,0 +1,26 @@
+V1
+Anncaliia	1e-04
+Aspergillus	0.0482
+Blastomyces	0.006
+Candida	0.1919
+Cladophialophora	0.099
+Clavispora	2e-04
+Cryptococcus	0.0494
+Curvularia	1e-04
+Cyberlindnera	1e-04
+Debaryomyces	0.06
+Emergomyces	1e-04
+Fonsecaea	0.099
+Histoplasma	4e-04
+Kluyveromyces	0.0488
+Lecanicillium	1e-04
+Lodderomyces	0.0488
+Malassezia	0.1491
+Meyerozyma	1e-04
+Nakaseomyces	0.0504
+Naumovozyma	2e-04
+Paracoccidioides	0.0481
+Penicillium	0.0491
+Pichia	0.0495
+Pneumocystis	7e-04
+Unclassified	3e-04

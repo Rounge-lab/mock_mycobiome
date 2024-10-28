@@ -1,0 +1,24 @@
+""
+"Aspergillus_felis"	72
+"Aspergillus_flavus"	790
+"Aspergillus_fumigatiaffinis"	12
+"Aspergillus_fumigatus"	87
+"Aspergillus_latus"	162
+"Aspergillus_tamarii"	19
+"Aspergillus_terreus"	49
+"Aspergillus_udagawae"	64
+"Aspergillus_welwitschiae"	831465
+"Candida_albicans"	326851
+"Candida_tropicalis"	8
+"Clavispora_lusitaniae"	10
+"Kluyveromyces_marxianus"	4984
+"Lecanicillium_sp._MT-2017a"	3
+"Nakaseomyces_glabratus"	524
+"Nakaseomyces_nivariensis"	1425
+"Naumovozyma_dairenensis"	2352
+"Penicillium_capsulatum"	76
+"Penicillium_rubens"	5
+"Pneumocystis_jirovecii"	224
+"Talaromyces_marneffei"	13
+"Yarrowia_galli"	67217
+"Yarrowia_lipolytica"	720

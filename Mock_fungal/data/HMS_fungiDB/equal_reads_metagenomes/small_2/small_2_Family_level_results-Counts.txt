@@ -1,0 +1,10 @@
+
+Aspergillaceae	103
+Chaetomiaceae	5
+Debaryomycetaceae	367948
+Didymellaceae	4
+Malasseziaceae	197253
+Onygenaceae	186279
+Saccharomycetaceae	529410
+Trichocomaceae	34
+Trichosporonaceae	8

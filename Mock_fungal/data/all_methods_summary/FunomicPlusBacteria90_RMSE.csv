@@ -1,0 +1,10 @@
+Mock_community,Tool,Level,AvgRelAb,MAE,RMSE
+small_1b,funomic,Species,9,13,17
+small_1b,funomic,Genus,11,12,16
+small_1b,funomic,Family,16,8,11
+small_2b,funomic,Species,9,14,18
+small_2b,funomic,Genus,11,13,17
+small_2b,funomic,Family,22,12,14
+small_3b,funomic,Species,11,15,19
+small_3b,funomic,Genus,11,15,20
+small_3b,funomic,Family,14,10,12

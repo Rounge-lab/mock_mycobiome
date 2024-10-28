@@ -1,0 +1,51 @@
+Taxon name,RelAbReads,PERCENTAGE,Mock_community,Tool,Level
+Aspergillus niger,10.0,6.742493419662599,small_1b,micop,Species
+Candida albicans,10.0,15.989631192987565,small_1b,micop,Species
+Debaryomyces hansenii,10.0,18.79448843421278,small_1b,micop,Species
+Kluyveromyces lactis,10.0,21.33650214977901,small_1b,micop,Species
+Neurospora tetrasperma,10.0,5.840304878766589,small_1b,micop,Species
+Saccharomyces cerevisiae,10.0,18.87024820681629,small_1b,micop,Species
+Yarrowia lipolytica,10.0,11.147204997253422,small_1b,micop,Species
+Aspergillus,10.0,6.742493419662599,small_1b,micop,Genus
+Candida,10.0,15.989631192987565,small_1b,micop,Genus
+Debaryomyces,10.0,18.79448843421278,small_1b,micop,Genus
+Kluyveromyces,10.0,21.33650214977901,small_1b,micop,Genus
+Neurospora,10.0,5.840304878766589,small_1b,micop,Genus
+Saccharomyces,20.0,18.87024820681629,small_1b,micop,Genus
+Yarrowia,10.0,11.147204997253422,small_1b,micop,Genus
+Aspergillaceae,10.0,6.742493419662599,small_1b,micop,Family
+Debaryomycetaceae,20.0,34.78411962720034,small_1b,micop,Family
+Dipodascaceae,10.0,11.147204997253422,small_1b,micop,Family
+Saccharomycetaceae,40.0,40.20675035659531,small_1b,micop,Family
+Sordariaceae,10.0,5.840304878766589,small_1b,micop,Family
+Candida albicans,10.0,13.967427593719066,small_2b,micop,Species
+Coccidioides posadasii,10.0,7.216404141896168,small_2b,micop,Species
+Debaryomyces hansenii,10.0,16.408505553708547,small_2b,micop,Species
+Kluyveromyces lactis,10.0,18.629847791862705,small_2b,micop,Species
+Paracoccidioides brasiliensis,10.0,6.662476039885228,small_2b,micop,Species
+Saccharomyces cerevisiae,10.0,16.44387843942574,small_2b,micop,Species
+Schizophyllum commune,10.0,5.1514580447268505,small_2b,micop,Species
+Tetrapisispora blattae,10.0,14.231457135231391,small_2b,micop,Species
+Candida,20.0,13.967427593719066,small_2b,micop,Genus
+Coccidioides,10.0,7.388455685089055,small_2b,micop,Genus
+Debaryomyces,10.0,16.408505553708547,small_2b,micop,Genus
+Kluyveromyces,10.0,18.629847791862705,small_2b,micop,Genus
+Paracoccidioides,10.0,6.662476039885228,small_2b,micop,Genus
+Saccharomyces,10.0,16.44387843942574,small_2b,micop,Genus
+Schizophyllum,10.0,5.1514580447268505,small_2b,micop,Genus
+Tetrapisispora,10.0,14.231457135231391,small_2b,micop,Genus
+Debaryomycetaceae,30.0,30.375933147427613,small_2b,micop,Family
+Saccharomycetaceae,30.0,49.30518336651984,small_2b,micop,Family
+Schizophyllaceae,10.0,5.1514580447268505,small_2b,micop,Family
+Candida albicans,10.0,16.469172330297486,small_3b,micop,Species
+Debaryomyces hansenii,10.0,19.336826290317227,small_3b,micop,Species
+Kluyveromyces lactis,10.0,21.954579652242387,small_3b,micop,Species
+Kluyveromyces marxianus,10.0,21.468259199321743,small_3b,micop,Species
+Saccharomyces cerevisiae,10.0,19.36997115254744,small_3b,micop,Species
+Candida,10.0,16.469172330297486,small_3b,micop,Genus
+Debaryomyces,10.0,19.336826290317227,small_3b,micop,Genus
+Kluyveromyces,20.0,43.42283885156414,small_3b,micop,Genus
+Saccharomyces,10.0,19.36997115254744,small_3b,micop,Genus
+Debaryomycetaceae,20.0,35.80599862061472,small_3b,micop,Family
+Nectriaceae,10.0,0.0858793844501271,small_3b,micop,Family
+Saccharomycetaceae,30.0,62.79281000411157,small_3b,micop,Family

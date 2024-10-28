@@ -1,0 +1,9 @@
+#genome files
+
+genomes: '/fp/projects01/ec34/katya/projects/Find_fungi_genomes/fungal_genomes/concatenated'
+#genomes: '/fp/projects01/ec34/katya/projects/Mock_fungal/data/bacteria_genomes'
+profdir: '/fp/projects01/ec34/katya/projects/Find_fungi_genomes/fungal_genomes/profiles'
+kraken: '/fp/projects01/ec34/crcbiome/db/kraken-fungi' #version 2024-01-12
+metaphlan: '/fp/projects01/ec34/crcbiome/db/biobakery/jun24/metaphlan' #version vJun23
+funomic: '/fp/projects01/ec34/crcbiome/db/FunOMIC' #version 1, 2022
+micop_tool: '/fp/projects01/ec34/katya/tools/MiCoP/'

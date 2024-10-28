@@ -1,0 +1,11 @@
+Name	Rank	Lineage	Taxid	Observed_markers	Read_counts	Percent_observed_markers	Total_marker_coverage	Percent_identity
+Malassezia restricta	species	phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	76775	150	7819	100.0%	86.71%	99.78%
+Kluyveromyces lactis	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	28985	162	4418	99.39%	80.72%	99.86%
+Saccharomyces cerevisiae S288C	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	559292	180	4321	98.9%	81.69%	99.9%
+Candida albicans SC5314	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	237561	164	3002	98.2%	74.35%	99.95%
+Debaryomyces hansenii CBS767	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	284592	179	4217	97.81%	77.36%	99.89%
+Yarrowia lipolytica CLIB122	species	phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae|genus-Yarrowia|species-Yarrowia_lipolytica	284591	182	2614	97.33%	61.01%	99.94%
+Neurospora tetrasperma FGSC 2508	species	phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora|species-Neurospora_tetrasperma	510951	149	943	79.26%	32.55%	99.99%
+Aspergillus niger	species	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_niger	5061	42	129	63.64%	15.84%	99.96%
+Neurospora	genus	phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora	5140	5	17	33.33%	19.29%	99.64%
+Aspergillus	genus	phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus	5052	81	333	4.39%	20.93%	99.93%

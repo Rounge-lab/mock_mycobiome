@@ -1,0 +1,21 @@
+
+Ajellomycetaceae	4489
+Arthrodermataceae	405
+Aspergillaceae	14516
+Debaryomycetaceae	398979
+Dipodascaceae	6
+Herpotrichiellaceae	11
+Malasseziaceae	200329
+Metschnikowiaceae	296
+Microascaceae	3
+Nectriaceae	4
+Ophiocordycipitaceae	5
+Ophiostomataceae	6
+Phaffomycetaceae	12
+Pichiaceae	143
+Pleosporaceae	37
+Pneumocystaceae	259
+Saccharomycetaceae	9535
+Trichocomaceae	11
+Trichosporonaceae	64
+Unclassified	775722

@@ -1,0 +1,101 @@
+﻿Species;NCBI Taxonomy ID;RefSeq ID;Mycocosm
+Acaromyces ingoldii;215250;GCF_003144295.1;Y
+Alternaria burnsii;1187904;GCF_013036055.1;N
+Alternaria ethzedia;181014;GCF_023757985.1;N
+Alternaria infectoria;;GCF_024043175.1;N
+Alternaria postmessia;1187938;GCF_024291825.1;N
+Alternaria rosae;1187941;GCF_020736505.1;N
+Alternaria triticimaculans;297637;GCF_023758025.1;N
+Arthroderma uncinatum;74035;GCF_011692745.1;N
+Ascochyta rabiei;5454;GCF_004011695.1;N
+Ascoidea rubescens;1344418;GCF_001661345.1;N
+Aspergillus aculeatinus;1448322;GCF_003184765.1;N
+Aspergillus alliaceus;;GCF_009176365.1;N
+Aspergillus candidus;;GCF_002847045.1;N
+Aspergillus chevalieri;;GCF_016861735.1;N
+Aspergillus fischeri;;GCF_000149645.3;N
+Aspergillus flavus NRRL3357;;GCF_014117465.1;N
+Aspergillus glaucus CBS 516.65;;GCF_001890805.1;N
+Aspergillus lentulus;293939;GCF_010724455.1;N
+Aspergillus niger;;GCF_000002855.4;N
+Aspergillus oryzae;;GCF_000184455.2;N
+Aspergillus terreus;;GCF_000149615.1;N
+Aspergillus thermomutatus;;GCF_002237265.1;N
+Aspergillus tubingensis;;GCF_013340325.1;N
+Beauveria bassiana;655819;GCF_000280675.1;N
+Bipolaris sorokiniana;665912;GCF_000338995.1;N
+Blastomyces dermatitidis;559297;GCF_000003525.1;N
+Blastomyces gilchristii;559298;GCF_000003855.2;N
+Boeremia exigua;749465;GCF_020726555.1;N
+Botrytis porri;87229;GCF_014898465.1;N
+Brettanomyces bruxellensis;5007;GCF_011074885.1;N
+Candida albicans;237561;GCF_000182965.3;N
+Candida auris;498019;GCF_002775015.1;N
+Candida dubliniensis;;GCF_000026945.1;N
+Candida haemuloni;45357;GCF_002926055.2;N
+Candida orthopsilosis;1136231;GCF_000315875.1;N
+Candida parapsilosis;5480;GCF_000182765.1;N
+Candida subhashii;561895;GCF_019202705.1;N
+Candida tropicalis;294747;GCF_000006335.3;N
+Chaetomium globosum;306901;GCF_000143365.1;N
+Chaetomium strumarium;;GCF_033439665.1        ;Y
+Cladophialophora bantiana;;GCF_000835475.1;N
+Cladophialophora bantiana;1442370;GCF_000835475.1;N
+Cladophialophora carrionii;;GCF_000365165.1;N
+Clavispora lusitaniae;;GCF_000003835.1;N
+Clavispora lusitaniae;306902;GCF_000003835.1;N
+Coccidioides posadasii;;GCF_000151335.2;N
+Cokeromyces recurvatus;;GCF_025118155.1;N
+Cordyceps fumosorosea;;GCF_001636725.1;N
+Cryptococcus gattii ;;GCF_000185945.1;N
+Cryptococcus neoformans;;GCF_000091045.1;N
+Cyphellophora europaea;;GCF_000365145.1;N
+Daldinia caldariorum;326644;GCF_022478825.1;N
+Debaryomyces hansenii;284592;GCF_000006445.2;N
+Diutina rugosa;;GCF_008704595.1        ;N
+Encephalitozoon cuniculi;284813;GCF_000091225.2;N
+Endocarpon pusillum;1263415;GCF_000464535.1;N
+Filobasidium floriforme;5210;GCF_021052385.1;N
+Fonsecaea monophora;;GCF_001642475.1;N
+Fonsecaea nubica;856822;GCF_001646965.1;N
+Fusarium falciforme;;GCF_026873545.1;N
+Fusarium proliferatum;;GCF_900067095.1;N
+Gamsiella multidivaricata;101098;GCF_025024155.1;N
+Halteromyces radiatus;101107;GCF_025201355.1;N
+Histoplasma capsulatum;;GCF_000150115.1;N
+Kluyveromyces lactis;28985;GCF_000002515.2;N
+Kuraishia capsulata;1382522;GCF_000576695.1;N
+Lodderomyces elongisporus;;GCF_030384665.1;N
+Malassezia globosa;425265;GCF_000181695.1;N
+Malassezia restricta;76775;GCF_003290485.1;N
+Malassezia sympodialis;;GCF_000349305.1;N
+Microsporum canis;;GCF_000151145.1;N
+Nakaseomyces glabratus;5478;GCF_000002545.3;N
+Nannizzia gypsea;;GCF_000150975.2;N
+Paecilomyces variotii;;GCF_004022145.1;N
+Paracoccidioides brasiliensis;;GCF_000150735.1;N
+Penicillium chrysogenum;;GCF_028827035.1;N
+Penicillium rubens;1108849;GCF_000226395.1;N
+Phialemonium atrogriseum;;GCF_030411735.1;N
+Pichia kudriavzevii;4909;GCF_003054445.1;N
+Pichia membranifaciens;;GCF_001661235.1;N
+Pneumocystis carinii;;GCF_001477545.1;N
+Pneumocystis jirovecii;;GCF_001477535.1;N
+Pneumocystis murina;1069680;GCF_000349005.2;N
+Priceomyces carsonii;;GCF_900007245.1;N
+Pseudozyma hubeiensis;1305764;GCF_000403515.1;N
+Rhizopus microsporus;;GCF_002708625.1;N
+Saccharomyces cerevisiae;559292;GCF_000146045.2;N
+Scedosporium apiospermum;;GCF_000732125.1;N
+Schizophyllum commune ;;GCF_000143185.2;N
+Talaromyces marneffei;;GCF_009556855.1        ;N
+Talaromyces rugulosus;;GCF_013368755.1;N
+Thyridium curvatum;;GCF_004353045.1        ;N
+Thyridium curvatum;1093900;GCF_004353045.1;N
+Trichophyton benhamiae;;GCF_000151125.1;N
+Trichophyton rubrum;;GCF_000151425.1;N
+Trichosporon asahii;1186058;GCF_000293215.1;N
+Verruconis gallopava;;GCF_000836295.1;N
+Verticillium alfalfae;526221;GCF_000150825.1;N
+Westerdykella ornata;318751;GCF_010094085.1;N
+Wickerhamomyces anomalus;;GCF_001661255.1;N

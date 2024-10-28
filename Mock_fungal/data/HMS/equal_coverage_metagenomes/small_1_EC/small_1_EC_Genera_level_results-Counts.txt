@@ -1,0 +1,12 @@
+V1
+Aspergillus	832720
+Candida	326859
+Clavispora	10
+Kluyveromyces	4984
+Lecanicillium	3
+Nakaseomyces	1949
+Naumovozyma	2352
+Penicillium	81
+Pneumocystis	224
+Talaromyces	13
+Yarrowia	67937

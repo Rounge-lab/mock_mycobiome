@@ -1,0 +1,66 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202307
+#/fp/homes01/u01/ec-ekateria/ec34/katya/envs/snakemake/bin/metaphlan --input_type fastq -o data/metaphlan/equal_coverage_metagenomes/median_3_EC_metarep.txt --bowtie2db /fp/projects01/ec34/crcbiome/db/biobakery/jun24/metaphlan --bowtie2out data/metaphlan/equal_coverage_metagenomes/median_3_EC.bz2 --nproc 4 /fp/projects01/ec34/katya/projects/Mock_fungal/data/equal_coverage_metagenomes/median_3_EC_1.fq,/fp/projects01/ec34/katya/projects/Mock_fungal/data/equal_coverage_metagenomes/median_3_EC_2.fq
+#24326756 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+k__Eukaryota	2759	100.0	
+k__Eukaryota|p__Ascomycota	2759|4890	76.86485	
+k__Eukaryota|p__Basidiomycota	2759|5204	23.13515	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes	2759|4890|4891	60.40029	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes	2759|5204|1538075	18.91327	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes	2759|4890|147545	12.07482	
+k__Eukaryota|p__Ascomycota|c__Pneumocystidomycetes	2759|4890|147553	4.38974	
+k__Eukaryota|p__Basidiomycota|c__Tremellomycetes	2759|5204|155616	4.22188	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales	2759|4890|4891|4892	60.40029	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales	2759|5204|1538075|162474	18.91327	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales	2759|4890|147545|5042	12.07482	
+k__Eukaryota|p__Ascomycota|c__Pneumocystidomycetes|o__Pneumocystidales	2759|4890|147553|37987	4.38974	
+k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales	2759|5204|155616|5234	4.22188	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae	2759|4890|4891|4892|766764	39.18823	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae	2759|5204|1538075|162474|742845	18.91327	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae	2759|4890|4891|4892|4893	14.45307	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae	2759|4890|147545|5042|1131492	12.07482	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Pichiaceae	2759|4890|4891|4892|1156497	6.75899	
+k__Eukaryota|p__Ascomycota|c__Pneumocystidomycetes|o__Pneumocystidales|f__Pneumocystidaceae	2759|4890|147553|37987|44281	4.38974	
+k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae	2759|5204|155616|5234|1884633	4.22188	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia	2759|5204|1538075|162474|742845|55193	18.91327	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces	2759|4890|4891|4892|766764|4958	12.82724	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces	2759|4890|4891|4892|4893|4930	7.70248	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Pichiaceae|g__Pichia	2759|4890|4891|4892|1156497|4919	6.75899	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Nakaseomyces	2759|4890|4891|4892|4893|374468	6.75058	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium	2759|4890|147545|5042|1131492|5073	6.06279	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Aspergillus	2759|4890|147545|5042|1131492|5052	6.01203	
+k__Eukaryota|p__Ascomycota|c__Pneumocystidomycetes|o__Pneumocystidales|f__Pneumocystidaceae|g__Pneumocystis	2759|4890|147553|37987|44281|4753	4.38974	
+k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus	2759|5204|155616|5234|1884633|5206	4.22188	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_pastorianus	2759|4890|4891|4892|4893|4930|27292	7.70248	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_tropicalis	2759|4890|4891|4892|766764|1535326|5482	6.85532	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Pichiaceae|g__Pichia|s__Pichia_kudriavzevii	2759|4890|4891|4892|1156497|4919|4909	6.75899	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Nakaseomyces|s__Candida_glabrata	2759|4890|4891|4892|4893|374468|5478	6.75058	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_orthopsilosis	2759|4890|4891|4892|766764|1535326|273371	6.68223	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces|s__Debaryomyces_fabryi	2759|4890|4891|4892|766764|4958|58627	6.53703	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_albicans	2759|4890|4891|4892|766764|1535326|5476	6.44713	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_sympodialis	2759|5204|1538075|162474|742845|55193|76777	6.42885	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_restricta	2759|5204|1538075|162474|742845|55193|76775	6.39863	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_dubliniensis	2759|4890|4891|4892|766764|1535326|42374	6.37631	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces|s__Debaryomyces_hansenii_group_1	2759|4890|4891|4892|766764|4958|4959_1	6.29021	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_globosa	2759|5204|1538075|162474|742845|55193|76773	6.08579	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium|s__Penicillium_chrysogenum	2759|4890|147545|5042|1131492|5073|5076	6.06279	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Aspergillus|s__Aspergillus_niger	2759|4890|147545|5042|1131492|5052|5061	6.01203	
+k__Eukaryota|p__Ascomycota|c__Pneumocystidomycetes|o__Pneumocystidales|f__Pneumocystidaceae|g__Pneumocystis|s__Pneumocystis_carinii	2759|4890|147553|37987|44281|4753|4754	4.38974	
+k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus|s__Cryptococcus_gattii_VGII	2759|5204|155616|5234|1884633|5206|1859096	4.22188	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_pastorianus|t__EUK27292	2759|4890|4891|4892|4893|4930|27292|	7.70248	k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_eubayanus,k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_sp_M14,k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_bayanus
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_tropicalis|t__EUK5482	2759|4890|4891|4892|766764|1535326|5482|	6.85532	k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_sp_LDI48194
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Pichiaceae|g__Pichia|s__Pichia_kudriavzevii|t__EUK4909	2759|4890|4891|4892|1156497|4919|4909|	6.75899	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Nakaseomyces|s__Candida_glabrata|t__EUK5478	2759|4890|4891|4892|4893|374468|5478|	6.75058	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_orthopsilosis|t__EUK273371	2759|4890|4891|4892|766764|1535326|273371|	6.68223	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces|s__Debaryomyces_fabryi|t__EUK58627	2759|4890|4891|4892|766764|4958|58627|	6.53703	k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces|s__Debaryomyces_hansenii
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_albicans|t__EUK5476	2759|4890|4891|4892|766764|1535326|5476|	6.44713	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_sympodialis|t__EUK76777	2759|5204|1538075|162474|742845|55193|76777|	6.42885	
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_restricta|t__EUK76775	2759|5204|1538075|162474|742845|55193|76775|	6.39863	k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_sp
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Candida|s__Candida_dubliniensis|t__EUK42374	2759|4890|4891|4892|766764|1535326|42374|	6.37631	
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces|s__Debaryomyces_hansenii_group_1|t__EUK4959_1	2759|4890|4891|4892|766764|4958|4959_1|	6.29021	k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Debaryomycetaceae|g__Debaryomyces|s__Debaryomyces_hansenii
+k__Eukaryota|p__Basidiomycota|c__Malasseziomycetes|o__Malasseziales|f__Malasseziaceae|g__Malassezia|s__Malassezia_globosa|t__EUK76773	2759|5204|1538075|162474|742845|55193|76773|	6.08579	
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium|s__Penicillium_chrysogenum|t__EUK5076	2759|4890|147545|5042|1131492|5073|5076|	6.06279	k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium|s__Penicillium_sp_HKF2,k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium|s__Penicillium_sp_MA_6040,k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium|s__Penicillium_rubens
+k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Aspergillus|s__Aspergillus_niger|t__EUK5061	2759|4890|147545|5042|1131492|5052|5061|	6.01203	k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Aspergillus|s__Aspergillus_phoenicis,k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Aspergillus|s__Aspergillus_welwitschiae,k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Aspergillus|s__Aspergillus_awamori
+k__Eukaryota|p__Ascomycota|c__Pneumocystidomycetes|o__Pneumocystidales|f__Pneumocystidaceae|g__Pneumocystis|s__Pneumocystis_carinii|t__EUK4754	2759|4890|147553|37987|44281|4753|4754|	4.38974	
+k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus|s__Cryptococcus_gattii_VGII|t__EUK1859096	2759|5204|155616|5234|1884633|5206|1859096|	4.22188	k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus|s__Cryptococcus_cf_gattii,k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus|s__Cryptococcus_gattii_VGI,k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus|s__Cryptococcus_gattii_VGIV,k__Eukaryota|p__Basidiomycota|c__Tremellomycetes|o__Tremellales|f__Cryptococcaceae|g__Cryptococcus|s__Cryptococcus_gattii_VGIII

@@ -1,0 +1,10 @@
+
+Aspergillaceae	79210
+Cryptococcaceae	3
+Debaryomycetaceae	367072
+Malasseziaceae	197251
+Saccharomycetaceae	552647
+Saccharomycodaceae	23
+Sordariaceae	133424
+Trichomonascaceae	5
+Unclassified	187523

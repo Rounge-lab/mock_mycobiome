@@ -1,0 +1,9 @@
+V1
+Aspergillus	0.6731
+Candida	0.2642
+Kluyveromyces	0.004
+Nakaseomyces	0.0016
+Naumovozyma	0.0019
+Penicillium	1e-04
+Pneumocystis	2e-04
+Yarrowia	0.0549

@@ -1,0 +1,339 @@
+Taxon name,RelAbReads,PERCENTAGE,Mock_community,Tool,Level,ComType
+Candida albicans,10.0,10.249014481783696,small_1,micop,Species,EqualReads
+Debaryomyces hansenii,10.0,14.131628886388862,small_1,micop,Species,EqualReads
+Kluyveromyces lactis,10.0,15.742905133414352,small_1,micop,Species,EqualReads
+Saccharomyces cerevisiae,10.0,13.493153370431866,small_1,micop,Species,EqualReads
+Yarrowia lipolytica,10.0,7.978066858361021,small_1,micop,Species,EqualReads
+Aspergillus,10.0,0.0644612478576848,small_1,micop,Genus,EqualReads
+Candida,10.0,10.249014481783696,small_1,micop,Genus,EqualReads
+Debaryomyces,10.0,14.131628886388862,small_1,micop,Genus,EqualReads
+Kluyveromyces,10.0,15.742905133414352,small_1,micop,Genus,EqualReads
+Malassezia,10.0,23.884047316009656,small_1,micop,Genus,EqualReads
+Neurospora,10.0,0.498804123801858,small_1,micop,Genus,EqualReads
+Saccharomyces,20.0,27.45107195238286,small_1,micop,Genus,EqualReads
+Yarrowia,10.0,7.978066858361021,small_1,micop,Genus,EqualReads
+Aspergillaceae,10.0,0.0644612478576848,small_1,micop,Family,EqualReads
+Debaryomycetaceae,20.0,24.38064336817256,small_1,micop,Family,EqualReads
+Malasseziaceae,10.0,23.884047316009656,small_1,micop,Family,EqualReads
+Saccharomycetaceae,40.0,43.19397708579721,small_1,micop,Family,EqualReads
+Sordariaceae,10.0,0.498804123801858,small_1,micop,Family,EqualReads
+Candida albicans,10.0,10.99561075621888,small_2,micop,Species,EqualReads
+Coccidioides posadasii,10.0,5.581622811748546,small_2,micop,Species,EqualReads
+Debaryomyces hansenii,10.0,15.16071508129506,small_2,micop,Species,EqualReads
+Kluyveromyces lactis,10.0,16.888610339280977,small_2,micop,Species,EqualReads
+Saccharomyces cerevisiae,10.0,14.470859455444373,small_2,micop,Species,EqualReads
+Candida,20.0,10.99561075621888,small_2,micop,Genus,EqualReads
+Coccidioides,10.0,5.581622811748546,small_2,micop,Genus,EqualReads
+Debaryomyces,10.0,15.16071508129506,small_2,micop,Genus,EqualReads
+Kluyveromyces,10.0,16.888610339280977,small_2,micop,Genus,EqualReads
+Malassezia,10.0,25.62436322387202,small_2,micop,Genus,EqualReads
+Saccharomyces,10.0,14.470859455444373,small_2,micop,Genus,EqualReads
+Debaryomycetaceae,30.0,26.15632583751394,small_2,micop,Family,EqualReads
+Malasseziaceae,10.0,25.62436322387202,small_2,micop,Family,EqualReads
+Saccharomycetaceae,30.0,42.63768812686549,small_2,micop,Family,EqualReads
+Candida albicans,10.0,9.949220824756944,small_3,micop,Species,EqualReads
+Debaryomyces hansenii,10.0,13.718791320494468,small_3,micop,Species,EqualReads
+Kluyveromyces lactis,10.0,15.286542490916236,small_3,micop,Species,EqualReads
+Kluyveromyces marxianus,10.0,14.404634927517607,small_3,micop,Species,EqualReads
+Saccharomyces cerevisiae,10.0,13.09369299746484,small_3,micop,Species,EqualReads
+Candida,10.0,9.949220824756944,small_3,micop,Genus,EqualReads
+Debaryomyces,10.0,13.718791320494468,small_3,micop,Genus,EqualReads
+Kluyveromyces,20.0,29.69117741843384,small_3,micop,Genus,EqualReads
+Kwoniella,10.0,7.396964501404227,small_3,micop,Genus,EqualReads
+Malassezia,10.0,23.186075636839377,small_3,micop,Genus,EqualReads
+Saccharomyces,10.0,13.09369299746484,small_3,micop,Genus,EqualReads
+Cryptococcaceae,10.0,7.396964501404227,small_3,micop,Family,EqualReads
+Debaryomycetaceae,20.0,23.66801214525141,small_3,micop,Family,EqualReads
+Malasseziaceae,10.0,23.186075636839377,small_3,micop,Family,EqualReads
+Nectriaceae,10.0,2.9640773006062946,small_3,micop,Family,EqualReads
+Saccharomycetaceae,30.0,42.78487041589868,small_3,micop,Family,EqualReads
+Candida albicans,2.0,3.1499731543751563,median_1,micop,Species,EqualReads
+Cryptococcus neoformans,2.0,2.76340752049528,median_1,micop,Species,EqualReads
+Debaryomyces hansenii,2.0,4.343385147834758,median_1,micop,Species,EqualReads
+Eremothecium cymbalariae,2.0,5.396541269779392,median_1,micop,Species,EqualReads
+Eremothecium sinecaudum,2.0,5.971620100160419,median_1,micop,Species,EqualReads
+Kazachstania africana,2.0,4.614835417139317,median_1,micop,Species,EqualReads
+Kluyveromyces lactis,2.0,4.838766484675394,median_1,micop,Species,EqualReads
+Kwoniella bestiolae,2.0,2.188789974333517,median_1,micop,Species,EqualReads
+Saccharomyces cerevisiae,2.0,4.149851070413672,median_1,micop,Species,EqualReads
+Sugiyamaella lignohabitans,2.0,3.2871782163079173,median_1,micop,Species,EqualReads
+Torulaspora delbrueckii,2.0,5.833979083605205,median_1,micop,Species,EqualReads
+Zygosaccharomyces rouxii,2.0,5.35082520367177,median_1,micop,Species,EqualReads
+Aspergillus,8.0,0.1959240755909348,median_1,micop,Genus,EqualReads
+Botrytis,2.0,0.0092690357263879,median_1,micop,Genus,EqualReads
+Candida,4.0,3.1499731543751563,median_1,micop,Genus,EqualReads
+Debaryomyces,2.0,4.343385147834758,median_1,micop,Genus,EqualReads
+Eremothecium,4.0,11.379219228863043,median_1,micop,Genus,EqualReads
+Kazachstania,4.0,4.614835417139317,median_1,micop,Genus,EqualReads
+Kluyveromyces,2.0,4.838766484675394,median_1,micop,Genus,EqualReads
+Kwoniella,10.0,11.83869925540365,median_1,micop,Genus,EqualReads
+Malassezia,6.0,20.733569993314585,median_1,micop,Genus,EqualReads
+Neurospora,2.0,0.0031867371877586,median_1,micop,Genus,EqualReads
+Saccharomyces,4.0,8.337853246179167,median_1,micop,Genus,EqualReads
+Sugiyamaella,2.0,3.2871782163079173,median_1,micop,Genus,EqualReads
+Torulaspora,2.0,5.833979083605205,median_1,micop,Genus,EqualReads
+Zygosaccharomyces,2.0,5.35082520367177,median_1,micop,Genus,EqualReads
+Aspergillaceae,10.0,0.1959240755909348,median_1,micop,Family,EqualReads
+Cryptococcaceae,14.0,14.60210677589893,median_1,micop,Family,EqualReads
+Debaryomycetaceae,10.0,7.493358302209915,median_1,micop,Family,EqualReads
+Malasseziaceae,6.0,20.733569993314585,median_1,micop,Family,EqualReads
+Nectriaceae,2.0,0.4260726945728731,median_1,micop,Family,EqualReads
+Pleosporaceae,6.0,0.0028124006409424,median_1,micop,Family,EqualReads
+Saccharomycetaceae,20.0,50.15469352653388,median_1,micop,Family,EqualReads
+Sclerotiniaceae,2.0,0.0092690357263879,median_1,micop,Family,EqualReads
+Sordariaceae,2.0,0.0068269571095319,median_1,micop,Family,EqualReads
+Trichomonascaceae,2.0,3.2871782163079173,median_1,micop,Family,EqualReads
+Candida albicans,2.0,5.795466527671478,median_2,micop,Species,EqualReads
+Cryptococcus gattii,2.0,5.285098083232157,median_2,micop,Species,EqualReads
+Debaryomyces hansenii,2.0,7.990533483611735,median_2,micop,Species,EqualReads
+Kluyveromyces lactis,2.0,8.901704782937696,median_2,micop,Species,EqualReads
+Naumovozyma castellii,2.0,8.554735950232134,median_2,micop,Species,EqualReads
+Neurospora crassa,2.0,2.531554215247682,median_2,micop,Species,EqualReads
+Saccharomyces cerevisiae,2.0,7.627699687335917,median_2,micop,Species,EqualReads
+Tetrapisispora phaffii,2.0,7.628533602340798,median_2,micop,Species,EqualReads
+Aspergillus,8.0,0.0682431310033647,median_2,micop,Genus,EqualReads
+Candida,6.0,5.795466527671478,median_2,micop,Genus,EqualReads
+Cryptococcus,6.0,10.814650383257586,median_2,micop,Genus,EqualReads
+Debaryomyces,2.0,7.990533483611735,median_2,micop,Genus,EqualReads
+Kluyveromyces,2.0,8.901704782937696,median_2,micop,Genus,EqualReads
+Malassezia,4.0,13.507633141047952,median_2,micop,Genus,EqualReads
+Naumovozyma,2.0,8.554735950232134,median_2,micop,Genus,EqualReads
+Neurospora,4.0,2.531554215247682,median_2,micop,Genus,EqualReads
+Ogataea,8.0,0.3646750226067379,median_2,micop,Genus,EqualReads
+Saccharomyces,2.0,7.627699687335917,median_2,micop,Genus,EqualReads
+Tetrapisispora,4.0,7.628533602340798,median_2,micop,Genus,EqualReads
+Aspergillaceae,8.0,0.0682431310033647,median_2,micop,Family,EqualReads
+Cryptococcaceae,8.0,10.814650383257586,median_2,micop,Family,EqualReads
+Debaryomycetaceae,16.0,22.88299436489696,median_2,micop,Family,EqualReads
+Malasseziaceae,4.0,13.507633141047952,median_2,micop,Family,EqualReads
+Nectriaceae,2.0,1.7289554115502097,median_2,micop,Family,EqualReads
+Pichiaceae,10.0,7.394398861101346,median_2,micop,Family,EqualReads
+Saccharomycetaceae,10.0,38.70244134746044,median_2,micop,Family,EqualReads
+Sordariaceae,4.0,2.531554215247682,median_2,micop,Family,EqualReads
+Candida albicans,2.0,2.881025963594166,median_3,micop,Species,EqualReads
+Candida dubliniensis,2.0,2.7142970945087237,median_3,micop,Species,EqualReads
+Candida orthopsilosis,2.0,3.753747634907089,median_3,micop,Species,EqualReads
+Coccidioides posadasii,2.0,1.4615847243178983,median_3,micop,Species,EqualReads
+Debaryomyces hansenii,2.0,3.9790544692461536,median_3,micop,Species,EqualReads
+Encephalitozoon cuniculi,2.0,19.714841981292167,median_3,micop,Species,EqualReads
+Eremothecium gossypii,2.0,5.36235697456609,median_3,micop,Species,EqualReads
+Kluyveromyces lactis,2.0,4.425355571592143,median_3,micop,Species,EqualReads
+Kluyveromyces marxianus,2.0,4.173096332106661,median_3,micop,Species,EqualReads
+Komagataella phaffii,2.0,5.295932929167439,median_3,micop,Species,EqualReads
+Kwoniella dejecticola,2.0,2.0703338777993263,median_3,micop,Species,EqualReads
+Lodderomyces elongisporus,2.0,2.2275513503053075,median_3,micop,Species,EqualReads
+Ogataea parapolymorpha,2.0,5.521236545043385,median_3,micop,Species,EqualReads
+Pichia kudriavzevii,2.0,4.278650017165967,median_3,micop,Species,EqualReads
+Saccharomyces cerevisiae,2.0,3.7917580017771386,median_3,micop,Species,EqualReads
+Saccharomyces eubayanus,2.0,3.916596232266118,median_3,micop,Species,EqualReads
+Scheffersomyces stipitis,2.0,3.1720484159611027,median_3,micop,Species,EqualReads
+Sordaria macrospora,2.0,1.21696056167667,median_3,micop,Species,EqualReads
+Aspergillus,2.0,0.018354369283182,median_3,micop,Genus,EqualReads
+Candida,10.0,9.349070693009978,median_3,micop,Genus,EqualReads
+Coccidioides,2.0,1.4615847243178983,median_3,micop,Genus,EqualReads
+Debaryomyces,4.0,3.9790544692461536,median_3,micop,Genus,EqualReads
+Encephalitozoon,2.0,19.714841981292167,median_3,micop,Genus,EqualReads
+Eremothecium,2.0,5.372239765799741,median_3,micop,Genus,EqualReads
+Kluyveromyces,4.0,8.598451903698805,median_3,micop,Genus,EqualReads
+Komagataella,2.0,5.295932929167439,median_3,micop,Genus,EqualReads
+Kwoniella,2.0,2.0703338777993263,median_3,micop,Genus,EqualReads
+Lodderomyces,2.0,2.2275513503053075,median_3,micop,Genus,EqualReads
+Malassezia,6.0,6.713525215456379,median_3,micop,Genus,EqualReads
+Ogataea,2.0,5.521236545043385,median_3,micop,Genus,EqualReads
+Pichia,2.0,4.278650017165967,median_3,micop,Genus,EqualReads
+Saccharomyces,6.0,11.627894143496215,median_3,micop,Genus,EqualReads
+Scheffersomyces,6.0,3.1720484159611027,median_3,micop,Genus,EqualReads
+Sordaria,2.0,1.21696056167667,median_3,micop,Genus,EqualReads
+Aspergillaceae,4.0,0.0203328234877058,median_3,micop,Family,EqualReads
+Cryptococcaceae,4.0,4.8350287617193,median_3,micop,Family,EqualReads
+Debaryomycetaceae,26.0,18.72772492852254,median_3,micop,Family,EqualReads
+Malasseziaceae,6.0,6.713525215456379,median_3,micop,Family,EqualReads
+Pichiaceae,4.0,15.09581949137679,median_3,micop,Family,EqualReads
+Saccharomycetaceae,18.0,32.21418151215053,median_3,micop,Family,EqualReads
+Sordariaceae,2.0,1.21696056167667,median_3,micop,Family,EqualReads
+Unikaryonidae,2.0,19.714841981292167,median_3,micop,Family,EqualReads
+Candida albicans,1.0,1.8241048336504373,large_1,micop,Species,EqualReads
+Candida dubliniensis,1.0,1.7154190809125434,large_1,micop,Species,EqualReads
+Coccidioides posadasii,1.0,0.9288366647818924,large_1,micop,Species,EqualReads
+Cryptococcus gattii,1.0,1.665202179290613,large_1,micop,Species,EqualReads
+Cryptococcus neoformans,1.0,1.602786441379339,large_1,micop,Species,EqualReads
+Debaryomyces hansenii,1.0,2.513963293195588,large_1,micop,Species,EqualReads
+Encephalitozoon cuniculi,1.0,12.487215967898363,large_1,micop,Species,EqualReads
+Eremothecium gossypii,1.0,3.400760478312986,large_1,micop,Species,EqualReads
+Eremothecium sinecaudum,1.0,3.462078106210365,large_1,micop,Species,EqualReads
+Kluyveromyces lactis,1.0,2.802022313944993,large_1,micop,Species,EqualReads
+Kluyveromyces marxianus,1.0,2.6346992680706287,large_1,micop,Species,EqualReads
+Kwoniella bestiolae,1.0,1.267704343052776,large_1,micop,Species,EqualReads
+Kwoniella dejecticola,1.0,1.31109007217541,large_1,micop,Species,EqualReads
+Lachancea thermotolerans,1.0,2.9891865832883684,large_1,micop,Species,EqualReads
+Naumovozyma castellii,1.0,2.689689411030752,large_1,micop,Species,EqualReads
+Ogataea parapolymorpha,1.0,3.597836606078091,large_1,micop,Species,EqualReads
+Pichia kudriavzevii,1.0,2.713509306626107,large_1,micop,Species,EqualReads
+Saccharomyces cerevisiae,1.0,2.4021551871546145,large_1,micop,Species,EqualReads
+Saccharomyces eubayanus,1.0,2.4809230530028867,large_1,micop,Species,EqualReads
+Scheffersomyces stipitis,1.0,2.0068115631133807,large_1,micop,Species,EqualReads
+Sordaria macrospora,1.0,0.7711106175228492,large_1,micop,Species,EqualReads
+Talaromyces marneffei,1.0,1.0958088278232991,large_1,micop,Species,EqualReads
+Tetrapisispora phaffii,1.0,2.4013258477131605,large_1,micop,Species,EqualReads
+Zygosaccharomyces rouxii,1.0,3.09509118389032,large_1,micop,Species,EqualReads
+Aspergillus,4.0,0.0227447333444475,large_1,micop,Genus,EqualReads
+Botrytis,1.0,0.0055657921143473,large_1,micop,Genus,EqualReads
+Candida,5.0,3.539523914562981,large_1,micop,Genus,EqualReads
+Coccidioides,1.0,0.9288366647818924,large_1,micop,Genus,EqualReads
+Debaryomyces,1.0,2.513963293195588,large_1,micop,Genus,EqualReads
+Encephalitozoon,1.0,12.487215967898363,large_1,micop,Genus,EqualReads
+Eremothecium,2.0,6.862838584523351,large_1,micop,Genus,EqualReads
+Kluyveromyces,2.0,5.436721582015622,large_1,micop,Genus,EqualReads
+Kwoniella,3.0,4.038189994319544,large_1,micop,Genus,EqualReads
+Lachancea,1.0,2.9891865832883684,large_1,micop,Genus,EqualReads
+Malassezia,4.0,7.896929658155612,large_1,micop,Genus,EqualReads
+Naumovozyma,1.0,2.689689411030752,large_1,micop,Genus,EqualReads
+Neurospora,1.0,0.0898543975742023,large_1,micop,Genus,EqualReads
+Ogataea,3.0,3.597836606078091,large_1,micop,Genus,EqualReads
+Pichia,1.0,2.713509306626107,large_1,micop,Genus,EqualReads
+Saccharomyces,4.0,9.78831108816448,large_1,micop,Genus,EqualReads
+Scheffersomyces,2.0,2.0068115631133807,large_1,micop,Genus,EqualReads
+Sordaria,1.0,0.7711106175228492,large_1,micop,Genus,EqualReads
+Talaromyces,1.0,1.0958088278232991,large_1,micop,Genus,EqualReads
+Tetrapisispora,2.0,2.4013258477131605,large_1,micop,Genus,EqualReads
+Zygosaccharomyces,1.0,3.09509118389032,large_1,micop,Genus,EqualReads
+Aspergillaceae,4.0,0.0227447333444475,large_1,micop,Family,EqualReads
+Cryptococcaceae,8.0,10.797685084608782,large_1,micop,Family,EqualReads
+Debaryomycetaceae,14.0,10.92345600389135,large_1,micop,Family,EqualReads
+Malasseziaceae,4.0,7.896929658155612,large_1,micop,Family,EqualReads
+Nectriaceae,2.0,0.7926267618589597,large_1,micop,Family,EqualReads
+Pichiaceae,5.0,8.519955696679894,large_1,micop,Family,EqualReads
+Pleosporaceae,4.0,0.0008914188752306,large_1,micop,Family,EqualReads
+Saccharomycetaceae,18.0,43.13123968610751,large_1,micop,Family,EqualReads
+Sclerotiniaceae,1.0,0.0055657921143473,large_1,micop,Family,EqualReads
+Sordariaceae,2.0,0.8609650150970516,large_1,micop,Family,EqualReads
+Trichocomaceae,1.0,1.0958088278232991,large_1,micop,Family,EqualReads
+Unikaryonidae,1.0,12.487215967898363,large_1,micop,Family,EqualReads
+Aspergillus flavus,1.0,1.029478198266512,large_2,micop,Species,EqualReads
+Aspergillus oryzae,1.0,1.0179129809009713,large_2,micop,Species,EqualReads
+Candida albicans,1.0,2.2740803637929767,large_2,micop,Species,EqualReads
+Candida dubliniensis,1.0,2.1420563429969666,large_2,micop,Species,EqualReads
+Candida orthopsilosis,1.0,2.960271350508592,large_2,micop,Species,EqualReads
+Cryptococcus gattii,1.0,2.0745058111810013,large_2,micop,Species,EqualReads
+Debaryomyces hansenii,1.0,3.1286793875601555,large_2,micop,Species,EqualReads
+Eremothecium cymbalariae,1.0,3.8875782390303546,large_2,micop,Species,EqualReads
+Kluyveromyces lactis,1.0,3.491533398524074,large_2,micop,Species,EqualReads
+Kluyveromyces marxianus,1.0,3.2865012127454323,large_2,micop,Species,EqualReads
+Komagataella phaffii,1.0,4.173042878434638,large_2,micop,Species,EqualReads
+Kwoniella bestiolae,1.0,1.5791403041036056,large_2,micop,Species,EqualReads
+Kwoniella dejecticola,1.0,1.6322601287648877,large_2,micop,Species,EqualReads
+Lodderomyces elongisporus,1.0,1.7619310205738334,large_2,micop,Species,EqualReads
+Naumovozyma castellii,1.0,3.355639441145114,large_2,micop,Species,EqualReads
+Neurospora crassa,1.0,0.9777027319101956,large_2,micop,Species,EqualReads
+Pichia kudriavzevii,1.0,3.3751264018493914,large_2,micop,Species,EqualReads
+Saccharomyces cerevisiae,1.0,2.9896886078236067,large_2,micop,Species,EqualReads
+Saccharomyces eubayanus,1.0,3.093539045338378,large_2,micop,Species,EqualReads
+Scheffersomyces stipitis,1.0,2.501179583107013,large_2,micop,Species,EqualReads
+Sordaria macrospora,1.0,0.9611195459403126,large_2,micop,Species,EqualReads
+Talaromyces marneffei,1.0,1.3654356316315517,large_2,micop,Species,EqualReads
+Tetrapisispora phaffii,1.0,2.9960826898715065,large_2,micop,Species,EqualReads
+Torulaspora delbrueckii,1.0,4.208379301995142,large_2,micop,Species,EqualReads
+Yarrowia lipolytica,1.0,1.77177282162504,large_2,micop,Species,EqualReads
+Aspergillus,8.0,3.3677750201099093,large_2,micop,Genus,EqualReads
+Botrytis,1.0,0.0066365989144737,large_2,micop,Genus,EqualReads
+Candida,9.0,7.376408057298535,large_2,micop,Genus,EqualReads
+Debaryomyces,1.0,3.1286793875601555,large_2,micop,Genus,EqualReads
+Eremothecium,1.0,3.8875782390303546,large_2,micop,Genus,EqualReads
+Kluyveromyces,2.0,6.778034611269506,large_2,micop,Genus,EqualReads
+Komagataella,1.0,4.173042878434638,large_2,micop,Genus,EqualReads
+Kwoniella,5.0,6.606728284182509,large_2,micop,Genus,EqualReads
+Lodderomyces,1.0,1.7619310205738334,large_2,micop,Genus,EqualReads
+Malassezia,4.0,9.84101441937753,large_2,micop,Genus,EqualReads
+Naumovozyma,1.0,3.355639441145114,large_2,micop,Genus,EqualReads
+Neurospora,2.0,0.9777027319101956,large_2,micop,Genus,EqualReads
+Ogataea,4.0,0.1394956613202026,large_2,micop,Genus,EqualReads
+Pichia,1.0,3.3751264018493914,large_2,micop,Genus,EqualReads
+Saccharomyces,4.0,12.14775219109638,large_2,micop,Genus,EqualReads
+Scheffersomyces,2.0,2.501179583107013,large_2,micop,Genus,EqualReads
+Sordaria,1.0,0.9611195459403126,large_2,micop,Genus,EqualReads
+Talaromyces,1.0,1.3654356316315517,large_2,micop,Genus,EqualReads
+Tetrapisispora,2.0,2.9960826898715065,large_2,micop,Genus,EqualReads
+Torulaspora,1.0,4.208379301995142,large_2,micop,Genus,EqualReads
+Yarrowia,1.0,1.77177282162504,large_2,micop,Genus,EqualReads
+Aspergillaceae,8.0,3.3677750201099093,large_2,micop,Family,EqualReads
+Cryptococcaceae,9.0,13.032565970318576,large_2,micop,Family,EqualReads
+Debaryomycetaceae,18.0,14.76819804853954,large_2,micop,Family,EqualReads
+Malasseziaceae,4.0,9.84101441937753,large_2,micop,Family,EqualReads
+Nectriaceae,2.0,0.9843307156078182,large_2,micop,Family,EqualReads
+Pichiaceae,6.0,10.44712313291658,large_2,micop,Family,EqualReads
+Pleosporaceae,4.0,0.0013518209950766,large_2,micop,Family,EqualReads
+Saccharomycetaceae,14.0,39.31173508862622,large_2,micop,Family,EqualReads
+Sclerotiniaceae,1.0,0.0066365989144737,large_2,micop,Family,EqualReads
+Sordariaceae,3.0,1.938822277850508,large_2,micop,Family,EqualReads
+Trichocomaceae,1.0,1.3654356316315517,large_2,micop,Family,EqualReads
+Aspergillus flavus,0.6060606060606061,0.660513602170431,complete_1,micop,Species,EqualReads
+Aspergillus oryzae,0.6060606060606061,0.6527310430575083,complete_1,micop,Species,EqualReads
+Candida albicans,0.6060606060606061,1.46236140874555,complete_1,micop,Species,EqualReads
+Candida dubliniensis,0.6060606060606061,1.3727075246500633,complete_1,micop,Species,EqualReads
+Candida orthopsilosis,0.6060606060606061,1.8998812522844977,complete_1,micop,Species,EqualReads
+Coccidioides posadasii,0.6060606060606061,0.7417912716918448,complete_1,micop,Species,EqualReads
+Cryptococcus gattii,0.6060606060606061,1.3288799008414407,complete_1,micop,Species,EqualReads
+Cryptococcus neoformans,0.6060606060606061,1.280581243374506,complete_1,micop,Species,EqualReads
+Debaryomyces hansenii,0.6060606060606061,2.011310806770119,complete_1,micop,Species,EqualReads
+Encephalitozoon cuniculi,0.6060606060606061,9.964655611595646,complete_1,micop,Species,EqualReads
+Eremothecium gossypii,0.6060606060606061,2.714508866475195,complete_1,micop,Species,EqualReads
+Kazachstania africana,0.6060606060606061,2.1359355217051084,complete_1,micop,Species,EqualReads
+Kluyveromyces lactis,0.6060606060606061,2.238906801553155,complete_1,micop,Species,EqualReads
+Kluyveromyces marxianus,0.6060606060606061,2.1061721412115406,complete_1,micop,Species,EqualReads
+Komagataella phaffii,0.6060606060606061,2.678857280354467,complete_1,micop,Species,EqualReads
+Kwoniella bestiolae,0.6060606060606061,1.0122210176143704,complete_1,micop,Species,EqualReads
+Kwoniella dejecticola,0.6060606060606061,1.0466725455260837,complete_1,micop,Species,EqualReads
+Lachancea thermotolerans,0.6060606060606061,2.3860136148727333,complete_1,micop,Species,EqualReads
+Lodderomyces elongisporus,0.6060606060606061,1.132782525747129,complete_1,micop,Species,EqualReads
+Naumovozyma castellii,0.6060606060606061,2.148624184173309,complete_1,micop,Species,EqualReads
+Neurospora crassa,0.6060606060606061,0.6997967012970295,complete_1,micop,Species,EqualReads
+Ogataea parapolymorpha,0.6060606060606061,2.8825447560051294,complete_1,micop,Species,EqualReads
+Pichia kudriavzevii,0.6060606060606061,2.164589641989016,complete_1,micop,Species,EqualReads
+Saccharomyces cerevisiae,0.6060606060606061,1.917565528739748,complete_1,micop,Species,EqualReads
+Saccharomyces eubayanus,0.6060606060606061,1.9843703452133168,complete_1,micop,Species,EqualReads
+Scheffersomyces stipitis,0.6060606060606061,1.6051300031582232,complete_1,micop,Species,EqualReads
+Sordaria macrospora,0.6060606060606061,0.6168243565335954,complete_1,micop,Species,EqualReads
+Talaromyces marneffei,0.6060606060606061,0.874797402213167,complete_1,micop,Species,EqualReads
+Tetrapisispora phaffii,0.6060606060606061,1.9176125442718928,complete_1,micop,Species,EqualReads
+Torulaspora delbrueckii,0.6060606060606061,2.6985663118788845,complete_1,micop,Species,EqualReads
+Yarrowia lipolytica,0.6060606060606061,1.1358843798512923,complete_1,micop,Species,EqualReads
+Zygosaccharomyces rouxii,0.6060606060606061,2.4694895982807417,complete_1,micop,Species,EqualReads
+Aspergillus,7.878787878787879,2.26163609212355,complete_1,micop,Genus,EqualReads
+Botrytis,0.6060606060606061,0.0043252350030016,complete_1,micop,Genus,EqualReads
+Candida,6.0606060606060606,4.734950185680111,complete_1,micop,Genus,EqualReads
+Coccidioides,0.6060606060606061,0.7417912716918448,complete_1,micop,Genus,EqualReads
+Cryptococcus,3.6363636363636367,5.399192220409301,complete_1,micop,Genus,EqualReads
+Debaryomyces,1.2121212121212122,2.011310806770119,complete_1,micop,Genus,EqualReads
+Encephalitozoon,0.6060606060606061,9.964655611595646,complete_1,micop,Genus,EqualReads
+Eremothecium,0.6060606060606061,2.7202144847952625,complete_1,micop,Genus,EqualReads
+Kazachstania,2.4242424242424243,2.1359355217051084,complete_1,micop,Genus,EqualReads
+Kluyveromyces,1.2121212121212122,4.345078942764696,complete_1,micop,Genus,EqualReads
+Komagataella,0.6060606060606061,2.678857280354467,complete_1,micop,Genus,EqualReads
+Kwoniella,4.242424242424242,6.516796742156469,complete_1,micop,Genus,EqualReads
+Lachancea,1.2121212121212122,2.3860136148727333,complete_1,micop,Genus,EqualReads
+Lodderomyces,0.6060606060606061,1.132782525747129,complete_1,micop,Genus,EqualReads
+Malassezia,3.6363636363636367,9.58329423079095,complete_1,micop,Genus,EqualReads
+Naumovozyma,0.6060606060606061,2.148624184173309,complete_1,micop,Genus,EqualReads
+Neurospora,2.4242424242424243,0.6997967012970295,complete_1,micop,Genus,EqualReads
+Ogataea,3.0303030303030303,2.8825447560051294,complete_1,micop,Genus,EqualReads
+Pichia,1.2121212121212122,2.164589641989016,complete_1,micop,Genus,EqualReads
+Saccharomyces,3.0303030303030303,9.771846850640552,complete_1,micop,Genus,EqualReads
+Scheffersomyces,3.0303030303030303,1.6051300031582232,complete_1,micop,Genus,EqualReads
+Sordaria,0.6060606060606061,0.6168243565335954,complete_1,micop,Genus,EqualReads
+Talaromyces,0.6060606060606061,0.874797402213167,complete_1,micop,Genus,EqualReads
+Tetrapisispora,1.2121212121212122,1.9176125442718928,complete_1,micop,Genus,EqualReads
+Torulaspora,0.6060606060606061,2.6985663118788845,complete_1,micop,Genus,EqualReads
+Yarrowia,0.6060606060606061,1.1358843798512923,complete_1,micop,Genus,EqualReads
+Zygosaccharomyces,0.6060606060606061,2.4694895982807417,complete_1,micop,Genus,EqualReads
+Aspergillaceae,9.090909090909092,2.262924748616064,complete_1,micop,Family,EqualReads
+Cryptococcaceae,7.878787878787879,11.91598896256577,complete_1,micop,Family,EqualReads
+Debaryomycetaceae,15.757575757575758,11.770615459123055,complete_1,micop,Family,EqualReads
+Malasseziaceae,3.6363636363636367,9.58329423079095,complete_1,micop,Family,EqualReads
+Nectriaceae,0.6060606060606061,0.4340723064432771,complete_1,micop,Family,EqualReads
+Pichiaceae,4.848484848484849,9.4960834026477,complete_1,micop,Family,EqualReads
+Pleosporaceae,4.242424242424242,0.0021352858733129,complete_1,micop,Family,EqualReads
+Saccharomycetaceae,12.727272727272728,38.47088723002997,complete_1,micop,Family,EqualReads
+Sclerotiniaceae,0.6060606060606061,0.0043252350030016,complete_1,micop,Family,EqualReads
+Sordariaceae,3.0303030303030303,1.3166210578306248,complete_1,micop,Family,EqualReads
+Trichocomaceae,0.6060606060606061,0.874797402213167,complete_1,micop,Family,EqualReads
+Unikaryonidae,0.6060606060606061,9.964655611595646,complete_1,micop,Family,EqualReads

@@ -1,0 +1,170 @@
+configfile: "config/config.yaml"
+
+import os
+genomelist=os.listdir(config['genomes'])
+#profiles=['small_1_EC','small_2_EC','small_3_EC','median_1_EC','median_2_EC','median_3_EC','large_1_EC','large_2_EC','complete_1_EC']
+#profiles=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']
+#profiles=['small_1']
+
+profiles=['small_1b','small_2b','small_3b']
+
+mode='plusbacteria_metagenomes99'
+
+rule all:
+    input:
+        #expand("log/simdata/{genome}.txt", genome=genomelist),
+        #expand('log/simmetagenome/{profile}.flag',profile=profiles),
+        #expand(f"data/kraken_fungiDB/{mode}/{{profile}}_report.txt",profile=profiles),
+        #expand(f"data/metaphlan/{mode}/{{profile}}_metarep.txt",profile=profiles)
+        expand(f"data/funomic/{mode}/{{profile}}/finished.txt",profile=profiles),
+        expand(f"data/micop/{mode}/{{profile}}.flag", profile=profiles)
+
+#commode='equal_reads_metagenomes'
+        
+rule art_illumina:
+    input:
+        infile=config['genomes']+"/{genome}"
+    output:
+        logfile="log/simdata/{genome}.txt"
+    threads:
+        4
+    params:
+        outprefix="data/simdata/{genome}_",
+        seqpl="HS25",
+        numreads=100000,
+        length=150,
+        meansize=300,
+        stdev=100,
+        minqual=30,
+        maxqual=40,
+        seed=1234      
+    shell:
+        """
+        art_illumina \
+            -i {input.infile} \
+            -ss {params.seqpl} \
+            -c {params.numreads} \
+            -l {params.length}\
+            -m {params.meansize} \
+            -s {params.stdev} \
+            --paired \
+            -qL {params.minqual} \
+            -qU {params.maxqual} \
+            -rs {params.seed} \
+            -o {params.outprefix} > {output.logfile}
+
+        rm {params.outprefix}1.aln
+        rm {params.outprefix}2.aln
+        """
+
+rule generate_metagenomes:
+    input:
+        infile=config['profdir']+'/{profile}.csv'
+    output:
+        outfile='log/simmetagenome/{profile}.flag'
+    params:
+        #profile=lambda wildcards: wildcards.profiles,
+        simfol="data/simdata",
+        outfolname=f"{mode}",
+        seed=1234
+    shell:
+        """
+        python workflow/scripts/simulate_metagenome.py \
+        --profile {input.infile} \
+        --simfol {params.simfol}\
+        --outfol {params.outfolname} \
+        --seed {params.seed}
+
+        touch {output.outfile}
+        """
+
+rule classify_kraken:
+    input:
+        outfile='log/simmetagenome/{profile}.flag'
+    output:
+        out=f"data/kraken_fungiDB/{mode}/{{profile}}.txt",
+        rep=f"data/kraken_fungiDB/{mode}/{{profile}}_report.txt"
+    params:
+        inF=f"data/{mode}/{{profile}}_1.fq",
+        inR=f"data/{mode}/{{profile}}_2.fq",
+        db=config['kraken']
+    shell:
+        """
+        kraken2 {params.inF} {params.inR} --paired --use-names \
+         --use-mpa-style --output {output.out} --report {output.rep} \
+         --db {params.db}
+        """
+
+rule classify_metaphlan:
+    input:
+        outfile='log/simmetagenome/{profile}.flag'
+    output:
+        out=f"data/metaphlan/{mode}/{{profile}}_metarep.txt"
+    threads:
+        10
+    params:
+        inF=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/{mode}/{{profile}}_1.fq",
+        inR=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/{mode}/{{profile}}_2.fq",
+        db=config['metaphlan'],
+        bowout=f"data/metaphlan/{mode}/{{profile}}.bz2"
+    shell:
+        """
+        #pwd
+        metaphlan --input_type fastq \
+        -o {output.out} --bowtie2db {params.db} --bowtie2out {params.bowout} \
+        --nproc {threads} {params.inF},{params.inR}
+
+        """
+
+rule classify_funomic:
+    input:
+        inF=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/{mode}/{{profile}}_1.fq",
+        inR=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/{mode}/{{profile}}_2.fq"
+    output:
+        out=f"data/funomic/{mode}/{{profile}}/finished.txt"
+    threads:
+        20
+    params:
+        bactdb='/'.join([config['funomic'],'HumGut']),
+        taxdb='/'.join([config['funomic'],'FunOMIC-T/FunOMIC-Tv1']),
+        protdb='/'.join([config['funomic'],'FunOMIC-P/FunOMIC.P.v1']),
+        outfol=f"data/funomic/{mode}/{{profile}}",
+        pref="{profile}"
+    benchmark:
+        'benchmark/funomic/funomic_{profile}.txt'
+    shell:
+        """
+
+        bash ./workflow/scripts/FunOMIC.sh -1 {input.inF} -2 {input.inR} -o {params.outfol} \
+        -a {params.bactdb} -b {params.taxdb} -c {params.protdb} -t {threads} -p {params.pref}
+
+        touch {output.out}
+
+        """
+
+rule classify_micop:
+    input:
+        inF=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/{mode}/{{profile}}_1.fq",
+        inR=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/{mode}/{{profile}}_2.fq"
+    output:
+        out=f"data/micop/{mode}/{{profile}}.flag"
+    threads:
+        20
+    params:
+        micop=config['micop_tool'],
+        outsam=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/micop/{mode}/{{profile}}.sam",
+        outabun=f"/fp/projects01/ec34/katya/projects/Mock_fungal/data/micop/{mode}/{{profile}}_abundance.txt"
+    benchmark:
+        'benchmark/micop/micop_{profile}.txt'
+    shell:
+        """
+
+        hf=$(pwd)
+        cd {params.micop}
+        python ./run-bwa.py {input.inF} {input.inR} --output {params.outsam} --fungi
+        python ./compute-abundances.py {params.outsam} --output {params.outabun} --fungi
+
+        cd $hf
+        touch {output.out}
+
+        """

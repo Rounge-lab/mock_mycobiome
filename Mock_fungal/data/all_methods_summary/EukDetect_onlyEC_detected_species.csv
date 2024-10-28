@@ -1,0 +1,14 @@
+Profile	Tool	Level	Species	GenomeLength	NumReads
+median_3	Euk	Species	Debaryomyces hansenii CBS767	12152486	162033.0
+median_3	Euk	Species	Cladophialophora bantiana CBS 173.52	36722552	489634.0
+large_1	Euk	Species	Kluyveromyces lactis	10689156	142522.0
+large_1	Euk	Species	Aspergillus fischeri NRRL 181	31377515	418367.0
+large_2	Euk	Species	Aspergillus fischeri NRRL 181	31377515	418367.0
+large_2	Euk	Species	Aspergillus glaucus CBS 516.65	27993362	373245.0
+large_2	Euk	Species	Cladophialophora bantiana CBS 173.52	36722552	489634.0
+complete_1	Euk	Species	Debaryomyces hansenii CBS767	12152486	162033.0
+complete_1	Euk	Species	Cladophialophora bantiana CBS 173.52	36722552	489634.0
+complete_1	Euk	Species	Lachancea lanzarotensis	11092131	147895.0
+complete_1	Euk	Species	Kluyveromyces marxianus DMKU3-1042	10920159	145602.0
+complete_1	Euk	Genus	Fusarium falciforme	53563088	714175.0
+complete_1	Euk	Family	Fusarium falciforme	53563088	714175.0

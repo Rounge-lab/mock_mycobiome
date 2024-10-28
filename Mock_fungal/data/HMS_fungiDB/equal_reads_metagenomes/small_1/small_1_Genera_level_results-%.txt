@@ -1,0 +1,16 @@
+V1
+Aspergillus	0.0521
+Candida	0.1139
+Debaryomyces	0.1281
+Henningerozyma	1e-04
+Kazachstania	2e-04
+Kluyveromyces	0.1274
+Malassezia	0.13
+Nakaseomyces	1e-04
+Naumovozyma	4e-04
+Neurospora	0.0875
+Penicillium	1e-04
+Saccharomyces	0.2357
+Sordaria	4e-04
+Tetrapisispora	1e-04
+Yarrowia	0.1236

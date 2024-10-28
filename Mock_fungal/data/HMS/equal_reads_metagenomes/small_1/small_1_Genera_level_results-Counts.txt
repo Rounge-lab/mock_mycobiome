@@ -1,0 +1,26 @@
+V1
+Aspergillus	193314
+Aureobasidium	3
+Candida	161750
+Clavispora	51
+Cyberlindnera	5
+Debaryomyces	41334
+Fusarium	26
+Kluyveromyces	3371
+Lodderomyces	8
+Lomentospora	9
+Madurella	6
+Malassezia	203234
+Meyerozyma	11
+Nakaseomyces	2297
+Naumovozyma	689
+Neopestalotiopsis	7
+Penicillium	21
+Pichia	50
+Pneumocystis	171
+Purpureocillium	24
+Scedosporium	7
+Sporothrix	13
+Stachybotrys	12
+Unclassified	185
+Yarrowia	24681

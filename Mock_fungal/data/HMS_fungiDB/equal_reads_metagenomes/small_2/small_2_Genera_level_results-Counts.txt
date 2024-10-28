@@ -1,0 +1,24 @@
+V1
+Ascochyta	4
+Aspergillus	73
+Candida	173325
+Coccidioides	186279
+Debaryomyces	194284
+Eremothecium	46
+Henningerozyma	170105
+Huiozyma	8
+Kluyveromyces	193221
+Lachancea	10
+Lodderomyces	335
+Malassezia	197253
+Nakaseomyces	8
+Naumovozyma	7
+Penicillium	30
+Saccharomyces	165983
+Talaromyces	34
+Thermothelomyces	5
+Torulaspora	8
+Vanrija	8
+Yamadazyma	4
+Zygosaccharomyces	6
+Zygotorulaspora	8

@@ -1,0 +1,16 @@
+
+Aspergillaceae	1121
+Chaetomiaceae	5
+Cryptococcaceae	196854
+Debaryomycetaceae	367045
+Didymellaceae	382
+Glomerellaceae	3
+Malasseziaceae	197251
+Nectriaceae	186763
+Onygenaceae	6
+Ophiocordycipitaceae	22
+Pleosporaceae	2175
+Saccharomycetaceae	544025
+Saccharomycodaceae	3
+Sordariaceae	8
+Trichocomaceae	6

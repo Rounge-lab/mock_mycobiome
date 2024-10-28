@@ -1,0 +1,34 @@
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+2706	superkingdom	2706	Eukaryota	99.99999999999999
+4753	phylum	2706|4753	Eukaryota|Ascomycota	98.68468800917641
+	phylum	2706|	Eukaryota|Unclassified	1.3153119908235844
+4891	class	2706|4753|4891	Eukaryota|Ascomycota|Saccharomycetes	98.59880862472629
+	class	2706||	Eukaryota|Unclassified|Unclassified	1.3153119908235844
+5044	class	2706|4753|5044	Eukaryota|Ascomycota|Sordariomycetes	0.0858793844501271
+4892	order	2706|4753|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	98.59880862472629
+	order	2706|||	Eukaryota|Unclassified|Unclassified|Unclassified	1.3153119908235844
+5046	order	2706|4753|5044|5046	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales	0.0858793844501271
+4893	family	2706|4753|4891|4892|4893	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae	62.79281000411157
+4920	family	2706|4753|4891|4892|4920	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae	35.805998620614716
+27970	family	2706||||27970	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae	1.3153119908235844
+5127	family	2706|4753|5044|5046|5127	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae	0.0858793844501271
+4910	genus	2706|4753|4891|4892|4893|4910	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces	43.42283885156414
+4930	genus	2706|4753|4891|4892|4893|4930	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces	19.36997115254744
+4958	genus	2706|4753|4891|4892|4920|4958	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces	19.336826290317227
+5475	genus	2706|4753|4891|4892|4920|5475	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida	16.469172330297486
+27971	genus	2706||||27970|27971	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae|Enterocytozoon	1.3153119908235844
+57162	genus	2706|4753|5044|5046|5127|57162	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae|Fusarium solani species complex	0.0858793844501271
+28985	species	2706|4753|4891|4892|4893|4910|28985	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis	21.954579652242387
+4911	species	2706|4753|4891|4892|4893|4910|4911	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces marxianus	21.468259199321746
+4932	species	2706|4753|4891|4892|4893|4930|4932	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae	19.36997115254744
+4959	species	2706|4753|4891|4892|4920|4958|4959	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii	19.336826290317227
+5476	species	2706|4753|4891|4892|4920|5475|5476	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida|Candida albicans	16.469172330297486
+31281	species	2706||||27970|27971|31281	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae|Enterocytozoon|Enterocytozoon bieneusi	1.3153119908235844
+70790	species	2706|4753|5044|5046|5127|57162|70790	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae|Fusarium solani species complex|Nectria haematococca	0.0858793844501271
+	strain	2706|4753|4891|4892|4893|4910|28985|	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis|Unclassified	21.954579652242387
+1003335	strain	2706|4753|4891|4892|4893|4910|4911|1003335	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces marxianus|Kluyveromyces marxianus DMKU3-1042	21.468259199321746
+559292	strain	2706|4753|4891|4892|4893|4930|4932|559292	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae|Saccharomyces cerevisiae S288C	19.36997115254744
+284592	strain	2706|4753|4891|4892|4920|4958|4959|284592	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii|Debaryomyces hansenii CBS767	19.336826290317227
+237561	strain	2706|4753|4891|4892|4920|5475|5476|237561	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida|Candida albicans|Candida albicans SC5314	16.469172330297486
+481877	strain	2706||||27970|27971|31281|481877	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae|Enterocytozoon|Enterocytozoon bieneusi|Enterocytozoon bieneusi H348	1.3153119908235844
+660122	strain	2706|4753|5044|5046|5127|57162|70790|660122	Eukaryota|Ascomycota|Sordariomycetes|Hypocreales|Nectriaceae|Fusarium solani species complex|Nectria haematococca|Nectria haematococca mpVI 77-13-4	0.0858793844501271

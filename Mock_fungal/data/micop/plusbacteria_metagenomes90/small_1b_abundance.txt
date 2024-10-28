@@ -1,0 +1,53 @@
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+2706	superkingdom	2706	Eukaryota	100.0
+4753	phylum	2706|4753	Eukaryota|Ascomycota	99.86936994331494
+	phylum	2706|	Eukaryota|Unclassified	0.09142784466593282
+4970	phylum	2706|4970	Eukaryota|Basidiomycota	0.03920221201913574
+4891	class	2706|4753|4891	Eukaryota|Ascomycota|Saccharomycetes	89.97061046549598
+4967	class	2706|4753|4967	Eukaryota|Ascomycota|Eurotiomycetes	5.298809782951069
+5044	class	2706|4753|5044	Eukaryota|Ascomycota|Sordariomycetes	4.599949694867875
+	class	2706||	Eukaryota|Unclassified|Unclassified	0.09142784466593282
+55193	class	2706|4970|55193	Eukaryota|Basidiomycota|Malasseziomycetes	0.03920221201913574
+4892	order	2706|4753|4891|4892	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	89.97061046549598
+5042	order	2706|4753|4967|5042	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales	5.298809782951069
+5139	order	2706|4753|5044|5139	Eukaryota|Ascomycota|Sordariomycetes|Sordariales	4.599949694867875
+	order	2706|||	Eukaryota|Unclassified|Unclassified|Unclassified	0.09142784466593282
+55194	order	2706|4970|55193|55194	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales	0.03920221201913574
+4920	family	2706|4753|4891|4892|4920	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae	41.3610711720203
+4893	family	2706|4753|4891|4892|4893	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae	31.61395325983274
+4951	family	2706|4753|4891|4892|4951	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae	16.995586033642937
+5052	family	2706|4753|4967|5042|5052	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae	5.298809782951069
+5140	family	2706|4753|5044|5139|5140	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae	4.599949694867875
+27970	family	2706||||27970	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae	0.09142784466593282
+76773	family	2706|4970|55193|55194|76773	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae	0.03920221201913574
+4958	genus	2706|4753|4891|4892|4920|4958	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces	28.7809903141777
+4952	genus	2706|4753|4891|4892|4951|4952	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia	16.995586033642937
+4910	genus	2706|4753|4891|4892|4893|4910	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces	16.779399155034007
+4930	genus	2706|4753|4891|4892|4893|4930	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces	14.834554104798732
+5475	genus	2706|4753|4891|4892|4920|5475	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida	12.580080857842605
+5053	genus	2706|4753|4967|5042|5052|5053	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus	5.298809782951069
+5141	genus	2706|4753|5044|5139|5140|5141	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Neurospora	4.599949694867875
+27971	genus	2706||||27970|27971	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae|Enterocytozoon	0.09142784466593282
+76774	genus	2706|4970|55193|55194|76773|76774	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia	0.03920221201913574
+4959	species	2706|4753|4891|4892|4920|4958|4959	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii	28.7809903141777
+284591	species	2706|4753|4891|4892|4951|4952|284591	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia|Yarrowia lipolytica	16.995586033642937
+28985	species	2706|4753|4891|4892|4893|4910|28985	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis	16.779399155034007
+4932	species	2706|4753|4891|4892|4893|4930|4932	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae	14.834554104798732
+5476	species	2706|4753|4891|4892|4920|5475|5476	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida|Candida albicans	12.580080857842605
+5061	species	2706|4753|4967|5042|5052|5053|5061	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus niger	5.298809782951069
+40127	species	2706|4753|5044|5139|5140|5141|40127	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Neurospora|Neurospora tetrasperma	4.589653099318451
+31281	species	2706||||27970|27971|31281	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae|Enterocytozoon|Enterocytozoon bieneusi	0.09142784466593282
+425265	species	2706|4970|55193|55194|76773|76774|425265	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia globosa	0.03920221201913574
+367110	species	2706|4753|5044|5139|5140|5141|367110	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Neurospora|Neurospora crassa	0.010296595549424206
+	strain	2706|4753|4891|4892|4893|4910|28985|	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis|Unclassified	16.779399155034007
+559292	strain	2706|4753|4891|4892|4893|4930|4932|559292	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae|Saccharomyces cerevisiae S288C	14.834554104798732
+284592	strain	2706|4753|4891|4892|4920|4958|4959|284592	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii|Debaryomyces hansenii CBS767	14.782990035955443
+	strain	2706|4753|4891|4892|4920|4958|4959|	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii|Unclassified	13.998000278222257
+237561	strain	2706|4753|4891|4892|4920|5475|5476|237561	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Debaryomycetaceae|Candida|Candida albicans|Candida albicans SC5314	12.580080857842605
+284591	strain	2706|4753|4891|4892|4951|4952|284591|284591	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia|Yarrowia lipolytica|Yarrowia lipolytica CLIB122	8.764515955115822
+	strain	2706|4753|4891|4892|4951|4952|284591|	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Dipodascaceae|Yarrowia|Yarrowia lipolytica|Unclassified	8.231070078527116
+425011	strain	2706|4753|4967|5042|5052|5053|5061|425011	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus niger|Aspergillus niger CBS 513.88	5.298809782951069
+510951	strain	2706|4753|5044|5139|5140|5141|40127|510951	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Neurospora|Neurospora tetrasperma|Neurospora tetrasperma FGSC 2508	4.589653099318451
+481877	strain	2706||||27970|27971|31281|481877	Eukaryota|Unclassified|Unclassified|Unclassified|Enterocytozoonidae|Enterocytozoon|Enterocytozoon bieneusi|Enterocytozoon bieneusi H348	0.09142784466593282
+425265	strain	2706|4970|55193|55194|76773|76774|425265|425265	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia globosa|Malassezia globosa CBS 7966	0.03920221201913574
+367110	strain	2706|4753|5044|5139|5140|5141|367110|367110	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Neurospora|Neurospora crassa|Neurospora crassa OR74A	0.010296595549424206

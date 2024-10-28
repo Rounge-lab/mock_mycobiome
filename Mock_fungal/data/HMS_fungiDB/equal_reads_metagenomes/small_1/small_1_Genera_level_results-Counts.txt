@@ -1,0 +1,26 @@
+V1
+Aspergillus	79040
+Candida	172788
+Cryptococcus	3
+Debaryomyces	194279
+Eremothecium	64
+Henningerozyma	153
+Huiozyma	70
+Kazachstania	323
+Kluyveromyces	193321
+Lachancea	11
+Lodderomyces	5
+Malassezia	197251
+Nakaseomyces	159
+Naumovozyma	657
+Neurospora	132753
+Penicillium	170
+Saccharomyces	357600
+Saccharomycodes	23
+Sordaria	671
+Sugiyamaella	5
+Tetrapisispora	159
+Torulaspora	71
+Yarrowia	187523
+Zygosaccharomyces	29
+Zygotorulaspora	30

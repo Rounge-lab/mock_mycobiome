@@ -1,0 +1,27 @@
+V1
+Apiotrichum	3
+Arthroderma	51
+Aspergillus	8719
+Blastomyces	393
+Candida	162572
+Clavispora	43
+Curvularia	3
+Cyberlindnera	9
+Debaryomyces	41326
+Emergomyces	155
+Geotrichum	6
+Histoplasma	417
+Kluyveromyces	3114
+Lodderomyces	179
+Malassezia	202879
+Meyerozyma	14
+Nakaseomyces	1235
+Naumovozyma	652
+Paracoccidioides	194178
+Penicillium	25
+Pichia	85
+Pneumocystis	133
+Rhinocladiella	3
+Talaromyces	6
+Trichophyton	30
+Unclassified	121

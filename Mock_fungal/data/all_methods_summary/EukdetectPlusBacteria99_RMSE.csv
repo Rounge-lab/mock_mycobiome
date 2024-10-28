@@ -1,0 +1,10 @@
+Mock_community,Tool,Level,AvgRelAb,MAE,RMSE
+small_1b,eukdetect,Species,9,2,3
+small_1b,eukdetect,Genus,11,2,3
+small_1b,eukdetect,Family,16,3,4
+small_2b,eukdetect,Species,9,1,2
+small_2b,eukdetect,Genus,11,2,4
+small_2b,eukdetect,Family,22,4,5
+small_3b,eukdetect,Species,12,2,2
+small_3b,eukdetect,Genus,13,2,3
+small_3b,eukdetect,Family,18,3,4

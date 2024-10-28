@@ -1,0 +1,4 @@
+,MockCommunity,GeneratedReads,NumSpecies,NumGenera,NumFamily,TDSpecies,TDGenera,TDFamily,FDSpecies,FDGenera,FDFamily,RecallSpecies,PrecisionSpecies,RecallGenera,PrecisionGenera,RecallFamily,PrecisionFamily
+0,small_1b,1000000.0,10.0,9.0,6.0,7.0,7.0,5.0,1.0,1.0,1.0,70.0,87.5,77.77777777777779,87.5,83.33333333333334,83.33333333333334
+1,small_2b,1000000.0,10.0,9.0,6.0,8.0,8.0,3.0,2.0,1.0,2.0,80.0,80.0,88.88888888888889,88.88888888888889,50.0,60.0
+2,small_3b,1000000.0,10.0,9.0,7.0,5.0,4.0,3.0,2.0,2.0,1.0,50.0,71.42857142857143,44.44444444444444,66.66666666666666,42.857142857142854,75.0

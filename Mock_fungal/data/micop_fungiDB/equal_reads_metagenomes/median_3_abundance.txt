@@ -1,0 +1,102 @@
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+	superkingdom		Eukaryota	100.0
+	phylum	|	Eukaryota|Ascomycota	68.73660404153215
+	phylum	|	Eukaryota|Microsporidia	19.714841981292167
+	phylum	|	Eukaryota|Basidiomycota	11.548553977175679
+	class	||	Eukaryota|Ascomycota|Pichiomycetes	33.823544419899335
+	class	||	Eukaryota|Ascomycota|Saccharomycetes	32.21418151215053
+	class	||	Eukaryota|Microsporidia|nan	19.714841981292167
+	class	||	Eukaryota|Basidiomycota|Malasseziomycetes	6.713525215456379
+	class	||	Eukaryota|Basidiomycota|Tremellomycetes	4.8350287617193
+	class	||	Eukaryota|Ascomycota|Eurotiomycetes	1.4819175478056041
+	class	||	Eukaryota|Ascomycota|Sordariomycetes	1.21696056167667
+	order	|||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	32.21418151215053
+	order	|||	Eukaryota|Microsporidia|nan|nan	19.714841981292167
+	order	|||	Eukaryota|Ascomycota|Pichiomycetes|Serinales	18.72772492852254
+	order	|||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales	15.09581949137679
+	order	|||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales	6.713525215456379
+	order	|||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales	4.8350287617193
+	order	|||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales	1.4615847243178983
+	order	|||	Eukaryota|Ascomycota|Sordariomycetes|Sordariales	1.21696056167667
+	order	|||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales	0.020332823487705844
+	family	||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae	32.21418151215053
+	family	||||	Eukaryota|Microsporidia|nan|nan|Unikaryonidae	19.714841981292167
+	family	||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae	18.72772492852254
+	family	||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae	15.09581949137679
+	family	||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae	6.713525215456379
+	family	||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae	4.8350287617193
+	family	||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae	1.4615847243178983
+	family	||||	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae	1.21696056167667
+	family	||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae	0.020332823487705844
+	genus	|||||	Eukaryota|Microsporidia|nan|nan|Unikaryonidae|Encephalitozoon	19.714841981292167
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces	11.627894143496217
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida	9.349070693009978
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces	8.598451903698805
+	genus	|||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia	6.713525215456379
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Ogataea	5.521236545043385
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Eremothecium	5.372239765799741
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Komagataella	5.295932929167439
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Pichia	4.278650017165967
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Debaryomyces	3.9790544692461536
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Nakaseomyces	3.6608537805025776
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Scheffersomyces	3.1720484159611027
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Henningerozyma	2.9547419186531916
+	genus	|||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae|Cryptococcus	2.7646948839199745
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Lodderomyces	2.2275513503053075
+	genus	|||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae|Kwoniella	2.0703338777993263
+	genus	|||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae|Coccidioides	1.4615847243178983
+	genus	|||||	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Sordaria	1.21696056167667
+	genus	|||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus	0.01835436928318208
+	genus	|||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Penicillium	0.001978454204523763
+	species	||||||	Eukaryota|Microsporidia|nan|nan|Unikaryonidae|Encephalitozoon|Encephalitozoon cuniculi	19.714841981292167
+	species	||||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia restricta	6.713525215456379
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Ogataea|Ogataea parapolymorpha	5.521236545043385
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Eremothecium|Eremothecium gossypii	5.36235697456609
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Komagataella|Komagataella phaffii	5.295932929167439
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis	4.425355571592143
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Pichia|Pichia kudriavzevii	4.278650017165967
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces marxianus	4.173096332106661
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii	3.9790544692461536
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces kudriavzevii	3.9195399094529604
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces eubayanus	3.916596232266118
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae	3.7917580017771386
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida orthopsilosis	3.7537476349070893
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Nakaseomyces|Nakaseomyces glabratus	3.6608537805025776
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Scheffersomyces|Scheffersomyces stipitis	3.1720484159611027
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Henningerozyma|Henningerozyma blattae	2.9547419186531916
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida albicans	2.881025963594166
+	species	||||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae|Cryptococcus|Cryptococcus deuterogattii	2.7646948839199745
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida dubliniensis	2.7142970945087233
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Lodderomyces|Lodderomyces elongisporus	2.2275513503053075
+	species	||||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae|Kwoniella|Kwoniella dejecticola	2.0703338777993263
+	species	||||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae|Coccidioides|Coccidioides posadasii	1.4615847243178983
+	species	||||||	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Sordaria|Sordaria macrospora	1.21696056167667
+	species	||||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus luchuensis	0.01835436928318208
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Eremothecium|Eremothecium sinecaudum	0.00988279123365153
+	species	||||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Penicillium|Penicillium digitatum	0.001978454204523763
+	strain	|||||||	Eukaryota|Microsporidia|nan|nan|Unikaryonidae|Encephalitozoon|Encephalitozoon cuniculi|Encephalitozoon cuniculi GB-M1	19.714841981292167
+	strain	|||||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia restricta|Malassezia restricta	6.713525215456379
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Ogataea|Ogataea parapolymorpha|Ogataea parapolymorpha DL-1	5.521236545043385
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Eremothecium|Eremothecium gossypii|Eremothecium gossypii ATCC 10895	5.36235697456609
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Komagataella|Komagataella phaffii|Komagataella phaffii GS115	5.295932929167439
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis|Kluyveromyces lactis	4.425355571592143
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Pichiales|Pichiaceae|Pichia|Pichia kudriavzevii|Pichia kudriavzevii	4.278650017165967
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces marxianus|Kluyveromyces marxianus DMKU3-1042	4.173096332106661
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii|Debaryomyces hansenii CBS767	3.9790544692461536
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces kudriavzevii|Saccharomyces kudriavzevii IFO 1802	3.9195399094529604
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces eubayanus|Saccharomyces eubayanus	3.916596232266118
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae|Saccharomyces cerevisiae S288C	3.7917580017771386
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida orthopsilosis|Candida orthopsilosis Co 90-125	3.7537476349070893
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Nakaseomyces|Nakaseomyces glabratus|Nakaseomyces glabratus	3.6608537805025776
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Scheffersomyces|Scheffersomyces stipitis|Scheffersomyces stipitis CBS 6054	3.1720484159611027
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Henningerozyma|Henningerozyma blattae|Henningerozyma blattae CBS 6284	2.9547419186531916
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida albicans|Candida albicans SC5314	2.881025963594166
+	strain	|||||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae|Cryptococcus|Cryptococcus deuterogattii|Cryptococcus deuterogattii R265	2.7646948839199745
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida dubliniensis|Candida dubliniensis CD36	2.7142970945087233
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Lodderomyces|Lodderomyces elongisporus|Lodderomyces elongisporus	2.2275513503053075
+	strain	|||||||	Eukaryota|Basidiomycota|Tremellomycetes|Tremellales|Cryptococcaceae|Kwoniella|Kwoniella dejecticola|Kwoniella dejecticola CBS 10117	2.0703338777993263
+	strain	|||||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae|Coccidioides|Coccidioides posadasii|Coccidioides posadasii str. Silveira	1.4615847243178983
+	strain	|||||||	Eukaryota|Ascomycota|Sordariomycetes|Sordariales|Sordariaceae|Sordaria|Sordaria macrospora|Sordaria macrospora	1.21696056167667
+	strain	|||||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Aspergillus|Aspergillus luchuensis|Aspergillus luchuensis	0.01835436928318208
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Eremothecium|Eremothecium sinecaudum|Eremothecium sinecaudum	0.00988279123365153
+	strain	|||||||	Eukaryota|Ascomycota|Eurotiomycetes|Eurotiales|Aspergillaceae|Penicillium|Penicillium digitatum|Penicillium digitatum	0.001978454204523763

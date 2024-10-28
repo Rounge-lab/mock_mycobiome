@@ -1,0 +1,535 @@
+Taxon name,RelAbCoverage,PredictedRelAb,Mock_community,Tool,Level,ComType
+Aspergillus niger,4.02055286420652,5.20197,small_1,metaphlan,Species,EqualReads
+Candida albicans,9.564136789729329,18.80117,small_1,metaphlan,Species,EqualReads
+Debaryomyces hansenii,11.240611291057338,20.51741,small_1,metaphlan,Species,EqualReads
+Malassezia restricta,18.633624917901184,34.75505,small_1,metaphlan,Species,EqualReads
+Saccharomyces cerevisiae,11.316186088091417,20.7244,small_1,metaphlan,Species,EqualReads
+Aspergillus,4.02055286420652,5.20197,small_1,metaphlan,Genus,EqualReads
+Debaryomyces,11.240611291057338,20.51741,small_1,metaphlan,Genus,EqualReads
+Malassezia,18.633624917901184,34.75505,small_1,metaphlan,Genus,EqualReads
+Saccharomyces,22.782019535523716,20.7244,small_1,metaphlan,Genus,EqualReads
+Aspergillaceae,4.02055286420652,5.20197,small_1,metaphlan,Family,EqualReads
+Debaryomycetaceae,20.804748080786666,39.31858,small_1,metaphlan,Family,EqualReads
+Malasseziaceae,18.633624917901184,34.75505,small_1,metaphlan,Family,EqualReads
+Saccharomycetaceae,46.38905524419632,20.7244,small_1,metaphlan,Family,EqualReads
+Candida albicans,9.847519473788333,19.85556,small_2,metaphlan,Species,EqualReads
+Debaryomyces hansenii,11.573667443238733,21.66806,small_2,metaphlan,Species,EqualReads
+Malassezia restricta,19.185733985251005,36.70415,small_2,metaphlan,Species,EqualReads
+Saccharomyces cerevisiae,11.651481500260576,21.77223,small_2,metaphlan,Species,EqualReads
+Debaryomyces,11.573667443238733,21.66806,small_2,metaphlan,Genus,EqualReads
+Malassezia,19.185733985251005,36.70415,small_2,metaphlan,Genus,EqualReads
+Saccharomyces,11.651481500260576,21.77223,small_2,metaphlan,Genus,EqualReads
+Debaryomycetaceae,32.453629908678224,41.52362,small_2,metaphlan,Family,EqualReads
+Malasseziaceae,19.185733985251005,36.70415,small_2,metaphlan,Family,EqualReads
+Saccharomycetaceae,34.821162860273255,21.77223,small_2,metaphlan,Family,EqualReads
+Aspergillus candidus,5.358173869235143,6.35415,small_3,metaphlan,Species,EqualReads
+Candida albicans,10.248322833854944,18.59391,small_3,metaphlan,Species,EqualReads
+Debaryomyces hansenii,12.044726658901169,20.29123,small_3,metaphlan,Species,EqualReads
+Malassezia restricta,19.966611511525624,34.37192,small_3,metaphlan,Species,EqualReads
+Saccharomyces cerevisiae,12.125707821669593,20.38879,small_3,metaphlan,Species,EqualReads
+Aspergillus,5.358173869235143,6.35415,small_3,metaphlan,Genus,EqualReads
+Debaryomyces,12.044726658901169,20.29123,small_3,metaphlan,Genus,EqualReads
+Malassezia,19.966611511525624,34.37192,small_3,metaphlan,Genus,EqualReads
+Saccharomyces,12.125707821669593,20.38879,small_3,metaphlan,Genus,EqualReads
+Aspergillaceae,5.358173869235143,6.35415,small_3,metaphlan,Family,EqualReads
+Debaryomycetaceae,22.29304949275611,38.88514,small_3,metaphlan,Family,EqualReads
+Malasseziaceae,19.966611511525624,34.37192,small_3,metaphlan,Family,EqualReads
+Saccharomycetaceae,39.22329992994552,20.38879,small_3,metaphlan,Family,EqualReads
+Aspergillus glaucus,1.1266904588427626,2.74876,median_1,metaphlan,Species,EqualReads
+Aspergillus terreus,1.0753006782141523,1.84936,median_1,metaphlan,Species,EqualReads
+Aspergillus thermomutatus,1.019190860702318,2.21833,median_1,metaphlan,Species,EqualReads
+Aspergillus tubingensis,0.8999243242976941,1.10594,median_1,metaphlan,Species,EqualReads
+Candida albicans,2.208260970069002,6.6856,median_1,metaphlan,Species,EqualReads
+Candida parapsilosis,2.4264425515009087,7.33251,median_1,metaphlan,Species,EqualReads
+Cryptococcus wingfieldii,1.5793776330113065,2.86696,median_1,metaphlan,Species,EqualReads
+Debaryomyces hansenii,2.5953417166110335,7.29589,median_1,metaphlan,Species,EqualReads
+Malassezia japonica,3.7397059937581427,11.07737,median_1,metaphlan,Species,EqualReads
+Malassezia restricta,4.30231264376039,12.35872,median_1,metaphlan,Species,EqualReads
+Malassezia vespertilionis,4.152601829909161,11.97192,median_1,metaphlan,Species,EqualReads
+Penicillium chrysogenum,0.9740602560768576,1.53959,median_1,metaphlan,Species,EqualReads
+Pneumocystis jirovecii,3.756425956896367,9.49699,median_1,metaphlan,Species,EqualReads
+Pneumocystis murina,4.204560953462808,8.67436,median_1,metaphlan,Species,EqualReads
+Rhodotorula graminis,1.5008973483452104,2.05535,median_1,metaphlan,Species,EqualReads
+Saccharomyces cerevisiae,2.6127911611641963,4.84781,median_1,metaphlan,Species,EqualReads
+Saccharomyces paradoxus,2.623658041468593,5.87455,median_1,metaphlan,Species,EqualReads
+Aspergillus,4.121106322056927,7.92239,median_1,metaphlan,Genus,EqualReads
+Cryptococcus,3.2348459829411222,2.86696,median_1,metaphlan,Genus,EqualReads
+Debaryomyces,2.5953417166110335,7.29589,median_1,metaphlan,Genus,EqualReads
+Malassezia,12.194620467427693,35.408,median_1,metaphlan,Genus,EqualReads
+Penicillium,0.9740602560768576,1.53959,median_1,metaphlan,Genus,EqualReads
+Pneumocystis,7.960986910359175,18.17135,median_1,metaphlan,Genus,EqualReads
+Rhodotorula,1.5008973483452104,2.05535,median_1,metaphlan,Genus,EqualReads
+Saccharomyces,5.236449202632789,10.72236,median_1,metaphlan,Genus,EqualReads
+Aspergillaceae,5.095166578133784,9.46198,median_1,metaphlan,Family,EqualReads
+Cryptococcaceae,10.19607631065472,2.86696,median_1,metaphlan,Family,EqualReads
+Debaryomycetaceae,12.118619363092437,21.314,median_1,metaphlan,Family,EqualReads
+Malasseziaceae,12.194620467427693,35.408,median_1,metaphlan,Family,EqualReads
+Saccharomycetaceae,30.405111935333228,10.72236,median_1,metaphlan,Family,EqualReads
+Sporidiobolaceae,1.5008973483452104,2.05535,median_1,metaphlan,Family,EqualReads
+Aspergillus candidus,1.1910581414320507,3.03357,median_2,metaphlan,Species,EqualReads
+Aspergillus fischeri,1.0369544798682913,1.51914,median_2,metaphlan,Species,EqualReads
+Aspergillus lentulus,1.0763412974488835,1.37212,median_2,metaphlan,Species,EqualReads
+Candida albicans,2.2780799289421534,8.58409,median_2,metaphlan,Species,EqualReads
+Clavispora lusitaniae,2.6857073712571693,9.74832,median_2,metaphlan,Species,EqualReads
+Cryptococcus gattii,1.7707471959570904,6.04399,median_2,metaphlan,Species,EqualReads
+Debaryomyces hansenii,2.6773990726164594,9.36768,median_2,metaphlan,Species,EqualReads
+Malassezia pachydermatis,3.991959258501227,13.67009,median_2,metaphlan,Species,EqualReads
+Malassezia restricta,4.438339586954862,15.86818,median_2,metaphlan,Species,EqualReads
+Rhodotorula toruloides,1.608838412728068,2.47645,median_2,metaphlan,Species,EqualReads
+Saccharomyces cerevisiae,2.6954002191958453,9.41271,median_2,metaphlan,Species,EqualReads
+Trichosporon asahii,1.327623467668341,3.37867,median_2,metaphlan,Species,EqualReads
+Yamadazyma tenuis,3.0275335786457225,11.52227,median_2,metaphlan,Species,EqualReads
+Aspergillus,4.196473020531119,6.20985,median_2,metaphlan,Genus,EqualReads
+Clavispora,2.6857073712571693,9.74832,median_2,metaphlan,Genus,EqualReads
+Cryptococcus,5.20827924197334,9.76169,median_2,metaphlan,Genus,EqualReads
+Debaryomyces,2.6773990726164594,9.36768,median_2,metaphlan,Genus,EqualReads
+Malassezia,8.43029884545609,29.53826,median_2,metaphlan,Genus,EqualReads
+Rhodotorula,1.608838412728068,2.47645,median_2,metaphlan,Genus,EqualReads
+Saccharomyces,2.6954002191958453,9.41271,median_2,metaphlan,Genus,EqualReads
+Trichosporon,1.327623467668341,3.37867,median_2,metaphlan,Genus,EqualReads
+Yamadazyma,3.0275335786457225,11.52227,median_2,metaphlan,Genus,EqualReads
+Aspergillaceae,4.196473020531119,6.20985,median_2,metaphlan,Family,EqualReads
+Cryptococcaceae,6.770413986533244,9.76169,median_2,metaphlan,Family,EqualReads
+Debaryomycetaceae,20.345740589618927,29.47403,median_2,metaphlan,Family,EqualReads
+Malasseziaceae,8.43029884545609,29.53826,median_2,metaphlan,Family,EqualReads
+Metschnikowiaceae,2.6857073712571693,9.74832,median_2,metaphlan,Family,EqualReads
+Saccharomycetaceae,13.64107071416545,9.41271,median_2,metaphlan,Family,EqualReads
+Sporidiobolaceae,1.608838412728068,2.47645,median_2,metaphlan,Family,EqualReads
+Trichosporonaceae,1.327623467668341,3.37867,median_2,metaphlan,Family,EqualReads
+Aspergillus niger,0.7709285852069958,1.50168,median_3,metaphlan,Species,EqualReads
+Candida albicans,1.8338936691203975,5.78198,median_3,metaphlan,Species,EqualReads
+Candida dubliniensis,1.791772788852387,5.64424,median_3,metaphlan,Species,EqualReads
+Candida orthopsilosis,2.0690466125183233,6.59765,median_3,metaphlan,Species,EqualReads
+Candida tropicalis,1.7965148957831905,6.0434,median_3,metaphlan,Species,EqualReads
+Debaryomyces fabryi,2.2394807539250032,6.58627,median_3,metaphlan,Species,EqualReads
+Debaryomyces hansenii,2.1553524731944615,6.47507,median_3,metaphlan,Species,EqualReads
+Malassezia globosa,2.9249465779401715,8.7602,median_3,metaphlan,Species,EqualReads
+Malassezia restricta,3.572939986220146,10.96831,median_3,metaphlan,Species,EqualReads
+Malassezia sympodialis,3.4151177127991947,10.4288,median_3,metaphlan,Species,EqualReads
+Pichia kudriavzevii,2.422451562610428,7.59467,median_3,metaphlan,Species,EqualReads
+Pneumocystis carinii,3.4187875980180706,7.39196,median_3,metaphlan,Species,EqualReads
+Aspergillus,0.7709285852069958,1.50168,median_3,metaphlan,Genus,EqualReads
+Cryptococcus,1.4924620327745368,2.24056,median_3,metaphlan,Genus,EqualReads
+Debaryomyces,4.394833227119465,13.06134,median_3,metaphlan,Genus,EqualReads
+Malassezia,9.913004276959512,30.1573,median_3,metaphlan,Genus,EqualReads
+Nakaseomyces,2.126349228770909,6.87332,median_3,metaphlan,Genus,EqualReads
+Penicillium,0.8634116712648487,1.70263,median_3,metaphlan,Genus,EqualReads
+Pichia,2.422451562610428,7.59467,median_3,metaphlan,Genus,EqualReads
+Pneumocystis,3.4187875980180706,7.39196,median_3,metaphlan,Genus,EqualReads
+Saccharomyces,6.6128120145843114,5.40926,median_3,metaphlan,Genus,EqualReads
+Aspergillaceae,1.6343402564718446,3.20431,median_3,metaphlan,Family,EqualReads
+Cryptococcaceae,2.590126120916292,2.24056,median_3,metaphlan,Family,EqualReads
+Debaryomycetaceae,25.171555968925418,37.12862,median_3,metaphlan,Family,EqualReads
+Malasseziaceae,9.913004276959512,30.1573,median_3,metaphlan,Family,EqualReads
+Pichiaceae,5.373899878195651,7.59467,median_3,metaphlan,Family,EqualReads
+Saccharomycetaceae,20.154974660384973,12.28258,median_3,metaphlan,Family,EqualReads
+Aspergillus fischeri,0.48292181961734765,0.64152,large_1,metaphlan,Species,EqualReads
+Aspergillus lentulus,0.5012647208576916,0.99943,large_1,metaphlan,Species,EqualReads
+Aspergillus thermomutatus,0.4896561549127723,1.27106,large_1,metaphlan,Species,EqualReads
+Candida albicans,1.0609284456326726,4.1645,large_1,metaphlan,Species,EqualReads
+Candida dubliniensis,1.0365610350330987,3.73579,large_1,metaphlan,Species,EqualReads
+Candida tropicalis,1.0393043980861663,4.05381,large_1,metaphlan,Species,EqualReads
+Clavispora lusitaniae,1.2507653092467206,4.93725,large_1,metaphlan,Species,EqualReads
+Cryptococcus gattii,0.8246576629501894,6.04063,large_1,metaphlan,Species,EqualReads
+Cryptococcus wingfieldii,0.7587901429989667,2.01835,large_1,metaphlan,Species,EqualReads
+Debaryomyces hansenii,1.246896037475017,4.6637,large_1,metaphlan,Species,EqualReads
+Malassezia globosa,1.6921150221217942,6.30189,large_1,metaphlan,Species,EqualReads
+Malassezia japonica,1.7966900293297492,6.59735,large_1,metaphlan,Species,EqualReads
+Malassezia restricta,2.0669866141898434,7.89997,large_1,metaphlan,Species,EqualReads
+Malassezia sympodialis,1.975684625396235,7.54065,large_1,metaphlan,Species,EqualReads
+Pichia kudriavzevii,1.4014159131556436,5.63193,large_1,metaphlan,Species,EqualReads
+Pneumocystis carinii,1.977807695935423,4.97321,large_1,metaphlan,Species,EqualReads
+Pneumocystis murina,2.0200231663677592,5.54959,large_1,metaphlan,Species,EqualReads
+Rhodotorula graminis,0.7210853755135327,1.37321,large_1,metaphlan,Species,EqualReads
+Saccharomyces paradoxus,1.2605002241741197,4.45951,large_1,metaphlan,Species,EqualReads
+Trichosporon asahii,0.6182897641317123,1.80517,large_1,metaphlan,Species,EqualReads
+Yamadazyma tenuis,1.4099577687710232,5.69894,large_1,metaphlan,Species,EqualReads
+Aspergillus,1.8893129868152878,2.91201,large_1,metaphlan,Genus,EqualReads
+Clavispora,1.2507653092467206,4.93725,large_1,metaphlan,Genus,EqualReads
+Cryptococcus,4.094993741757146,8.05898,large_1,metaphlan,Genus,EqualReads
+Debaryomyces,1.246896037475017,4.6637,large_1,metaphlan,Genus,EqualReads
+Malassezia,7.531476291037622,28.33986,large_1,metaphlan,Genus,EqualReads
+Nakaseomyces,1.2301173291220155,4.9468,large_1,metaphlan,Genus,EqualReads
+Pichia,1.4014159131556436,5.63193,large_1,metaphlan,Genus,EqualReads
+Pneumocystis,3.997830862303182,10.5228,large_1,metaphlan,Genus,EqualReads
+Rhodotorula,0.7210853755135327,1.37321,large_1,metaphlan,Genus,EqualReads
+Saccharomyces,5.086087546943485,9.15525,large_1,metaphlan,Genus,EqualReads
+Trichosporon,0.6182897641317123,1.80517,large_1,metaphlan,Genus,EqualReads
+Yamadazyma,1.4099577687710232,5.69894,large_1,metaphlan,Genus,EqualReads
+Aspergillaceae,1.8893129868152878,2.91201,large_1,metaphlan,Family,EqualReads
+Cryptococcaceae,6.063509762247184,8.05898,large_1,metaphlan,Family,EqualReads
+Debaryomycetaceae,16.112805285592277,22.31675,large_1,metaphlan,Family,EqualReads
+Malasseziaceae,7.531476291037622,28.33986,large_1,metaphlan,Family,EqualReads
+Metschnikowiaceae,2.1945644402119675,4.93725,large_1,metaphlan,Family,EqualReads
+Pichiaceae,7.651423443677393,5.63193,large_1,metaphlan,Family,EqualReads
+Saccharomycetaceae,24.283262408675373,14.10205,large_1,metaphlan,Family,EqualReads
+Sporidiobolaceae,0.7210853755135327,1.37321,large_1,metaphlan,Family,EqualReads
+Trichosporonaceae,0.6182897641317123,1.80517,large_1,metaphlan,Family,EqualReads
+Aspergillus alliaceus,0.4076560708379527,1.09002,large_2,metaphlan,Species,EqualReads
+Aspergillus candidus,0.5994245905494877,1.42167,large_2,metaphlan,Species,EqualReads
+Aspergillus fischeri,0.5218687424999807,0.85772,large_2,metaphlan,Species,EqualReads
+Aspergillus flavus,0.44261891314006774,1.93019,large_2,metaphlan,Species,EqualReads
+Aspergillus glaucus,0.5849581159927939,1.78305,large_2,metaphlan,Species,EqualReads
+Aspergillus terreus,0.5582774345138093,1.22938,large_2,metaphlan,Species,EqualReads
+Candida albicans,1.1464907389015666,3.7304,large_2,metaphlan,Species,EqualReads
+Candida dubliniensis,1.1201581330614374,3.7278,large_2,metaphlan,Species,EqualReads
+Candida orthopsilosis,1.293500719016977,4.64922,large_2,metaphlan,Species,EqualReads
+Candida parapsilosis,1.259766826239543,4.43868,large_2,metaphlan,Species,EqualReads
+Candida theae,1.3182500033468951,4.40078,large_2,metaphlan,Species,EqualReads
+Candida tropicalis,1.1231227442439684,4.14341,large_2,metaphlan,Species,EqualReads
+Clavispora lusitaniae,1.351637661798737,4.72708,large_2,metaphlan,Species,EqualReads
+Cryptococcus gattii,0.8911650707723133,5.58528,large_2,metaphlan,Species,EqualReads
+Cryptococcus wingfieldii,0.819985433795516,1.71643,large_2,metaphlan,Species,EqualReads
+Debaryomyces hansenii,1.3474563390424177,4.53725,large_2,metaphlan,Species,EqualReads
+Malassezia japonica,1.941590394510493,6.5649,large_2,metaphlan,Species,EqualReads
+Malassezia pachydermatis,2.0090358822788454,6.79969,large_2,metaphlan,Species,EqualReads
+Malassezia restricta,2.2336859949013532,7.82185,large_2,metaphlan,Species,EqualReads
+Malassezia sympodialis,2.135020637189367,7.44387,large_2,metaphlan,Species,EqualReads
+Pichia kudriavzevii,1.5144380117210328,5.40146,large_2,metaphlan,Species,EqualReads
+Saccharomyces mikatae,1.3527566130877566,5.04277,large_2,metaphlan,Species,EqualReads
+Saccharomyces paradoxus,1.3621576830633209,3.83192,large_2,metaphlan,Species,EqualReads
+Trichosporon asahii,0.6681539093919932,1.68796,large_2,metaphlan,Species,EqualReads
+Aspergillus,4.098450730030756,9.34174,large_2,metaphlan,Genus,EqualReads
+Clavispora,1.351637661798737,4.72708,large_2,metaphlan,Genus,EqualReads
+Cryptococcus,3.56575845350125,7.30171,large_2,metaphlan,Genus,EqualReads
+Debaryomyces,1.3474563390424177,4.53725,large_2,metaphlan,Genus,EqualReads
+Malassezia,8.319332908880058,28.63031,large_2,metaphlan,Genus,EqualReads
+Pichia,1.5144380117210328,5.40146,large_2,metaphlan,Genus,EqualReads
+Saccharomyces,5.474574912216954,13.28221,large_2,metaphlan,Genus,EqualReads
+Trichosporon,0.6681539093919932,1.68796,large_2,metaphlan,Genus,EqualReads
+Aspergillaceae,4.098450730030756,9.34174,large_2,metaphlan,Family,EqualReads
+Cryptococcaceae,7.144885393184611,7.30171,large_2,metaphlan,Family,EqualReads
+Debaryomycetaceae,21.674945065836084,29.62754,large_2,metaphlan,Family,EqualReads
+Malasseziaceae,8.319332908880058,28.63031,large_2,metaphlan,Family,EqualReads
+Metschnikowiaceae,1.351637661798737,4.72708,large_2,metaphlan,Family,EqualReads
+Pichiaceae,10.08757768276835,5.40146,large_2,metaphlan,Family,EqualReads
+Saccharomycetaceae,19.96214405914431,13.28221,large_2,metaphlan,Family,EqualReads
+Trichosporonaceae,0.6681539093919932,1.68796,large_2,metaphlan,Family,EqualReads
+Aspergillus alliaceus,0.24355703776593132,0.70659,complete_1,metaphlan,Species,EqualReads
+Aspergillus candidus,0.35813051266032436,0.84816,complete_1,metaphlan,Species,EqualReads
+Aspergillus fischeri,0.3117942160524142,0.44765,complete_1,metaphlan,Species,EqualReads
+Aspergillus flavus,0.26444583818407963,1.23574,complete_1,metaphlan,Species,EqualReads
+Aspergillus glaucus,0.3494874138768277,1.06883,complete_1,metaphlan,Species,EqualReads
+Aspergillus lentulus,0.32363714855211245,0.45281,complete_1,metaphlan,Species,EqualReads
+Aspergillus niger,0.2879501558610201,0.51835,complete_1,metaphlan,Species,EqualReads
+Aspergillus terreus,0.33354684973107507,0.78581,complete_1,metaphlan,Species,EqualReads
+Aspergillus thermomutatus,0.3161421802751418,0.76782,complete_1,metaphlan,Species,EqualReads
+Aspergillus tubingensis,0.27914696739927286,0.32626,complete_1,metaphlan,Species,EqualReads
+Candida albicans,0.6849790992170418,2.35006,complete_1,metaphlan,Species,EqualReads
+Candida dubliniensis,0.669246495353455,2.3501,complete_1,metaphlan,Species,EqualReads
+Candida orthopsilosis,0.7728112642215725,2.98866,complete_1,metaphlan,Species,EqualReads
+Candida parapsilosis,0.7526567084944942,2.86557,complete_1,metaphlan,Species,EqualReads
+Candida theae,0.7875979013145298,2.75359,complete_1,metaphlan,Species,EqualReads
+Candida tropicalis,0.6710177235269024,2.59336,complete_1,metaphlan,Species,EqualReads
+Clavispora lusitaniae,0.8075455968652325,2.94075,complete_1,metaphlan,Species,EqualReads
+Cryptococcus gattii,0.5324329510207405,3.45982,complete_1,metaphlan,Species,EqualReads
+Cryptococcus wingfieldii,0.4899061673629192,2.76064,complete_1,metaphlan,Species,EqualReads
+Debaryomyces fabryi,0.8364702574458482,2.89192,complete_1,metaphlan,Species,EqualReads
+Debaryomyces hansenii,0.8050474356520829,2.78351,complete_1,metaphlan,Species,EqualReads
+Malassezia globosa,1.0924991486427849,3.78154,complete_1,metaphlan,Species,EqualReads
+Malassezia japonica,1.1600170802552314,4.00654,complete_1,metaphlan,Species,EqualReads
+Malassezia pachydermatis,1.2003128697372139,4.08654,complete_1,metaphlan,Species,EqualReads
+Malassezia restricta,1.3345316877022002,4.7959,complete_1,metaphlan,Species,EqualReads
+Malassezia sympodialis,1.275583363432059,4.63649,complete_1,metaphlan,Species,EqualReads
+Malassezia vespertilionis,1.2880929833077375,4.54714,complete_1,metaphlan,Species,EqualReads
+Penicillium chrysogenum,0.30214314604754233,1.76235,complete_1,metaphlan,Species,EqualReads
+Pichia kudriavzevii,0.9048118313477143,3.33729,complete_1,metaphlan,Species,EqualReads
+Pichia membranifaciens,0.8446901215316552,3.03495,complete_1,metaphlan,Species,EqualReads
+Pneumocystis carinii,1.2769541052115763,2.84167,complete_1,metaphlan,Species,EqualReads
+Pneumocystis jirovecii,1.165203435239806,3.76133,complete_1,metaphlan,Species,EqualReads
+Pneumocystis murina,1.3042101515819062,3.3177,complete_1,metaphlan,Species,EqualReads
+Rhodotorula graminis,0.46556241659002046,0.8943,complete_1,metaphlan,Species,EqualReads
+Rhodotorula toruloides,0.483749789783706,0.51678,complete_1,metaphlan,Species,EqualReads
+Saccharomyces mikatae,0.8082141223229742,2.92142,complete_1,metaphlan,Species,EqualReads
+Saccharomyces paradoxus,0.8138308588783063,2.30886,complete_1,metaphlan,Species,EqualReads
+Trichosporon asahii,0.3991933362079835,1.08393,complete_1,metaphlan,Species,EqualReads
+Yamadazyma tenuis,0.9103268051323691,3.46914,complete_1,metaphlan,Species,EqualReads
+Aspergillus,3.923769911321915,8.02001,complete_1,metaphlan,Genus,EqualReads
+Clavispora,0.8075455968652325,2.94075,complete_1,metaphlan,Genus,EqualReads
+Cryptococcus,3.126904740987323,6.22046,complete_1,metaphlan,Genus,EqualReads
+Debaryomyces,1.6415176930979312,5.67543,complete_1,metaphlan,Genus,EqualReads
+Malassezia,7.351037133077227,25.85415,complete_1,metaphlan,Genus,EqualReads
+Nakaseomyces,0.7942144105022957,2.98417,complete_1,metaphlan,Genus,EqualReads
+Penicillium,0.6246367337592785,1.76235,complete_1,metaphlan,Genus,EqualReads
+Pichia,1.7495019528793696,6.37224,complete_1,metaphlan,Genus,EqualReads
+Pneumocystis,3.7463676920332887,9.9207,complete_1,metaphlan,Genus,EqualReads
+Rhodotorula,0.9493122063737265,1.41109,complete_1,metaphlan,Genus,EqualReads
+Saccharomyces,4.092001714960099,8.38425,complete_1,metaphlan,Genus,EqualReads
+Trichosporon,0.3991933362079835,1.08393,complete_1,metaphlan,Genus,EqualReads
+Yamadazyma,0.9103268051323691,3.46914,complete_1,metaphlan,Genus,EqualReads
+Aspergillaceae,4.548406645081194,9.78236,complete_1,metaphlan,Family,EqualReads
+Cryptococcaceae,6.165900657803067,6.22046,complete_1,metaphlan,Family,EqualReads
+Debaryomycetaceae,19.19030403651491,25.04591,complete_1,metaphlan,Family,EqualReads
+Malasseziaceae,7.351037133077227,25.85415,complete_1,metaphlan,Family,EqualReads
+Metschnikowiaceae,1.4169011865203651,2.94075,complete_1,metaphlan,Family,EqualReads
+Pichiaceae,7.9739834549461115,6.37224,complete_1,metaphlan,Family,EqualReads
+Saccharomycetaceae,18.212033663834408,11.36842,complete_1,metaphlan,Family,EqualReads
+Sporidiobolaceae,0.9493122063737265,1.41109,complete_1,metaphlan,Family,EqualReads
+Trichosporonaceae,0.3991933362079835,1.08393,complete_1,metaphlan,Family,EqualReads
+Aspergillus niger,10.0,18.61917,small_1,metaphlan,Species,EqualCoverage
+Candida albicans,10.0,20.82263,small_1,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,10.0,20.02463,small_1,metaphlan,Species,EqualCoverage
+Malassezia restricta,10.0,20.38881,small_1,metaphlan,Species,EqualCoverage
+Saccharomyces cerevisiae,10.0,20.14475,small_1,metaphlan,Species,EqualCoverage
+Aspergillus,10.0,18.61917,small_1,metaphlan,Genus,EqualCoverage
+Debaryomyces,10.0,20.02463,small_1,metaphlan,Genus,EqualCoverage
+Malassezia,10.0,20.38881,small_1,metaphlan,Genus,EqualCoverage
+Saccharomyces,20.0,20.14475,small_1,metaphlan,Genus,EqualCoverage
+Aspergillaceae,10.0,18.61917,small_1,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,20.0,40.84727,small_1,metaphlan,Family,EqualCoverage
+Malasseziaceae,10.0,20.38881,small_1,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,40.0,20.14475,small_1,metaphlan,Family,EqualCoverage
+Candida albicans,10.0,25.64301,small_2,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,10.0,24.66027,small_2,metaphlan,Species,EqualCoverage
+Malassezia restricta,10.0,25.10876,small_2,metaphlan,Species,EqualCoverage
+Saccharomyces cerevisiae,10.0,24.58796,small_2,metaphlan,Species,EqualCoverage
+Debaryomyces,10.0,24.66027,small_2,metaphlan,Genus,EqualCoverage
+Malassezia,10.0,25.10876,small_2,metaphlan,Genus,EqualCoverage
+Saccharomyces,10.0,24.58796,small_2,metaphlan,Genus,EqualCoverage
+Debaryomycetaceae,30.0,50.30328,small_2,metaphlan,Family,EqualCoverage
+Malasseziaceae,10.0,25.10876,small_2,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,30.0,24.58796,small_2,metaphlan,Family,EqualCoverage
+Aspergillus candidus,10.0,18.78402,small_3,metaphlan,Species,EqualCoverage
+Candida albicans,10.0,20.82622,small_3,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,10.0,20.02808,small_3,metaphlan,Species,EqualCoverage
+Malassezia restricta,10.0,20.39232,small_3,metaphlan,Species,EqualCoverage
+Saccharomyces cerevisiae,10.0,19.96935,small_3,metaphlan,Species,EqualCoverage
+Aspergillus,10.0,18.78402,small_3,metaphlan,Genus,EqualCoverage
+Debaryomyces,10.0,20.02808,small_3,metaphlan,Genus,EqualCoverage
+Malassezia,10.0,20.39232,small_3,metaphlan,Genus,EqualCoverage
+Saccharomyces,10.0,19.96935,small_3,metaphlan,Genus,EqualCoverage
+Aspergillaceae,10.0,18.78402,small_3,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,20.0,40.8543,small_3,metaphlan,Family,EqualCoverage
+Malasseziaceae,10.0,20.39232,small_3,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,30.0,19.96935,small_3,metaphlan,Family,EqualCoverage
+Aspergillus glaucus,2.0,6.73659,median_1,metaphlan,Species,EqualCoverage
+Aspergillus terreus,2.0,5.98742,median_1,metaphlan,Species,EqualCoverage
+Aspergillus thermomutatus,2.0,6.45968,median_1,metaphlan,Species,EqualCoverage
+Aspergillus tubingensis,2.0,4.28325,median_1,metaphlan,Species,EqualCoverage
+Candida albicans,2.0,6.72147,median_1,metaphlan,Species,EqualCoverage
+Candida parapsilosis,2.0,6.77652,median_1,metaphlan,Species,EqualCoverage
+Cryptococcus wingfieldii,2.0,5.76843,median_1,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,2.0,6.46387,median_1,metaphlan,Species,EqualCoverage
+Malassezia japonica,2.0,6.52897,median_1,metaphlan,Species,EqualCoverage
+Malassezia restricta,2.0,6.58143,median_1,metaphlan,Species,EqualCoverage
+Malassezia vespertilionis,2.0,6.55265,median_1,metaphlan,Species,EqualCoverage
+Penicillium chrysogenum,2.0,5.05918,median_1,metaphlan,Species,EqualCoverage
+Pneumocystis jirovecii,2.0,5.96582,median_1,metaphlan,Species,EqualCoverage
+Pneumocystis murina,2.0,4.39585,median_1,metaphlan,Species,EqualCoverage
+Rhodotorula graminis,2.0,5.23004,median_1,metaphlan,Species,EqualCoverage
+Saccharomyces cerevisiae,2.0,4.83302,median_1,metaphlan,Species,EqualCoverage
+Saccharomyces paradoxus,2.0,5.65581,median_1,metaphlan,Species,EqualCoverage
+Aspergillus,8.0,23.46694,median_1,metaphlan,Genus,EqualCoverage
+Cryptococcus,4.0,5.76843,median_1,metaphlan,Genus,EqualCoverage
+Debaryomyces,2.0,6.46387,median_1,metaphlan,Genus,EqualCoverage
+Malassezia,6.0,19.66305,median_1,metaphlan,Genus,EqualCoverage
+Penicillium,2.0,5.05918,median_1,metaphlan,Genus,EqualCoverage
+Pneumocystis,4.0,10.36167,median_1,metaphlan,Genus,EqualCoverage
+Rhodotorula,2.0,5.23004,median_1,metaphlan,Genus,EqualCoverage
+Saccharomyces,4.0,10.48882,median_1,metaphlan,Genus,EqualCoverage
+Aspergillaceae,10.0,28.52612,median_1,metaphlan,Family,EqualCoverage
+Cryptococcaceae,14.0,5.76843,median_1,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,10.0,19.96186,median_1,metaphlan,Family,EqualCoverage
+Malasseziaceae,6.0,19.66305,median_1,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,20.0,10.48882,median_1,metaphlan,Family,EqualCoverage
+Sporidiobolaceae,2.0,5.23004,median_1,metaphlan,Family,EqualCoverage
+Aspergillus candidus,2.0,6.49834,median_2,metaphlan,Species,EqualCoverage
+Aspergillus fischeri,2.0,5.33117,median_2,metaphlan,Species,EqualCoverage
+Aspergillus lentulus,2.0,5.51478,median_2,metaphlan,Species,EqualCoverage
+Candida albicans,2.0,7.40164,median_2,metaphlan,Species,EqualCoverage
+Clavispora lusitaniae,2.0,7.45953,median_2,metaphlan,Species,EqualCoverage
+Cryptococcus gattii,2.0,8.59805,median_2,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,2.0,7.11798,median_2,metaphlan,Species,EqualCoverage
+Malassezia pachydermatis,2.0,7.08541,median_2,metaphlan,Species,EqualCoverage
+Malassezia restricta,2.0,7.24743,median_2,metaphlan,Species,EqualCoverage
+Rhodotorula toruloides,2.0,5.65532,median_2,metaphlan,Species,EqualCoverage
+Saccharomyces cerevisiae,2.0,7.09711,median_2,metaphlan,Species,EqualCoverage
+Trichosporon asahii,2.0,7.08664,median_2,metaphlan,Species,EqualCoverage
+Yamadazyma tenuis,2.0,7.73864,median_2,metaphlan,Species,EqualCoverage
+Aspergillus,8.0,21.63215,median_2,metaphlan,Genus,EqualCoverage
+Clavispora,2.0,7.45953,median_2,metaphlan,Genus,EqualCoverage
+Cryptococcus,6.0,14.47816,median_2,metaphlan,Genus,EqualCoverage
+Debaryomyces,2.0,7.11798,median_2,metaphlan,Genus,EqualCoverage
+Malassezia,4.0,14.33284,median_2,metaphlan,Genus,EqualCoverage
+Rhodotorula,2.0,5.65532,median_2,metaphlan,Genus,EqualCoverage
+Saccharomyces,2.0,7.09711,median_2,metaphlan,Genus,EqualCoverage
+Trichosporon,2.0,7.08664,median_2,metaphlan,Genus,EqualCoverage
+Yamadazyma,2.0,7.73864,median_2,metaphlan,Genus,EqualCoverage
+Aspergillaceae,8.0,21.63215,median_2,metaphlan,Family,EqualCoverage
+Cryptococcaceae,8.0,14.47816,median_2,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,16.0,22.25826,median_2,metaphlan,Family,EqualCoverage
+Malasseziaceae,4.0,14.33284,median_2,metaphlan,Family,EqualCoverage
+Metschnikowiaceae,2.0,7.45953,median_2,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,10.0,7.09711,median_2,metaphlan,Family,EqualCoverage
+Sporidiobolaceae,2.0,5.65532,median_2,metaphlan,Family,EqualCoverage
+Trichosporonaceae,2.0,7.08664,median_2,metaphlan,Family,EqualCoverage
+Aspergillus niger,2.0,6.01203,median_3,metaphlan,Species,EqualCoverage
+Candida albicans,2.0,6.44713,median_3,metaphlan,Species,EqualCoverage
+Candida dubliniensis,2.0,6.37631,median_3,metaphlan,Species,EqualCoverage
+Candida orthopsilosis,2.0,6.68223,median_3,metaphlan,Species,EqualCoverage
+Candida tropicalis,2.0,6.85532,median_3,metaphlan,Species,EqualCoverage
+Debaryomyces fabryi,2.0,6.53703,median_3,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,2.0,6.29021,median_3,metaphlan,Species,EqualCoverage
+Malassezia globosa,2.0,6.08579,median_3,metaphlan,Species,EqualCoverage
+Malassezia restricta,2.0,6.39863,median_3,metaphlan,Species,EqualCoverage
+Malassezia sympodialis,2.0,6.42885,median_3,metaphlan,Species,EqualCoverage
+Pichia kudriavzevii,2.0,6.75899,median_3,metaphlan,Species,EqualCoverage
+Pneumocystis carinii,2.0,4.38974,median_3,metaphlan,Species,EqualCoverage
+Aspergillus,2.0,6.01203,median_3,metaphlan,Genus,EqualCoverage
+Cryptococcus,2.0,4.22188,median_3,metaphlan,Genus,EqualCoverage
+Debaryomyces,4.0,12.82724,median_3,metaphlan,Genus,EqualCoverage
+Malassezia,6.0,18.91327,median_3,metaphlan,Genus,EqualCoverage
+Nakaseomyces,2.0,6.75058,median_3,metaphlan,Genus,EqualCoverage
+Penicillium,2.0,6.06279,median_3,metaphlan,Genus,EqualCoverage
+Pichia,2.0,6.75899,median_3,metaphlan,Genus,EqualCoverage
+Pneumocystis,2.0,4.38974,median_3,metaphlan,Genus,EqualCoverage
+Saccharomyces,6.0,7.70248,median_3,metaphlan,Genus,EqualCoverage
+Aspergillaceae,4.0,12.07482,median_3,metaphlan,Family,EqualCoverage
+Cryptococcaceae,4.0,4.22188,median_3,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,26.0,39.18823,median_3,metaphlan,Family,EqualCoverage
+Malasseziaceae,6.0,18.91327,median_3,metaphlan,Family,EqualCoverage
+Pichiaceae,4.0,6.75899,median_3,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,18.0,14.45307,median_3,metaphlan,Family,EqualCoverage
+Aspergillus fischeri,1.0,3.13229,large_1,metaphlan,Species,EqualCoverage
+Aspergillus lentulus,1.0,3.26382,large_1,metaphlan,Species,EqualCoverage
+Aspergillus thermomutatus,1.0,4.22485,large_1,metaphlan,Species,EqualCoverage
+Candida albicans,1.0,4.30394,large_1,metaphlan,Species,EqualCoverage
+Candida dubliniensis,1.0,4.1649,large_1,metaphlan,Species,EqualCoverage
+Candida tropicalis,1.0,4.38042,large_1,metaphlan,Species,EqualCoverage
+Clavispora lusitaniae,1.0,4.40012,large_1,metaphlan,Species,EqualCoverage
+Cryptococcus gattii,1.0,9.60558,large_1,metaphlan,Species,EqualCoverage
+Cryptococcus wingfieldii,1.0,3.60978,large_1,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,1.0,4.19527,large_1,metaphlan,Species,EqualCoverage
+Malassezia globosa,1.0,4.13676,large_1,metaphlan,Species,EqualCoverage
+Malassezia japonica,1.0,4.14351,large_1,metaphlan,Species,EqualCoverage
+Malassezia restricta,1.0,4.27156,large_1,metaphlan,Species,EqualCoverage
+Malassezia sympodialis,1.0,4.16384,large_1,metaphlan,Species,EqualCoverage
+Pichia kudriavzevii,1.0,4.47814,large_1,metaphlan,Species,EqualCoverage
+Pneumocystis carinii,1.0,2.67478,large_1,metaphlan,Species,EqualCoverage
+Pneumocystis murina,1.0,2.85281,large_1,metaphlan,Species,EqualCoverage
+Rhodotorula graminis,1.0,3.84304,large_1,metaphlan,Species,EqualCoverage
+Saccharomyces paradoxus,1.0,3.88522,large_1,metaphlan,Species,EqualCoverage
+Trichosporon asahii,1.0,4.19743,large_1,metaphlan,Species,EqualCoverage
+Yamadazyma tenuis,1.0,4.50315,large_1,metaphlan,Species,EqualCoverage
+Aspergillus,4.0,12.85776,large_1,metaphlan,Genus,EqualCoverage
+Clavispora,1.0,4.40012,large_1,metaphlan,Genus,EqualCoverage
+Cryptococcus,5.0,13.21536,large_1,metaphlan,Genus,EqualCoverage
+Debaryomyces,1.0,4.19527,large_1,metaphlan,Genus,EqualCoverage
+Malassezia,4.0,16.71567,large_1,metaphlan,Genus,EqualCoverage
+Nakaseomyces,1.0,4.45716,large_1,metaphlan,Genus,EqualCoverage
+Pichia,1.0,4.47814,large_1,metaphlan,Genus,EqualCoverage
+Pneumocystis,2.0,5.52759,large_1,metaphlan,Genus,EqualCoverage
+Rhodotorula,1.0,3.84304,large_1,metaphlan,Genus,EqualCoverage
+Saccharomyces,4.0,8.76005,large_1,metaphlan,Genus,EqualCoverage
+Trichosporon,1.0,4.19743,large_1,metaphlan,Genus,EqualCoverage
+Yamadazyma,1.0,4.50315,large_1,metaphlan,Genus,EqualCoverage
+Aspergillaceae,4.0,12.85776,large_1,metaphlan,Family,EqualCoverage
+Cryptococcaceae,8.0,13.21536,large_1,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,14.0,21.54768,large_1,metaphlan,Family,EqualCoverage
+Malasseziaceae,4.0,16.71567,large_1,metaphlan,Family,EqualCoverage
+Metschnikowiaceae,2.0,4.40012,large_1,metaphlan,Family,EqualCoverage
+Pichiaceae,5.0,4.47814,large_1,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,18.0,13.21722,large_1,metaphlan,Family,EqualCoverage
+Sporidiobolaceae,1.0,3.84304,large_1,metaphlan,Family,EqualCoverage
+Trichosporonaceae,1.0,4.19743,large_1,metaphlan,Family,EqualCoverage
+Aspergillus alliaceus,1.0,3.70022,large_2,metaphlan,Species,EqualCoverage
+Aspergillus candidus,1.0,3.28765,large_2,metaphlan,Species,EqualCoverage
+Aspergillus fischeri,1.0,2.81612,large_2,metaphlan,Species,EqualCoverage
+Aspergillus flavus,1.0,6.71209,large_2,metaphlan,Species,EqualCoverage
+Aspergillus glaucus,1.0,3.60709,large_2,metaphlan,Species,EqualCoverage
+Aspergillus terreus,1.0,3.3006,large_2,metaphlan,Species,EqualCoverage
+Candida albicans,1.0,3.66676,large_2,metaphlan,Species,EqualCoverage
+Candida dubliniensis,1.0,3.54888,large_2,metaphlan,Species,EqualCoverage
+Candida orthopsilosis,1.0,3.78972,large_2,metaphlan,Species,EqualCoverage
+Candida parapsilosis,1.0,3.73379,large_2,metaphlan,Species,EqualCoverage
+Candida theae,1.0,3.58255,large_2,metaphlan,Species,EqualCoverage
+Candida tropicalis,1.0,3.96565,large_2,metaphlan,Species,EqualCoverage
+Clavispora lusitaniae,1.0,3.72571,large_2,metaphlan,Species,EqualCoverage
+Cryptococcus gattii,1.0,8.04728,large_2,metaphlan,Species,EqualCoverage
+Cryptococcus wingfieldii,1.0,3.22358,large_2,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,1.0,3.53516,large_2,metaphlan,Species,EqualCoverage
+Malassezia japonica,1.0,3.57538,large_2,metaphlan,Species,EqualCoverage
+Malassezia pachydermatis,1.0,3.58182,large_2,metaphlan,Species,EqualCoverage
+Malassezia restricta,1.0,3.62347,large_2,metaphlan,Species,EqualCoverage
+Malassezia sympodialis,1.0,3.57637,large_2,metaphlan,Species,EqualCoverage
+Pichia kudriavzevii,1.0,3.79943,large_2,metaphlan,Species,EqualCoverage
+Saccharomyces mikatae,1.0,3.94842,large_2,metaphlan,Species,EqualCoverage
+Saccharomyces paradoxus,1.0,2.85712,large_2,metaphlan,Species,EqualCoverage
+Trichosporon asahii,1.0,3.45033,large_2,metaphlan,Species,EqualCoverage
+Aspergillus,8.0,26.46595,large_2,metaphlan,Genus,EqualCoverage
+Clavispora,1.0,3.72571,large_2,metaphlan,Genus,EqualCoverage
+Cryptococcus,4.0,11.27086,large_2,metaphlan,Genus,EqualCoverage
+Debaryomyces,1.0,3.53516,large_2,metaphlan,Genus,EqualCoverage
+Malassezia,4.0,14.35703,large_2,metaphlan,Genus,EqualCoverage
+Pichia,1.0,3.79943,large_2,metaphlan,Genus,EqualCoverage
+Saccharomyces,4.0,11.10819,large_2,metaphlan,Genus,EqualCoverage
+Trichosporon,1.0,3.45033,large_2,metaphlan,Genus,EqualCoverage
+Aspergillaceae,8.0,26.46595,large_2,metaphlan,Family,EqualCoverage
+Cryptococcaceae,9.0,11.27086,large_2,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,18.0,25.8225,large_2,metaphlan,Family,EqualCoverage
+Malasseziaceae,4.0,14.35703,large_2,metaphlan,Family,EqualCoverage
+Metschnikowiaceae,1.0,3.72571,large_2,metaphlan,Family,EqualCoverage
+Pichiaceae,6.0,3.79943,large_2,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,14.0,11.10819,large_2,metaphlan,Family,EqualCoverage
+Trichosporonaceae,1.0,3.45033,large_2,metaphlan,Family,EqualCoverage
+Aspergillus alliaceus,0.6060606060606061,2.2785,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus candidus,0.6060606060606061,1.98603,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus fischeri,0.6060606060606061,1.88838,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus flavus,0.6060606060606061,4.11721,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus glaucus,0.6060606060606061,2.20378,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus lentulus,0.6060606060606061,1.79665,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus niger,0.6060606060606061,2.0545,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus terreus,0.6060606060606061,2.2132,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus thermomutatus,0.6060606060606061,2.23669,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus tubingensis,0.6060606060606061,1.44756,complete_1,metaphlan,Species,EqualCoverage
+Candida albicans,0.6060606060606061,2.29819,complete_1,metaphlan,Species,EqualCoverage
+Candida dubliniensis,0.6060606060606061,2.35355,complete_1,metaphlan,Species,EqualCoverage
+Candida orthopsilosis,0.6060606060606061,2.35123,complete_1,metaphlan,Species,EqualCoverage
+Candida parapsilosis,0.6060606060606061,2.40393,complete_1,metaphlan,Species,EqualCoverage
+Candida theae,0.6060606060606061,2.2819,complete_1,metaphlan,Species,EqualCoverage
+Candida tropicalis,0.6060606060606061,2.40812,complete_1,metaphlan,Species,EqualCoverage
+Clavispora lusitaniae,0.6060606060606061,2.33694,complete_1,metaphlan,Species,EqualCoverage
+Cryptococcus gattii,0.6060606060606061,5.10484,complete_1,metaphlan,Species,EqualCoverage
+Cryptococcus wingfieldii,0.6060606060606061,4.26535,complete_1,metaphlan,Species,EqualCoverage
+Debaryomyces fabryi,0.6060606060606061,2.33944,complete_1,metaphlan,Species,EqualCoverage
+Debaryomyces hansenii,0.6060606060606061,2.2412,complete_1,metaphlan,Species,EqualCoverage
+Malassezia globosa,0.6060606060606061,2.2024,complete_1,metaphlan,Species,EqualCoverage
+Malassezia japonica,0.6060606060606061,2.25224,complete_1,metaphlan,Species,EqualCoverage
+Malassezia pachydermatis,0.6060606060606061,2.19942,complete_1,metaphlan,Species,EqualCoverage
+Malassezia restricta,0.6060606060606061,2.2809,complete_1,metaphlan,Species,EqualCoverage
+Malassezia sympodialis,0.6060606060606061,2.27609,complete_1,metaphlan,Species,EqualCoverage
+Malassezia vespertilionis,0.6060606060606061,2.25884,complete_1,metaphlan,Species,EqualCoverage
+Penicillium chrysogenum,0.6060606060606061,4.01646,complete_1,metaphlan,Species,EqualCoverage
+Pichia kudriavzevii,0.6060606060606061,2.38019,complete_1,metaphlan,Species,EqualCoverage
+Pichia membranifaciens,0.6060606060606061,2.42161,complete_1,metaphlan,Species,EqualCoverage
+Pneumocystis carinii,0.6060606060606061,1.36034,complete_1,metaphlan,Species,EqualCoverage
+Pneumocystis jirovecii,0.6060606060606061,2.05978,complete_1,metaphlan,Species,EqualCoverage
+Pneumocystis murina,0.6060606060606061,1.51268,complete_1,metaphlan,Species,EqualCoverage
+Rhodotorula graminis,0.6060606060606061,1.94274,complete_1,metaphlan,Species,EqualCoverage
+Rhodotorula toruloides,0.6060606060606061,1.76739,complete_1,metaphlan,Species,EqualCoverage
+Saccharomyces mikatae,0.6060606060606061,2.31883,complete_1,metaphlan,Species,EqualCoverage
+Saccharomyces paradoxus,0.6060606060606061,1.93141,complete_1,metaphlan,Species,EqualCoverage
+Trichosporon asahii,0.6060606060606061,2.22709,complete_1,metaphlan,Species,EqualCoverage
+Yamadazyma tenuis,0.6060606060606061,2.41614,complete_1,metaphlan,Species,EqualCoverage
+Aspergillus,7.878787878787879,25.4786,complete_1,metaphlan,Genus,EqualCoverage
+Clavispora,0.6060606060606061,2.33694,complete_1,metaphlan,Genus,EqualCoverage
+Cryptococcus,3.6363636363636367,9.37019,complete_1,metaphlan,Genus,EqualCoverage
+Debaryomyces,1.2121212121212122,4.58065,complete_1,metaphlan,Genus,EqualCoverage
+Malassezia,3.6363636363636367,13.46989,complete_1,metaphlan,Genus,EqualCoverage
+Nakaseomyces,0.6060606060606061,2.41005,complete_1,metaphlan,Genus,EqualCoverage
+Penicillium,1.2121212121212122,4.01646,complete_1,metaphlan,Genus,EqualCoverage
+Pichia,1.2121212121212122,4.8018,complete_1,metaphlan,Genus,EqualCoverage
+Pneumocystis,1.8181818181818183,4.93281,complete_1,metaphlan,Genus,EqualCoverage
+Rhodotorula,1.2121212121212122,3.71014,complete_1,metaphlan,Genus,EqualCoverage
+Saccharomyces,3.0303030303030303,6.15231,complete_1,metaphlan,Genus,EqualCoverage
+Trichosporon,0.6060606060606061,2.22709,complete_1,metaphlan,Genus,EqualCoverage
+Yamadazyma,0.6060606060606061,2.41614,complete_1,metaphlan,Genus,EqualCoverage
+Aspergillaceae,9.090909090909092,29.49506,complete_1,metaphlan,Family,EqualCoverage
+Cryptococcaceae,7.878787878787879,9.37019,complete_1,metaphlan,Family,EqualCoverage
+Debaryomycetaceae,15.757575757575758,21.09372,complete_1,metaphlan,Family,EqualCoverage
+Malasseziaceae,3.6363636363636367,13.46989,complete_1,metaphlan,Family,EqualCoverage
+Metschnikowiaceae,1.2121212121212122,2.33694,complete_1,metaphlan,Family,EqualCoverage
+Pichiaceae,4.848484848484849,4.8018,complete_1,metaphlan,Family,EqualCoverage
+Saccharomycetaceae,12.727272727272728,8.56236,complete_1,metaphlan,Family,EqualCoverage
+Sporidiobolaceae,1.2121212121212122,3.71014,complete_1,metaphlan,Family,EqualCoverage
+Trichosporonaceae,0.6060606060606061,2.22709,complete_1,metaphlan,Family,EqualCoverage

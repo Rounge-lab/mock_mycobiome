@@ -1,0 +1,22 @@
+""
+"Ascochyta_rabiei"	3e-04
+"Aspergillus_chevalieri"	1e-04
+"Aspergillus_fumigatus"	1e-04
+"Aspergillus_luchuensis"	3e-04
+"Aspergillus_puulaauensis"	1e-04
+"Candida_albicans"	0.115
+"Candida_dubliniensis"	5e-04
+"Debaryomyces_hansenii"	0.1299
+"Fusarium_falciforme"	0.1223
+"Fusarium_keratoplasticum"	0.0025
+"Kluyveromyces_lactis"	0.1292
+"Kluyveromyces_marxianus"	0.1235
+"Kwoniella_botswanensis"	0.1305
+"Kwoniella_europaea"	7e-04
+"Kwoniella_mangrovensis"	4e-04
+"Malassezia_restricta"	0.1319
+"Pyrenophora_tritici-repentis"	0.0015
+"Saccharomyces_cerevisiae"	0.1102
+"Saccharomyces_kudriavzevii"	1e-04
+"Saccharomyces_mikatae"	1e-04
+"Saccharomyces_paradoxus"	7e-04

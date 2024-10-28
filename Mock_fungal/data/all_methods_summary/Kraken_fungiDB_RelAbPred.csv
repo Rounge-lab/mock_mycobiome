@@ -1,0 +1,426 @@
+Taxon name,RelAbReads,PredictedRelAb,Mock_community,Tool,Level,ComType
+Candida albicans,10.0,11.707538356403635,small_1,kraken,Species,EqualReads
+Debaryomyces hansenii,10.0,11.728637455354892,small_1,kraken,Species,EqualReads
+Kluyveromyces lactis,10.0,11.732505623495957,small_1,kraken,Species,EqualReads
+Malassezia restricta,10.0,11.712344262275867,small_1,kraken,Species,EqualReads
+Saccharomyces cerevisiae,10.0,11.679406224468625,small_1,kraken,Species,EqualReads
+Saccharomyces kudriavzevii,10.0,11.739890308128896,small_1,kraken,Species,EqualReads
+Yarrowia lipolytica,10.0,11.592548267119282,small_1,kraken,Species,EqualReads
+Aspergillus,10.0,7.3288075422565875,small_1,kraken,Genus,EqualReads
+Candida,10.0,11.718387763035262,small_1,kraken,Genus,EqualReads
+Debaryomyces,10.0,11.715577682339111,small_1,kraken,Genus,EqualReads
+Kazachstania,10.0,0.07481839853501127,small_1,kraken,Genus,EqualReads
+Kluyveromyces,10.0,11.75292833825878,small_1,kraken,Genus,EqualReads
+Malassezia,10.0,11.702932319206433,small_1,kraken,Genus,EqualReads
+Neurospora,10.0,9.764210812253825,small_1,kraken,Genus,EqualReads
+Saccharomyces,20.0,23.56276081061461,small_1,kraken,Genus,EqualReads
+Yarrowia,10.0,11.579640028662823,small_1,kraken,Genus,EqualReads
+Aspergillaceae,10.0,8.295561526174938,small_1,kraken,Family,EqualReads
+Debaryomycetaceae,20.0,26.484471688333667,small_1,kraken,Family,EqualReads
+Malasseziaceae,10.0,13.215857283391689,small_1,kraken,Family,EqualReads
+Saccharomycetaceae,40.0,40.732464537694234,small_1,kraken,Family,EqualReads
+Sordariaceae,10.0,11.132942657372245,small_1,kraken,Family,EqualReads
+Candida albicans,10.0,14.149372910288784,small_2,kraken,Species,EqualReads
+Debaryomyces hansenii,10.0,14.135970543007492,small_2,kraken,Species,EqualReads
+Kluyveromyces lactis,10.0,14.098302837069538,small_2,kraken,Species,EqualReads
+Malassezia restricta,10.0,14.09999576767349,small_2,kraken,Species,EqualReads
+Saccharomyces cerevisiae,10.0,14.028328372106147,small_2,kraken,Species,EqualReads
+Candida,20.0,14.380813937109469,small_2,kraken,Genus,EqualReads
+Debaryomyces,10.0,14.114027822382988,small_2,kraken,Genus,EqualReads
+Kluyveromyces,10.0,14.095997926561981,small_2,kraken,Genus,EqualReads
+Malassezia,10.0,14.089518432751305,small_2,kraken,Genus,EqualReads
+Saccharomyces,10.0,14.07444656671343,small_2,kraken,Genus,EqualReads
+Tetrapisispora,10.0,0.010564392082621998,small_2,kraken,Genus,EqualReads
+Debaryomycetaceae,30.0,28.799121565977575,small_2,kraken,Family,EqualReads
+Malasseziaceae,10.0,14.081128449859579,small_2,kraken,Family,EqualReads
+Saccharomycetaceae,30.0,42.33390347079981,small_2,kraken,Family,EqualReads
+Candida albicans,10.0,12.32061594439912,small_3,kraken,Species,EqualReads
+Debaryomyces hansenii,10.0,12.339746952307014,small_3,kraken,Species,EqualReads
+Fusarium falciforme,10.0,12.078701263757354,small_3,kraken,Species,EqualReads
+Kluyveromyces lactis,10.0,12.328885476849628,small_3,kraken,Species,EqualReads
+Kluyveromyces marxianus,10.0,12.31678974281754,small_3,kraken,Species,EqualReads
+Malassezia restricta,10.0,12.33431621457832,small_3,kraken,Species,EqualReads
+Saccharomyces cerevisiae,10.0,12.26939421354895,small_3,kraken,Species,EqualReads
+Aspergillus,10.0,0.5698482167341573,small_3,kraken,Genus,EqualReads
+Candida,10.0,12.282602413431398,small_3,kraken,Genus,EqualReads
+Debaryomyces,10.0,12.294284670787839,small_3,kraken,Genus,EqualReads
+Fusarium,10.0,12.241407084858688,small_3,kraken,Genus,EqualReads
+Kluyveromyces,20.0,24.56950881641517,small_3,kraken,Genus,EqualReads
+Malassezia,10.0,12.294530613047975,small_3,kraken,Genus,EqualReads
+Saccharomyces,10.0,12.26354188827089,small_3,kraken,Genus,EqualReads
+Aspergillaceae,10.0,0.6570988807805032,small_3,kraken,Family,EqualReads
+Cryptococcaceae,10.0,12.297522571254351,small_3,kraken,Family,EqualReads
+Debaryomycetaceae,20.0,24.574022895808337,small_3,kraken,Family,EqualReads
+Malasseziaceae,10.0,12.291129841263597,small_3,kraken,Family,EqualReads
+Nectriaceae,10.0,12.238021007494247,small_3,kraken,Family,EqualReads
+Saccharomycetaceae,30.0,36.83613957788312,small_3,kraken,Family,EqualReads
+Candida albicans,2.0,3.610351564579118,median_1,kraken,Species,EqualReads
+Cryptococcus neoformans,2.0,3.588032369574644,median_1,kraken,Species,EqualReads
+Debaryomyces hansenii,2.0,3.609535441391355,median_1,kraken,Species,EqualReads
+Eremothecium cymbalariae,2.0,3.5522294001636507,median_1,kraken,Species,EqualReads
+Eremothecium sinecaudum,2.0,3.536616608745576,median_1,kraken,Species,EqualReads
+Kazachstania africana,2.0,3.5672034864782582,median_1,kraken,Species,EqualReads
+Kluyveromyces lactis,2.0,3.554500351642643,median_1,kraken,Species,EqualReads
+Malassezia japonica,2.0,3.5557777618495767,median_1,kraken,Species,EqualReads
+Malassezia restricta,2.0,3.5496036125160653,median_1,kraken,Species,EqualReads
+Malassezia vespertilionis,2.0,3.5489649074125986,median_1,kraken,Species,EqualReads
+Saccharomyces cerevisiae,2.0,3.535410165772361,median_1,kraken,Species,EqualReads
+Saccharomyces paradoxus,2.0,3.5318972877032944,median_1,kraken,Species,EqualReads
+Saccharomycodes ludwigii,2.0,3.5462326689144357,median_1,kraken,Species,EqualReads
+Sugiyamaella lignohabitans,2.0,3.55606163078445,median_1,kraken,Species,EqualReads
+Torulaspora delbrueckii,2.0,3.5518745639950575,median_1,kraken,Species,EqualReads
+Zygosaccharomyces rouxii,2.0,3.5585454839645987,median_1,kraken,Species,EqualReads
+Zygotorulaspora mrakii,2.0,3.5513777933590287,median_1,kraken,Species,EqualReads
+Aspergillus,8.0,6.87985276843681,median_1,kraken,Genus,EqualReads
+Botrytis,2.0,1.6087196819029284,median_1,kraken,Genus,EqualReads
+Candida,4.0,4.2256278473462,median_1,kraken,Genus,EqualReads
+Cryptococcus,4.0,3.6392671215353016,median_1,kraken,Genus,EqualReads
+Debaryomyces,2.0,3.5947061093465753,median_1,kraken,Genus,EqualReads
+Eremothecium,4.0,7.071984587049107,median_1,kraken,Genus,EqualReads
+Fusarium,2.0,3.3448676032606928,median_1,kraken,Genus,EqualReads
+Kazachstania,4.0,3.5525480700593817,median_1,kraken,Genus,EqualReads
+Kluyveromyces,2.0,3.553572867326212,median_1,kraken,Genus,EqualReads
+Malassezia,6.0,10.613754616888377,median_1,kraken,Genus,EqualReads
+Neurospora,2.0,0.8691340957824999,median_1,kraken,Genus,EqualReads
+Penicillium,2.0,1.0936707107287087,median_1,kraken,Genus,EqualReads
+Saccharomyces,4.0,7.092233167528203,median_1,kraken,Genus,EqualReads
+Saccharomycodes,2.0,3.5316634085181144,median_1,kraken,Genus,EqualReads
+Sugiyamaella,2.0,3.541451989308184,median_1,kraken,Genus,EqualReads
+Torulaspora,2.0,3.544314354087952,median_1,kraken,Genus,EqualReads
+Zygosaccharomyces,2.0,3.5439256378832917,median_1,kraken,Genus,EqualReads
+Zygotorulaspora,2.0,3.5367873948522663,median_1,kraken,Genus,EqualReads
+Aspergillaceae,10.0,7.975316613126015,median_1,kraken,Family,EqualReads
+Chaetomiaceae,2.0,0.398794056370279,median_1,kraken,Family,EqualReads
+Cryptococcaceae,14.0,21.343261728225187,median_1,kraken,Family,EqualReads
+Debaryomycetaceae,10.0,7.948890288413874,median_1,kraken,Family,EqualReads
+Didymellaceae,2.0,0.4228211953942691,median_1,kraken,Family,EqualReads
+Malasseziaceae,6.0,10.597026773853816,median_1,kraken,Family,EqualReads
+Nectriaceae,2.0,3.3395959136222584,median_1,kraken,Family,EqualReads
+Saccharomycetaceae,20.0,35.54132509142485,median_1,kraken,Family,EqualReads
+Saccharomycodaceae,2.0,3.5260973187335827,median_1,kraken,Family,EqualReads
+Sclerotiniaceae,2.0,1.6061842539326359,median_1,kraken,Family,EqualReads
+Sordariaceae,2.0,1.8703063724841626,median_1,kraken,Family,EqualReads
+Trichomonascaceae,2.0,3.5358704721985537,median_1,kraken,Family,EqualReads
+Ustilaginaceae,2.0,0.49871308385330393,median_1,kraken,Family,EqualReads
+Ascochyta rabiei,2.0,4.859146774395638,median_2,kraken,Species,EqualReads
+Brettanomyces bruxellensis,2.0,4.7660293040014885,median_2,kraken,Species,EqualReads
+Candida albicans,2.0,4.888382432786462,median_2,kraken,Species,EqualReads
+Cryptococcus gattii,2.0,4.591706944797761,median_2,kraken,Species,EqualReads
+Debaryomyces hansenii,2.0,4.865933623664937,median_2,kraken,Species,EqualReads
+Fusarium falciforme,2.0,4.661616238319975,median_2,kraken,Species,EqualReads
+Kluyveromyces lactis,2.0,4.778511411398869,median_2,kraken,Species,EqualReads
+Malassezia restricta,2.0,4.822792043344712,median_2,kraken,Species,EqualReads
+Naumovozyma castellii,2.0,4.78202348724452,median_2,kraken,Species,EqualReads
+Neurospora crassa,2.0,8.759259540506575,median_2,kraken,Species,EqualReads
+Saccharomyces cerevisiae,2.0,4.738264920627086,median_2,kraken,Species,EqualReads
+Tetrapisispora phaffii,2.0,4.775853624272431,median_2,kraken,Species,EqualReads
+Ascochyta,2.0,4.818356846332429,median_2,kraken,Genus,EqualReads
+Aspergillus,8.0,6.913513546584165,median_2,kraken,Genus,EqualReads
+Brettanomyces,2.0,4.7583526954570505,median_2,kraken,Genus,EqualReads
+Candida,6.0,5.223514285458806,median_2,kraken,Genus,EqualReads
+Cryptococcus,6.0,9.566967691412065,median_2,kraken,Genus,EqualReads
+Debaryomyces,2.0,4.825086723646295,median_2,kraken,Genus,EqualReads
+Fusarium,2.0,4.889467647879641,median_2,kraken,Genus,EqualReads
+Kluyveromyces,2.0,4.7952023034064,median_2,kraken,Genus,EqualReads
+Malassezia,4.0,4.921987544550141,median_2,kraken,Genus,EqualReads
+Naumovozyma,2.0,4.787813556984883,median_2,kraken,Genus,EqualReads
+Neurospora,4.0,8.685730259928569,median_2,kraken,Genus,EqualReads
+Ogataea,8.0,11.556187651569308,median_2,kraken,Genus,EqualReads
+Saccharomyces,2.0,4.817603853066542,median_2,kraken,Genus,EqualReads
+Scheffersomyces,2.0,0.23178073965587268,median_2,kraken,Genus,EqualReads
+Tetrapisispora,4.0,4.735762897480438,median_2,kraken,Genus,EqualReads
+Aspergillaceae,8.0,7.02238548313984,median_2,kraken,Family,EqualReads
+Chaetomiaceae,2.0,0.5235257781838423,median_2,kraken,Family,EqualReads
+Cordycipitaceae,2.0,0.659985391070703,median_2,kraken,Family,EqualReads
+Cryptococcaceae,8.0,10.242362606777885,median_2,kraken,Family,EqualReads
+Debaryomycetaceae,16.0,15.359621577059754,median_2,kraken,Family,EqualReads
+Didymellaceae,2.0,4.809344077864184,median_2,kraken,Family,EqualReads
+Malasseziaceae,4.0,4.912780934172916,median_2,kraken,Family,EqualReads
+Metschnikowiaceae,2.0,0.2432316266878363,median_2,kraken,Family,EqualReads
+Nectriaceae,2.0,4.880321866185025,median_2,kraken,Family,EqualReads
+Pichiaceae,10.0,16.358524733011247,median_2,kraken,Family,EqualReads
+Saccharomycetaceae,10.0,24.207747429932333,median_2,kraken,Family,EqualReads
+Sordariaceae,4.0,8.76521665605836,median_2,kraken,Family,EqualReads
+Trichosporonaceae,2.0,0.2303137631615414,median_2,kraken,Family,EqualReads
+Candida albicans,2.0,4.2351551192808685,median_3,kraken,Species,EqualReads
+Candida dubliniensis,2.0,4.193054830801343,median_3,kraken,Species,EqualReads
+Candida orthopsilosis,2.0,4.600194945208582,median_3,kraken,Species,EqualReads
+Debaryomyces hansenii,2.0,5.715754132739965,median_3,kraken,Species,EqualReads
+Encephalitozoon cuniculi,2.0,3.9358059212145675,median_3,kraken,Species,EqualReads
+Eremothecium gossypii,2.0,3.9072139572892772,median_3,kraken,Species,EqualReads
+Kluyveromyces lactis,2.0,3.9669183888467714,median_3,kraken,Species,EqualReads
+Kluyveromyces marxianus,2.0,3.957820945779633,median_3,kraken,Species,EqualReads
+Komagataella phaffii,2.0,3.961207872635797,median_3,kraken,Species,EqualReads
+Lodderomyces elongisporus,2.0,4.018352417615958,median_3,kraken,Species,EqualReads
+Malassezia restricta,2.0,4.065611862120571,median_3,kraken,Species,EqualReads
+Nakaseomyces glabratus,2.0,3.9643978851398587,median_3,kraken,Species,EqualReads
+Ogataea parapolymorpha,2.0,3.9542371045713667,median_3,kraken,Species,EqualReads
+Pichia kudriavzevii,2.0,3.9677848119960224,median_3,kraken,Species,EqualReads
+Saccharomyces cerevisiae,2.0,3.93828704205106,median_3,kraken,Species,EqualReads
+Saccharomyces eubayanus,2.0,3.957190819852905,median_3,kraken,Species,EqualReads
+Saccharomyces kudriavzevii,2.0,3.958766134669726,median_3,kraken,Species,EqualReads
+Scheffersomyces stipitis,2.0,4.040052379217659,median_3,kraken,Species,EqualReads
+Aspergillus,2.0,2.708901528076174,median_3,kraken,Genus,EqualReads
+Candida,10.0,13.071675487166937,median_3,kraken,Genus,EqualReads
+Cryptococcus,2.0,3.9420066814603203,median_3,kraken,Genus,EqualReads
+Debaryomyces,4.0,5.6920660992367065,median_3,kraken,Genus,EqualReads
+Encephalitozoon,2.0,3.9203182125877833,median_3,kraken,Genus,EqualReads
+Eremothecium,2.0,3.945850207589631,median_3,kraken,Genus,EqualReads
+Kazachstania,2.0,0.05839806537288871,median_3,kraken,Genus,EqualReads
+Kluyveromyces,4.0,7.899465906746643,median_3,kraken,Genus,EqualReads
+Komagataella,2.0,3.9447912769213516,median_3,kraken,Genus,EqualReads
+Lodderomyces,2.0,4.057822320846579,median_3,kraken,Genus,EqualReads
+Malassezia,6.0,4.237252239638364,median_3,kraken,Genus,EqualReads
+Nakaseomyces,2.0,3.9479680689261896,median_3,kraken,Genus,EqualReads
+Ogataea,2.0,3.937849398095964,median_3,kraken,Genus,EqualReads
+Penicillium,2.0,1.272481686382387,median_3,kraken,Genus,EqualReads
+Pichia,2.0,3.9513409592029314,median_3,kraken,Genus,EqualReads
+Saccharomyces,6.0,11.889006809316394,median_3,kraken,Genus,EqualReads
+Scheffersomyces,6.0,4.023309024991549,median_3,kraken,Genus,EqualReads
+Tetrapisispora,2.0,0.05631942369071067,median_3,kraken,Genus,EqualReads
+Aspergillaceae,4.0,3.986844633841917,median_3,kraken,Family,EqualReads
+Cryptococcaceae,4.0,7.909892865096441,median_3,kraken,Family,EqualReads
+Debaryomycetaceae,26.0,26.92529128145838,median_3,kraken,Family,EqualReads
+Malasseziaceae,6.0,4.228527324625451,median_3,kraken,Family,EqualReads
+Metschnikowiaceae,2.0,0.11682960841924647,median_3,kraken,Family,EqualReads
+Pichiaceae,4.0,11.840847153604125,median_3,kraken,Family,EqualReads
+Saccharomycetaceae,18.0,32.118553285456024,median_3,kraken,Family,EqualReads
+Sordariaceae,2.0,3.9594865446341942,median_3,kraken,Family,EqualReads
+Unikaryonidae,2.0,3.9122458956016883,median_3,kraken,Family,EqualReads
+Ascochyta rabiei,1.0,2.2042675351948255,large_1,kraken,Species,EqualReads
+Brettanomyces bruxellensis,1.0,2.0917756037753676,large_1,kraken,Species,EqualReads
+Candida albicans,1.0,2.303525121741407,large_1,kraken,Species,EqualReads
+Candida dubliniensis,1.0,2.287627260919271,large_1,kraken,Species,EqualReads
+Cryptococcus gattii,1.0,2.0147625371487643,large_1,kraken,Species,EqualReads
+Cryptococcus neoformans,1.0,2.1106907287587724,large_1,kraken,Species,EqualReads
+Debaryomyces hansenii,1.0,2.2022074720778213,large_1,kraken,Species,EqualReads
+Encephalitozoon cuniculi,1.0,2.0799978691872405,large_1,kraken,Species,EqualReads
+Eremothecium gossypii,1.0,2.0709252679850794,large_1,kraken,Species,EqualReads
+Eremothecium sinecaudum,1.0,2.086739893933801,large_1,kraken,Species,EqualReads
+Fusarium falciforme,1.0,2.0545279979224578,large_1,kraken,Species,EqualReads
+Kluyveromyces lactis,1.0,2.110565876448651,large_1,kraken,Species,EqualReads
+Kluyveromyces marxianus,1.0,2.108297726148111,large_1,kraken,Species,EqualReads
+Lachancea thermotolerans,1.0,2.093835666892372,large_1,kraken,Species,EqualReads
+Malassezia japonica,1.0,2.163045464136382,large_1,kraken,Species,EqualReads
+Malassezia restricta,1.0,2.153952054215867,large_1,kraken,Species,EqualReads
+Nakaseomyces glabratus,1.0,2.1121265303251695,large_1,kraken,Species,EqualReads
+Naumovozyma castellii,1.0,2.1414043970486576,large_1,kraken,Species,EqualReads
+Ogataea parapolymorpha,1.0,5.652001653044586,large_1,kraken,Species,EqualReads
+Pichia kudriavzevii,1.0,2.1082561087114033,large_1,kraken,Species,EqualReads
+Saccharomyces cerevisiae,1.0,2.0909432550412244,large_1,kraken,Species,EqualReads
+Saccharomyces eubayanus,1.0,2.105342888141902,large_1,kraken,Species,EqualReads
+Saccharomyces kudriavzevii,1.0,2.1031787814331295,large_1,kraken,Species,EqualReads
+Saccharomyces paradoxus,1.0,2.089153705262816,large_1,kraken,Species,EqualReads
+Saccharomycodes ludwigii,1.0,2.1045729655628196,large_1,kraken,Species,EqualReads
+Scheffersomyces stipitis,1.0,2.1931556795940135,large_1,kraken,Species,EqualReads
+Talaromyces marneffei,1.0,2.1039695127305658,large_1,kraken,Species,EqualReads
+Tetrapisispora phaffii,1.0,2.134412667681855,large_1,kraken,Species,EqualReads
+Zygosaccharomyces rouxii,1.0,2.1102953631100543,large_1,kraken,Species,EqualReads
+Zygotorulaspora mrakii,1.0,2.101222761907893,large_1,kraken,Species,EqualReads
+Ascochyta,1.0,2.191197438824676,large_1,kraken,Genus,EqualReads
+Aspergillus,4.0,3.9172644555837266,large_1,kraken,Genus,EqualReads
+Botrytis,1.0,0.9542972023292514,large_1,kraken,Genus,EqualReads
+Brettanomyces,1.0,2.0959207900639236,large_1,kraken,Genus,EqualReads
+Candida,5.0,4.789647734966261,large_1,kraken,Genus,EqualReads
+Cryptococcus,5.0,8.349180023014503,large_1,kraken,Genus,EqualReads
+Debaryomyces,1.0,2.1891495907510077,large_1,kraken,Genus,EqualReads
+Encephalitozoon,1.0,2.0685127224112976,large_1,kraken,Genus,EqualReads
+Eremothecium,2.0,4.167701795259459,large_1,kraken,Genus,EqualReads
+Fusarium,2.0,4.119380854854527,large_1,kraken,Genus,EqualReads
+Kazachstania,3.0,0.05752591406939889,large_1,kraken,Genus,EqualReads
+Kluyveromyces,2.0,4.198978020384569,large_1,kraken,Genus,EqualReads
+Lachancea,1.0,2.081420370875629,large_1,kraken,Genus,EqualReads
+Malassezia,4.0,4.324248403557629,large_1,kraken,Genus,EqualReads
+Nakaseomyces,1.0,2.0996027795297105,large_1,kraken,Genus,EqualReads
+Naumovozyma,1.0,2.2210050052302868,large_1,kraken,Genus,EqualReads
+Neurospora,1.0,1.7743259011617503,large_1,kraken,Genus,EqualReads
+Ogataea,3.0,5.6184883861157555,large_1,kraken,Genus,EqualReads
+Pichia,1.0,2.0957553073913044,large_1,kraken,Genus,EqualReads
+Saccharomyces,4.0,8.397169998074196,large_1,kraken,Genus,EqualReads
+Saccharomycodes,1.0,2.0920940032595947,large_1,kraken,Genus,EqualReads
+Scheffersomyces,2.0,2.1801514704273153,large_1,kraken,Genus,EqualReads
+Talaromyces,1.0,2.1255628737969148,large_1,kraken,Genus,EqualReads
+Tetrapisispora,2.0,2.121756772326664,large_1,kraken,Genus,EqualReads
+Zygosaccharomyces,1.0,2.0977824701308947,large_1,kraken,Genus,EqualReads
+Zygotorulaspora,1.0,2.0887636644731247,large_1,kraken,Genus,EqualReads
+Aspergillaceae,4.0,3.9795444824106663,large_1,kraken,Family,EqualReads
+Chaetomiaceae,1.0,0.2634560345098091,large_1,kraken,Family,EqualReads
+Cordycipitaceae,1.0,0.31353786648918514,large_1,kraken,Family,EqualReads
+Cryptococcaceae,8.0,14.621397039515516,large_1,kraken,Family,EqualReads
+Debaryomycetaceae,14.0,11.44355410076481,large_1,kraken,Family,EqualReads
+Didymellaceae,1.0,2.1867965628917156,large_1,kraken,Family,EqualReads
+Malasseziaceae,4.0,4.315563435060421,large_1,kraken,Family,EqualReads
+Metschnikowiaceae,2.0,0.1437220586316636,large_1,kraken,Family,EqualReads
+Nectriaceae,2.0,4.111107349354015,large_1,kraken,Family,EqualReads
+Pichiaceae,5.0,9.812219967002967,large_1,kraken,Family,EqualReads
+Saccharomycetaceae,18.0,33.82930724398812,large_1,kraken,Family,EqualReads
+Saccharomycodaceae,1.0,2.087892170058579,large_1,kraken,Family,EqualReads
+Sclerotiniaceae,1.0,0.9523805591659249,large_1,kraken,Family,EqualReads
+Sordariaceae,2.0,3.8963500129642994,large_1,kraken,Family,EqualReads
+Trichocomaceae,1.0,2.1212938205707923,large_1,kraken,Family,EqualReads
+Trichosporonaceae,1.0,0.1192385249434773,large_1,kraken,Family,EqualReads
+Unikaryonidae,1.0,2.0643582506618396,large_1,kraken,Family,EqualReads
+Ustilaginaceae,1.0,0.32782336843878457,large_1,kraken,Family,EqualReads
+Ascochyta rabiei,1.0,2.2138897925359244,large_2,kraken,Species,EqualReads
+Aspergillus chevalieri,1.0,3.365111645678634,large_2,kraken,Species,EqualReads
+Aspergillus flavus,1.0,1.1255491884270816,large_2,kraken,Species,EqualReads
+Aspergillus oryzae,1.0,1.15478750101988,large_2,kraken,Species,EqualReads
+Brettanomyces bruxellensis,1.0,2.110737696889308,large_2,kraken,Species,EqualReads
+Candida albicans,1.0,2.3590745843345986,large_2,kraken,Species,EqualReads
+Candida dubliniensis,1.0,2.340407368977647,large_2,kraken,Species,EqualReads
+Candida orthopsilosis,1.0,3.0342195226772057,large_2,kraken,Species,EqualReads
+Cryptococcus gattii,1.0,2.031957853203116,large_2,kraken,Species,EqualReads
+Debaryomyces hansenii,1.0,2.230061054378857,large_2,kraken,Species,EqualReads
+Eremothecium cymbalariae,1.0,2.1152681671332423,large_2,kraken,Species,EqualReads
+Fusarium falciforme,1.0,2.064677916075975,large_2,kraken,Species,EqualReads
+Kluyveromyces lactis,1.0,2.1306214274043533,large_2,kraken,Species,EqualReads
+Kluyveromyces marxianus,1.0,2.1291741938542073,large_2,kraken,Species,EqualReads
+Komagataella phaffii,1.0,2.1188757638089677,large_2,kraken,Species,EqualReads
+Lodderomyces elongisporus,1.0,2.206611675986641,large_2,kraken,Species,EqualReads
+Malassezia japonica,1.0,2.197005401117558,large_2,kraken,Species,EqualReads
+Malassezia restricta,1.0,2.169528938064067,large_2,kraken,Species,EqualReads
+Naumovozyma castellii,1.0,2.1621040007198413,large_2,kraken,Species,EqualReads
+Neurospora crassa,1.0,3.8615547021771635,large_2,kraken,Species,EqualReads
+Pichia kudriavzevii,1.0,2.127664037106229,large_2,kraken,Species,EqualReads
+Saccharomyces cerevisiae,1.0,2.111450826464742,large_2,kraken,Species,EqualReads
+Saccharomyces eubayanus,1.0,2.123888645236284,large_2,kraken,Species,EqualReads
+Saccharomyces mikatae,1.0,2.1246437236102733,large_2,kraken,Species,EqualReads
+Saccharomyces paradoxus,1.0,2.1070042538179177,large_2,kraken,Species,EqualReads
+Saccharomycodes ludwigii,1.0,2.1237837732398965,large_2,kraken,Species,EqualReads
+Scheffersomyces stipitis,1.0,2.2043254664653964,large_2,kraken,Species,EqualReads
+Talaromyces marneffei,1.0,2.1241822868261684,large_2,kraken,Species,EqualReads
+Tetrapisispora phaffii,1.0,2.1541966521922338,large_2,kraken,Species,EqualReads
+Torulaspora delbrueckii,1.0,2.1227140788767453,large_2,kraken,Species,EqualReads
+Yarrowia lipolytica,1.0,2.088924321640735,large_2,kraken,Species,EqualReads
+Zygotorulaspora mrakii,1.0,2.120469818154056,large_2,kraken,Species,EqualReads
+Ascochyta,1.0,2.1540494750586,large_2,kraken,Genus,EqualReads
+Aspergillus,8.0,9.446496302370164,large_2,kraken,Genus,EqualReads
+Botrytis,1.0,0.9398865262931908,large_2,kraken,Genus,EqualReads
+Brettanomyces,1.0,2.0735828133169365,large_2,kraken,Genus,EqualReads
+Candida,9.0,7.6117421328175405,large_2,kraken,Genus,EqualReads
+Cryptococcus,4.0,6.198769592703594,large_2,kraken,Genus,EqualReads
+Debaryomyces,1.0,2.1697836359013145,large_2,kraken,Genus,EqualReads
+Eremothecium,1.0,2.0919903529798787,large_2,kraken,Genus,EqualReads
+Fusarium,2.0,4.014680318993276,large_2,kraken,Genus,EqualReads
+Kazachstania,2.0,0.05858985185399841,large_2,kraken,Genus,EqualReads
+Kluyveromyces,2.0,4.14977778303837,large_2,kraken,Genus,EqualReads
+Komagataella,1.0,2.0616036273056872,large_2,kraken,Genus,EqualReads
+Lodderomyces,1.0,2.21588411494631,large_2,kraken,Genus,EqualReads
+Malassezia,4.0,4.284160985566611,large_2,kraken,Genus,EqualReads
+Naumovozyma,1.0,2.199027543148538,large_2,kraken,Genus,EqualReads
+Neurospora,2.0,3.7571788384311877,large_2,kraken,Genus,EqualReads
+Ogataea,4.0,5.020585016915753,large_2,kraken,Genus,EqualReads
+Pichia,1.0,2.0701543580360338,large_2,kraken,Genus,EqualReads
+Saccharomyces,4.0,8.301045311526181,large_2,kraken,Genus,EqualReads
+Saccharomycodes,1.0,2.066378975732659,large_2,kraken,Genus,EqualReads
+Scheffersomyces,2.0,2.144743667867578,large_2,kraken,Genus,EqualReads
+Talaromyces,1.0,2.1047858378675333,large_2,kraken,Genus,EqualReads
+Tetrapisispora,2.0,2.095969810002355,large_2,kraken,Genus,EqualReads
+Torulaspora,1.0,2.082133544047283,large_2,kraken,Genus,EqualReads
+Yarrowia,1.0,2.032461757418014,large_2,kraken,Genus,EqualReads
+Zygotorulaspora,1.0,2.0631545951708574,large_2,kraken,Genus,EqualReads
+Aspergillaceae,8.0,9.712237842035314,large_2,kraken,Family,EqualReads
+Chaetomiaceae,1.0,0.25235256777727294,large_2,kraken,Family,EqualReads
+Cryptococcaceae,9.0,14.967577236597004,large_2,kraken,Family,EqualReads
+Debaryomycetaceae,18.0,14.533021999423838,large_2,kraken,Family,EqualReads
+Didymellaceae,1.0,2.1939146885781002,large_2,kraken,Family,EqualReads
+Malasseziaceae,4.0,4.363448390252095,large_2,kraken,Family,EqualReads
+Metschnikowiaceae,1.0,0.11365322795536845,large_2,kraken,Family,EqualReads
+Nectriaceae,2.0,4.088980417473997,large_2,kraken,Family,EqualReads
+Pichiaceae,6.0,11.436886084463389,large_2,kraken,Family,EqualReads
+Saccharomycetaceae,14.0,25.83825491163607,large_2,kraken,Family,EqualReads
+Saccharomycodaceae,1.0,2.104621662371761,large_2,kraken,Family,EqualReads
+Sclerotiniaceae,1.0,0.9572811021785752,large_2,kraken,Family,EqualReads
+Sordariaceae,3.0,5.945967742270728,large_2,kraken,Family,EqualReads
+Trichocomaceae,1.0,2.143739324224724,large_2,kraken,Family,EqualReads
+Trichosporonaceae,1.0,0.1052560253046792,large_2,kraken,Family,EqualReads
+Ascochyta rabiei,0.6060606060606061,1.747313854993265,complete_1,kraken,Species,EqualReads
+Aspergillus chevalieri,0.6060606060606061,2.408178714583324,complete_1,kraken,Species,EqualReads
+Aspergillus flavus,0.6060606060606061,0.7954271587852872,complete_1,kraken,Species,EqualReads
+Aspergillus oryzae,0.6060606060606061,0.8247023321076203,complete_1,kraken,Species,EqualReads
+Brettanomyces bruxellensis,0.6060606060606061,1.496153567505149,complete_1,kraken,Species,EqualReads
+Candida albicans,0.6060606060606061,1.7236275783961048,complete_1,kraken,Species,EqualReads
+Candida dubliniensis,0.6060606060606061,1.7018929800204337,complete_1,kraken,Species,EqualReads
+Candida orthopsilosis,0.6060606060606061,2.18667802188541,complete_1,kraken,Species,EqualReads
+Cryptococcus gattii,0.6060606060606061,1.4331823739799894,complete_1,kraken,Species,EqualReads
+Cryptococcus neoformans,0.6060606060606061,1.5182430164665457,complete_1,kraken,Species,EqualReads
+Debaryomyces hansenii,0.6060606060606061,2.241221513999595,complete_1,kraken,Species,EqualReads
+Encephalitozoon cuniculi,0.6060606060606061,1.477583053518861,complete_1,kraken,Species,EqualReads
+Eremothecium gossypii,0.6060606060606061,1.4816490498136297,complete_1,kraken,Species,EqualReads
+Fusarium falciforme,0.6060606060606061,1.4686526471114423,complete_1,kraken,Species,EqualReads
+Kazachstania africana,0.6060606060606061,1.5321561165151898,complete_1,kraken,Species,EqualReads
+Kluyveromyces lactis,0.6060606060606061,1.5158921313361158,complete_1,kraken,Species,EqualReads
+Kluyveromyces marxianus,0.6060606060606061,1.5166905451539976,complete_1,kraken,Species,EqualReads
+Komagataella phaffii,0.6060606060606061,1.5060302421411684,complete_1,kraken,Species,EqualReads
+Lachancea thermotolerans,0.6060606060606061,1.5104954453448778,complete_1,kraken,Species,EqualReads
+Lodderomyces elongisporus,0.6060606060606061,1.5965762832653945,complete_1,kraken,Species,EqualReads
+Malassezia japonica,0.6060606060606061,1.5683360908180934,complete_1,kraken,Species,EqualReads
+Malassezia restricta,0.6060606060606061,1.5537872168033582,complete_1,kraken,Species,EqualReads
+Malassezia vespertilionis,0.6060606060606061,1.5037976405393136,complete_1,kraken,Species,EqualReads
+Nakaseomyces glabratus,0.6060606060606061,1.5239797676024374,complete_1,kraken,Species,EqualReads
+Naumovozyma castellii,0.6060606060606061,1.5389278485261133,complete_1,kraken,Species,EqualReads
+Neurospora crassa,0.6060606060606061,4.329295429376601,complete_1,kraken,Species,EqualReads
+Ogataea parapolymorpha,0.6060606060606061,5.122977906115406,complete_1,kraken,Species,EqualReads
+Pichia kudriavzevii,0.6060606060606061,1.524659897891744,complete_1,kraken,Species,EqualReads
+Saccharomyces cerevisiae,0.6060606060606061,1.4963457782390837,complete_1,kraken,Species,EqualReads
+Saccharomyces eubayanus,0.6060606060606061,1.5077157824233633,complete_1,kraken,Species,EqualReads
+Saccharomyces kudriavzevii,0.6060606060606061,1.5063111655215342,complete_1,kraken,Species,EqualReads
+Saccharomyces mikatae,0.6060606060606061,1.5053944681750773,complete_1,kraken,Species,EqualReads
+Saccharomyces paradoxus,0.6060606060606061,1.4936400425229284,complete_1,kraken,Species,EqualReads
+Saccharomycodes ludwigii,0.6060606060606061,1.508647265210892,complete_1,kraken,Species,EqualReads
+Scheffersomyces stipitis,0.6060606060606061,1.6278770620145755,complete_1,kraken,Species,EqualReads
+Talaromyces marneffei,0.6060606060606061,1.5155372807503908,complete_1,kraken,Species,EqualReads
+Tetrapisispora phaffii,0.6060606060606061,1.5318308368116085,complete_1,kraken,Species,EqualReads
+Torulaspora delbrueckii,0.6060606060606061,1.506473805373325,complete_1,kraken,Species,EqualReads
+Yarrowia lipolytica,0.6060606060606061,1.4836155134761904,complete_1,kraken,Species,EqualReads
+Zygosaccharomyces rouxii,0.6060606060606061,1.513955238555699,complete_1,kraken,Species,EqualReads
+Zygotorulaspora mrakii,0.6060606060606061,1.5050839739125677,complete_1,kraken,Species,EqualReads
+Ascochyta,0.6060606060606061,1.7096047329279669,complete_1,kraken,Genus,EqualReads
+Aspergillus,7.878787878787879,10.538304589653201,complete_1,kraken,Genus,EqualReads
+Botrytis,0.6060606060606061,0.6807865992958936,complete_1,kraken,Genus,EqualReads
+Brettanomyces,0.6060606060606061,1.4871266812796127,complete_1,kraken,Genus,EqualReads
+Candida,6.0606060606060606,5.57064556970815,complete_1,kraken,Genus,EqualReads
+Cryptococcus,3.6363636363636367,5.891147633188824,complete_1,kraken,Genus,EqualReads
+Debaryomyces,1.2121212121212122,2.192853274140872,complete_1,kraken,Genus,EqualReads
+Encephalitozoon,0.6060606060606061,1.4467221557412906,complete_1,kraken,Genus,EqualReads
+Eremothecium,0.6060606060606061,1.5000451350231578,complete_1,kraken,Genus,EqualReads
+Fusarium,0.6060606060606061,1.6764044514705916,complete_1,kraken,Genus,EqualReads
+Kazachstania,2.4242424242424243,1.4990903556871287,complete_1,kraken,Genus,EqualReads
+Kluyveromyces,1.2121212121212122,2.9722570057657096,complete_1,kraken,Genus,EqualReads
+Komagataella,0.6060606060606061,1.4735283089179863,complete_1,kraken,Genus,EqualReads
+Lachancea,1.2121212121212122,1.477897147697998,complete_1,kraken,Genus,EqualReads
+Lodderomyces,0.6060606060606061,1.6423506551522207,complete_1,kraken,Genus,EqualReads
+Malassezia,3.6363636363636367,4.53588176475626,complete_1,kraken,Genus,EqualReads
+Nakaseomyces,0.6060606060606061,1.491090462159491,complete_1,kraken,Genus,EqualReads
+Naumovozyma,0.6060606060606061,1.591978811999898,complete_1,kraken,Genus,EqualReads
+Neurospora,2.4242424242424243,4.235864057939482,complete_1,kraken,Genus,EqualReads
+Ogataea,3.0303030303030303,5.012417917909809,complete_1,kraken,Genus,EqualReads
+Penicillium,1.2121212121212122,0.966670678668725,complete_1,kraken,Genus,EqualReads
+Pichia,1.2121212121212122,1.491755914423996,complete_1,kraken,Genus,EqualReads
+Saccharomyces,3.0303030303030303,7.378057319164793,complete_1,kraken,Genus,EqualReads
+Saccharomycodes,0.6060606060606061,1.4760888535009733,complete_1,kraken,Genus,EqualReads
+Scheffersomyces,3.0303030303030303,1.5927455287394365,complete_1,kraken,Genus,EqualReads
+Talaromyces,0.6060606060606061,1.5338240706235808,complete_1,kraken,Genus,EqualReads
+Tetrapisispora,1.2121212121212122,1.4987720959084523,complete_1,kraken,Genus,EqualReads
+Torulaspora,0.6060606060606061,1.4956762962431458,complete_1,kraken,Genus,EqualReads
+Yarrowia,0.6060606060606061,1.4515973168964695,complete_1,kraken,Genus,EqualReads
+Zygosaccharomyces,0.6060606060606061,1.4812822744348284,complete_1,kraken,Genus,EqualReads
+Zygotorulaspora,0.6060606060606061,1.4726024622891096,complete_1,kraken,Genus,EqualReads
+Aspergillaceae,9.090909090909092,11.66197927828858,complete_1,kraken,Family,EqualReads
+Chaetomiaceae,1.2121212121212122,0.39248460276359753,complete_1,kraken,Family,EqualReads
+Cordycipitaceae,0.6060606060606061,0.24085446903395882,complete_1,kraken,Family,EqualReads
+Cryptococcaceae,7.878787878787879,15.0356546006673,complete_1,kraken,Family,EqualReads
+Debaryomycetaceae,15.757575757575758,12.741542499183147,complete_1,kraken,Family,EqualReads
+Didymellaceae,1.2121212121212122,1.7300005738464224,complete_1,kraken,Family,EqualReads
+Malasseziaceae,3.6363636363636367,4.589995514628985,complete_1,kraken,Family,EqualReads
+Metschnikowiaceae,1.2121212121212122,0.15182043994111633,complete_1,kraken,Family,EqualReads
+Nectriaceae,0.6060606060606061,1.6964042080509483,complete_1,kraken,Family,EqualReads
+Pichiaceae,4.848484848484849,9.582078776231516,complete_1,kraken,Family,EqualReads
+Saccharomycetaceae,12.727272727272728,27.264029081131348,complete_1,kraken,Family,EqualReads
+Saccharomycodaceae,0.6060606060606061,1.4936988149485821,complete_1,kraken,Family,EqualReads
+Sclerotiniaceae,0.6060606060606061,0.6889084855490246,complete_1,kraken,Family,EqualReads
+Sordariaceae,3.0303030303030303,6.228824774238277,complete_1,kraken,Family,EqualReads
+Trichocomaceae,0.6060606060606061,1.552122821872215,complete_1,kraken,Family,EqualReads
+Trichosporonaceae,0.6060606060606061,0.11131449477506977,complete_1,kraken,Family,EqualReads
+Unikaryonidae,0.6060606060606061,1.463981768079383,complete_1,kraken,Family,EqualReads
+Ustilaginaceae,0.6060606060606061,0.2535610683849268,complete_1,kraken,Family,EqualReads

@@ -1,0 +1,172 @@
+Taxid,Species,Accession,GC,NumContigs,GenomeLength,Phylum name,Class name,Order name,Family name,Genus name,Species name
+263815,Pneumocystis murina B123,GCF_000349005.2,27.0,20.0,7501343,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis murina
+54550,Myxozyma melibiosi,GCF_037950935.1,51.5,24.0,15330035,Ascomycota,Saccharomycetes,Saccharomycetales,Lipomycetaceae,Myxozyma,Myxozyma melibiosi
+1005962,Ogataea parapolymorpha DL-1,GCF_000187245.1,48.0,10.0,8874589,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Ogataea,Ogataea parapolymorpha
+254056,Fonsecaea monophora,GCF_001642475.1,52.0,324.0,35229797,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Fonsecaea,Fonsecaea monophora
+37727,Talaromyces marneffei,GCF_009556855.1,47.0,8.0,28198338,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,Talaromyces,Talaromyces marneffei
+82508,Trichosporon asahii var. asahii CBS 2479,GCF_000293215.1,59.5,341.0,24507743,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,Trichosporon asahii
+497108,Candida jiufengensis,GCF_024610255.1,27.0,24.0,13666317,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida jiufengensis
+33178,Aspergillus terreus NIH2624,GCF_000149615.1,53.0,267.0,29331195,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus terreus
+588726,Kazachstania naganishii CBS 8797,GCF_000348985.1,46.0,95.0,10845821,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kazachstania,Kazachstania naganishii
+588809,Neurospora hispaniola,GCF_033458365.1,48.0,23.0,40807401,Ascomycota,Sordariomycetes,Sordariales,Sordariaceae,Neurospora,Neurospora hispaniola
+104669,Cryptococcus amylolentus CBS 6039,GCF_001720205.1,53.5,18.0,20254996,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus amylolentus
+61262,Kazachstania barnettii,GCF_903064755.1,33.5,71.0,12616033,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kazachstania,Kazachstania barnettii
+63402,Nannizzia gypsea CBS 118893,GCF_000150975.2,48.5,317.0,23249403,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Nannizzia,Nannizzia gypsea
+46583,Suhomyces tanzawaensis NRRL Y-17324,GCF_001661415.1,45.5,249.0,13136204,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Suhomyces,Suhomyces tanzawaensis
+497109,Candida pseudojiufengensis,GCF_024610245.1,28.0,61.0,13993769,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida pseudojiufengensis
+27288,Naumovozyma castellii CBS 4309,GCF_000237345.1,37.0,17.0,11219539,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Naumovozyma,Naumovozyma castellii
+5551,Trichophyton rubrum CBS 118892,GCF_000151425.1,48.5,622.0,22502330,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Trichophyton,Trichophyton rubrum
+182096,Aspergillus chevalieri,GCF_016861735.1,49.5,8.0,29697343,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus chevalieri
+1304137,Scheffersomyces xylosifermentans,GCF_036884685.1,40.0,11.0,17250428,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Scheffersomyces,Scheffersomyces xylosifermentans
+76773,Malassezia globosa CBS 7966,GCF_000181695.2,52.0,62.0,8954998,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,Malassezia globosa
+176275,Beauveria bassiana ARSEF 2860,GCF_000280675.1,51.5,1226.0,33693936,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Beauveria,Beauveria bassiana
+293939,Aspergillus lentulus,GCF_010724455.1,50.0,799.0,30229310,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus lentulus
+27322,Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993,GCF_001664035.1,48.0,582.0,16055203,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia,Metschnikowia bicuspidata
+1788519,Scheffersomyces coipomensis,GCF_036884675.1,31.5,23.0,14757374,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Scheffersomyces,Scheffersomyces coipomensis
+36911,Clavispora lusitaniae ATCC 42720,GCF_000003835.1,44.5,88.0,12114892,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Clavispora,Clavispora lusitaniae
+5147,Sordaria macrospora k-hell,GCF_000182805.3,52.0,2091.0,38151803,Ascomycota,Sordariomycetes,Sordariales,Sordariaceae,Sordaria,Sordaria macrospora
+1859122,Cryptococcus decagattii,GCF_036417295.1,48.0,14.0,17768546,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus decagattii
+1041607,Wickerhamomyces ciferrii,GCF_000313485.1,30.5,364.0,15901152,Ascomycota,Saccharomycetes,Saccharomycetales,Phaffomycetaceae,Wickerhamomyces,Wickerhamomyces ciferrii
+318751,Westerdykella ornata,GCF_010094085.1,53.0,208.0,26979746,Ascomycota,Dothideomycetes,Pleosporales,Sporormiaceae,Westerdykella,Westerdykella ornata
+36630,Aspergillus fischeri NRRL 181,GCF_000149645.3,49.5,252.0,31377515,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus fischeri
+5334,Schizophyllum commune H4-8,GCF_000143185.2,57.5,72.0,38670379,Basidiomycota,Agaricomycetes,Agaricales,Schizophyllaceae,Schizophyllum,Schizophyllum commune
+5480,Candida parapsilosis,GCF_000182765.1,38.5,8.0,12998393,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida parapsilosis
+4924,Scheffersomyces stipitis CBS 6054,GCF_000209165.1,41.0,9.0,15441179,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Scheffersomyces,Scheffersomyces stipitis
+324769,Kwoniella bestiolae CBS 10118,GCF_000512585.1,47.5,42.0,24360772,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella bestiolae
+215250,Acaromyces ingoldii,GCF_003144295.1,57.5,69.0,19330111,Basidiomycota,Exobasidiomycetes,Exobasidiales,Cryptobasidiaceae,Acaromyces,Acaromyces ingoldii
+1217826,Xylona heveae TC161,GCF_001619985.1,48.0,125.0,24337763,Ascomycota,Xylonomycetes,Xylonales,Xylonaceae,Xylona,Xylona heveae
+42374,Candida dubliniensis CD36,GCF_000026945.1,33.0,8.0,14618422,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida dubliniensis
+29898,Rhodotorula graminis WP1,GCF_001329695.1,68.0,322.0,21013998,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,Rhodotorula graminis
+1268659,Kwoniella botswanensis,GCF_036426115.1,45.0,3.0,23007246,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella botswanensis
+36035,Saccharomycodes ludwigii,GCF_020623625.1,31.0,9.0,12500424,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycodaceae,Saccharomycodes,Saccharomycodes ludwigii
+293227,Cyphellophora europaea CBS 101466,GCF_000365145.1,54.0,106.0,28781303,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,Cyphellophora europaea
+5061,Aspergillus niger,GCF_000002855.4,50.5,469.0,33975768,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus niger
+5481,Diutina rugosa,GCF_008704595.1,49.5,328.0,13445959,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Diutina,Diutina rugosa
+40127,Neurospora tetrasperma FGSC 2508,GCF_000213175.1,49.5,551.0,39146333,Ascomycota,Sordariomycetes,Sordariales,Sordariaceae,Neurospora,Neurospora tetrasperma
+5076,Penicillium chrysogenum,GCF_028827035.1,49.0,4.0,32379777,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,Penicillium chrysogenum
+45303,Alternaria infectoria,GCF_024043175.1,50.0,252.0,36515125,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria infectoria
+4932,Saccharomyces cerevisiae S288C,GCF_000146045.2,38.5,16.0,12071326,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,Saccharomyces cerevisiae
+2020962,Malassezia vespertilionis,GCF_029542925.1,56.5,9.0,7595203,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,Malassezia vespertilionis
+5062,Aspergillus oryzae RIB40,GCF_000184455.2,48.5,28.0,37882812,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus oryzae
+5037,Histoplasma capsulatum G186AR,GCF_000150115.1,44.5,355.0,30438878,Ascomycota,Eurotiomycetes,Onygenales,Ajellomycetaceae,Histoplasma,Histoplasma capsulatum
+1378263,Ogataea philodendri,GCF_020536065.1,47.5,541.0,9002259,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Ogataea,Ogataea philodendri
+4754,Pneumocystis carinii B80,GCF_001477545.1,28.0,62.0,7661456,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis carinii
+45513,Scheffersomyces spartinae,GCF_019049425.1,38.5,103.0,12132557,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Scheffersomyces,Scheffersomyces spartinae
+1708541,Wallemia mellicola CBS 633.66,GCF_000263375.1,40.0,106.0,9815586,Basidiomycota,Wallemiomycetes,Wallemiales,Wallemiaceae,Wallemia,Wallemia mellicola
+41047,Aspergillus thermomutatus,GCF_002237265.1,50.0,647.0,30945974,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus thermomutatus
+2315449,Yamadazyma tenuis ATCC 10573,GCF_000223465.1,43.0,74.0,10747050,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Yamadazyma,Yamadazyma tenuis
+114497,Cordyceps fumosorosea ARSEF 2679,GCF_001636725.1,53.5,685.0,33485962,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Cordyceps,Cordyceps fumosorosea
+326644,Daldinia caldariorum,GCF_022478825.1,46.0,211.0,35556611,Ascomycota,Sordariomycetes,Xylariales,Hypoxylaceae,Daldinia,Daldinia caldariorum
+121759,Paracoccidioides brasiliensis Pb18,GCF_000150735.1,44.5,556.0,29952540,Ascomycota,Eurotiomycetes,Onygenales,,Paracoccidioides,Paracoccidioides brasiliensis
+101107,Halteromyces radiatus,GCF_025201355.1,33.5,22.0,26215609,Mucoromycota,Mucoromycetes,Mucorales,Cunninghamellaceae,Halteromyces,Halteromyces radiatus
+1187904,Alternaria burnsii,GCF_013036055.1,51.0,82.0,32958128,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria burnsii
+4909,Pichia kudriavzevii,GCF_003054445.1,38.5,5.0,10812555,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii
+4956,Zygosaccharomyces rouxii,GCF_000026365.1,39.0,9.0,9764635,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Zygosaccharomyces,Zygosaccharomyces rouxii
+5210,Filobasidium floriforme,GCF_021052385.1,53.0,42.0,27469088,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,Filobasidium floriforme
+717740,Hyphopichia burtonii NRRL Y-1933,GCF_001661395.1,35.0,243.0,12403110,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Hyphopichia,Hyphopichia burtonii
+5039,Blastomyces dermatitidis ER-3,GCF_000003525.1,37.0,591.0,66568269,Ascomycota,Eurotiomycetes,Onygenales,Ajellomycetaceae,Blastomyces,Blastomyces dermatitidis
+76777,Malassezia sympodialis ATCC 42132,GCF_000349305.1,59.0,88.0,7669689,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,Malassezia sympodialis
+89940,Cladophialophora bantiana CBS 173.52,GCF_000835475.1,51.5,140.0,36722552,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Cladophialophora,Cladophialophora bantiana
+1170767,Chaetomium strumarium,GCF_033439665.1,55.5,8.0,32422668,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Chaetomium,Chaetomium strumarium
+63400,Trichophyton benhamiae CBS 112371,GCF_000151125.1,48.5,68.0,22224160,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Trichophyton,Trichophyton benhamiae
+1187941,Alternaria rosae,GCF_020736505.1,52.0,52.0,33831682,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria rosae
+1198502,Candida theae,GCF_024610275.1,40.5,231.0,12421729,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida theae
+1681229,Blastomyces gilchristii SLH14081,GCF_000003855.2,36.0,1791.0,75353942,Ascomycota,Eurotiomycetes,Onygenales,Ajellomycetaceae,Blastomyces,Blastomyces gilchristii
+6035,Encephalitozoon cuniculi GB-M1,GCF_000091225.2,47.5,12.0,2497519,Microsporidia,,,Unikaryonidae,Encephalitozoon,Encephalitozoon cuniculi
+453459,Kwoniella pini CBS 10737,GCF_000512605.1,40.0,42.0,20828584,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella pini
+209559,Aspergillus alliaceus,GCF_009176365.1,47.0,418.0,40168528,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus alliaceus
+4903,Cyberlindnera jadinii NRRL Y-1542,GCF_001661405.1,44.5,392.0,13018415,Ascomycota,Saccharomycetes,Saccharomycetales,Phaffomycetaceae,Cyberlindnera,Cyberlindnera jadinii
+42068,Pneumocystis jirovecii RU7,GCF_001477535.1,28.5,70.0,8396240,Ascomycota,Pneumocystomycetes,Pneumocystales,Pneumocystaceae,Pneumocystis,Pneumocystis jirovecii
+1078765,Scheffersomyces amazonensis,GCF_036850825.1,32.0,9.0,14209774,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Scheffersomyces,Scheffersomyces amazonensis
+58627,Debaryomyces fabryi,GCF_001447935.2,35.5,534.0,11695966,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,Debaryomyces fabryi
+114524,Saccharomyces kudriavzevii IFO 1802,GCF_947243775.1,40.0,16.0,11913776,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,Saccharomyces kudriavzevii
+1080349,Saccharomyces eubayanus,GCF_001298625.1,40.0,132.0,11670174,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,Saccharomyces eubayanus
+317047,Kuraishia capsulata CBS 1993,GCF_000576695.1,45.5,73.0,11371246,Ascomycota,Saccharomycetes,Saccharomycetales,,Kuraishia,Kuraishia capsulata
+264951,Paecilomyces variotii,GCF_004022145.1,46.5,86.0,30105809,Ascomycota,Eurotiomycetes,Eurotiales,Thermoascaceae,Paecilomyces,Paecilomyces variotii
+33169,Eremothecium gossypii ATCC 10895,GCF_000091025.4,52.0,7.0,9095748,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Eremothecium,Eremothecium gossypii
+223818,Malassezia japonica,GCF_029542785.1,62.5,9.0,8433779,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,Malassezia japonica
+4959,Debaryomyces hansenii CBS767,GCF_000006445.2,36.5,14.0,12152486,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,Debaryomyces hansenii
+253628,Verruconis gallopava,GCF_000836295.1,49.0,565.0,31780469,Ascomycota,Dothideomycetes,Venturiales,Sympoventuriaceae,Verruconis,Verruconis gallopava
+1734106,Kwoniella shandongensis,GCF_008629635.1,50.0,142.0,21297554,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella shandongensis
+5454,Ascochyta rabiei,GCF_004011695.2,49.0,22.0,40846718,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Ascochyta,Ascochyta rabiei
+245174,Wallemia ichthyophaga EXF-994,GCF_000400465.1,45.5,101.0,9655632,Basidiomycota,Wallemiomycetes,Wallemiales,Wallemiaceae,Wallemia,Wallemia ichthyophaga
+324770,Kwoniella dejecticola CBS 10117,GCF_000512565.1,48.5,69.0,23862392,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella dejecticola
+76775,Malassezia restricta,GCF_003290485.1,56.0,9.0,7330907,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,Malassezia restricta
+4952,Yarrowia lipolytica CLIB122,GCF_000002525.2,49.0,18.0,20502981,Ascomycota,Saccharomycetes,Saccharomycetales,Dipodascaceae,Yarrowia,Yarrowia lipolytica
+5476,Candida albicans SC5314,GCF_000182965.3,33.5,88.0,14282666,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida albicans
+1245769,Lachancea lanzarotensis,GCF_000938715.1,44.5,34.0,11092131,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Lachancea,Lachancea lanzarotensis
+497107,Candida oxycetoniae,GCF_023343755.2,38.0,129.0,12748657,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida oxycetoniae
+58291,Rhizopus microsporus ATCC 52813,GCF_002708625.1,37.5,823.0,25972395,Mucoromycota,Mucoromycetes,Mucorales,Rhizopodaceae,Rhizopus,Rhizopus microsporus
+5141,Neurospora crassa OR74A,GCF_000182925.2,48.5,411.0,41037538,Ascomycota,Sordariomycetes,Sordariales,Sordariaceae,Neurospora,Neurospora crassa
+381046,Lachancea thermotolerans CBS 6340,GCF_000142805.1,47.5,10.0,10392862,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Lachancea,Lachancea thermotolerans
+45130,Bipolaris sorokiniana ND90Pr,GCF_000338995.1,50.0,504.0,34409167,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Bipolaris,Bipolaris sorokiniana
+1187938,Alternaria postmessia,GCF_024291825.1,51.0,739.0,34409470,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria postmessia
+28985,Kluyveromyces lactis,GCF_000002515.2,39.0,6.0,10689156,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kluyveromyces,Kluyveromyces lactis
+63405,Microsporum canis CBS 113480,GCF_000151145.1,47.5,309.0,23241642,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Microsporum,Microsporum canis
+364733,Endocarpon pusillum Z07020,GCF_000464535.1,46.0,1731.0,37130611,Ascomycota,Eurotiomycetes,Verrucariales,Verrucariaceae,Endocarpon,Endocarpon pusillum
+28549,Priceomyces carsonii,GCF_900007245.1,37.0,130.0,11764505,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Priceomyces,Priceomyces carsonii
+5478,Nakaseomyces glabratus,GCF_000002545.3,38.5,16.0,12318245,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Nakaseomyces,Nakaseomyces glabratus
+340170,Spathaspora passalidarum NRRL Y-27907,GCF_000223485.1,37.5,26.0,13182099,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Spathaspora,Spathaspora passalidarum
+563466,Scedosporium apiospermum,GCF_000732125.1,50.5,333.0,43437139,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Scedosporium,Scedosporium apiospermum
+4929,Meyerozyma guilliermondii ATCC 6260,GCF_000149425.1,44.0,71.0,10609954,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Meyerozyma,Meyerozyma guilliermondii
+432096,Kazachstania africana CBS 2517,GCF_000304475.1,36.5,34.0,11130140,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kazachstania,Kazachstania africana
+86049,Cladophialophora carrionii CBS 160.54,GCF_000365165.1,54.5,102.0,28991111,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Cladophialophora,Cladophialophora carrionii
+54195,Ascoidea rubescens DSM 1968,GCF_001661345.1,33.0,326.0,17503998,Ascomycota,Saccharomycetes,Saccharomycetales,Ascoideaceae,Ascoidea,Ascoidea rubescens
+36914,Lodderomyces elongisporus,GCF_030384665.1,37.0,8.0,16086460,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Lodderomyces,Lodderomyces elongisporus
+1093900,Thyridium curvatum,GCF_004353045.1,55.0,359.0,40366568,Ascomycota,Sordariomycetes,,Thyridiaceae,Thyridium,Thyridium curvatum
+487661,Aspergillus aculeatinus CBS 121060,GCF_003184765.1,50.5,325.0,36471649,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus aculeatinus
+37769,Cryptococcus gattii WM276,GCF_000185945.1,48.0,21.0,18374760,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus gattii
+54092,Lipomyces tetrasporus,GCF_029532465.1,48.0,18.0,20779202,Ascomycota,Saccharomycetes,Saccharomycetales,Lipomycetaceae,Lipomyces,Lipomyces tetrasporus
+87229,Botrytis porri,GCF_014898465.1,40.0,31.0,46789968,Ascomycota,Leotiomycetes,Helotiales,Sclerotiniaceae,Botrytis,Botrytis porri
+1160497,Aspergillus glaucus CBS 516.65,GCF_001890805.1,49.5,433.0,27993362,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus glaucus
+564305,Kwoniella shivajii,GCF_035658355.1,43.5,12.0,22171496,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella shivajii
+5286,Rhodotorula toruloides NP11,GCF_000320785.1,62.0,304.0,20223942,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,Rhodotorula toruloides
+74035,Arthroderma uncinatum,GCF_011692745.1,48.5,5.0,23563256,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Arthroderma,Arthroderma uncinatum
+5619,Cryptococcus wingfieldii CBS 7118,GCF_001720155.1,53.5,196.0,19969799,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus wingfieldii
+856822,Fonsecaea nubica,GCF_001646965.1,52.5,259.0,33787447,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Fonsecaea,Fonsecaea nubica
+94610,Neurospora tetraspora,GCF_033439725.1,48.5,23.0,43856413,Ascomycota,Sordariomycetes,Sordariales,Sordariaceae,Neurospora,Neurospora tetraspora
+27291,Saccharomyces paradoxus,GCF_002079055.1,38.5,17.0,12021328,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,Saccharomyces paradoxus
+1093897,Phialemonium atrogriseum,GCF_030411735.1,55.0,237.0,33593884,Ascomycota,Sordariomycetes,Cephalothecales,Cephalothecaceae,Phialemonium,Phialemonium atrogriseum
+870730,Ogataea angusta,GCF_019207475.1,49.5,84.0,8903801,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Ogataea,Ogataea angusta
+327079,Pseudozyma hubeiensis SY62,GCF_000403515.1,56.5,160.0,18442938,Basidiomycota,Ustilaginomycetes,Ustilaginales,Ustilaginaceae,Pseudozyma,Pseudozyma hubeiensis
+460519,Komagataella phaffii GS115,GCF_000027005.1,41.0,15.0,9216378,Ascomycota,Saccharomycetes,Saccharomycetales,Phaffomycetaceae,Komagataella,Komagataella phaffii
+5207,Cryptococcus neoformans var. neoformans JEC21,GCF_000091045.1,48.5,37.0,19051922,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus neoformans
+1859096,Cryptococcus deuterogattii R265,GCF_002954075.1,48.0,17.0,17550122,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Cryptococcus,Cryptococcus deuterogattii
+5068,Aspergillus tubingensis,GCF_013340325.1,49.5,16.0,35047229,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus tubingensis
+463800,Kwoniella mangroviensis CBS 8507,GCF_000507465.1,45.0,105.0,22654511,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,Kwoniella mangrovensis
+38033,Chaetomium globosum CBS 148.51,GCF_000143365.1,56.0,1228.0,34276485,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Chaetomium,Chaetomium globosum
+199306,Coccidioides posadasii C735 delta SOWgp,GCF_000151335.2,46.5,55.0,27013412,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Coccidioides,Coccidioides posadasii
+77020,Malassezia pachydermatis,GCF_001278385.1,55.0,118.0,8150648,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,Malassezia pachydermatis
+5007,Brettanomyces bruxellensis,GCF_011074885.1,40.0,9.0,13150648,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Brettanomyces,Brettanomyces bruxellensis
+332952,Aspergillus flavus NRRL3357,GCF_014117465.1,48.0,16.0,36995582,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus flavus
+45609,Babjeviella inositovora NRRL Y-12698,GCF_001661335.1,48.0,211.0,15221050,Ascomycota,Saccharomycetes,Saccharomycetales,,Babjeviella,Babjeviella inositovora
+4950,Torulaspora delbrueckii,GCF_000243375.1,42.0,34.0,9220678,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Torulaspora,Torulaspora delbrueckii
+278026,Kazachstania heterogenica,GCF_036370985.1,30.5,33.0,14370535,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kazachstania,Kazachstania heterogenica
+1108849,Penicillium rubens,GCF_028828025.1,49.0,4.0,30336503,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,Penicillium rubens
+113608,Tetrapisispora phaffii CBS 4417,GCF_000236905.1,33.5,105.0,12115070,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Tetrapisispora,Tetrapisispora phaffii
+297637,Alternaria triticimaculans,GCF_023758025.1,50.0,238.0,36788567,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria triticimaculans
+42260,Zygotorulaspora mrakii,GCF_013402915.1,40.0,8.0,10412516,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Zygotorulaspora,Zygotorulaspora mrakii
+1071379,Tetrapisispora blattae CBS 6284,GCF_000315915.1,31.5,82.0,14048593,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Tetrapisispora,Tetrapisispora blattae
+181014,Alternaria ethzedia,GCF_023757985.1,50.5,585.0,36016348,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,Alternaria ethzedia
+4911,Kluyveromyces marxianus DMKU3-1042,GCF_001417885.1,40.0,8.0,10920159,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kluyveromyces,Kluyveromyces marxianus
+5482,Candida tropicalis MYA-3404,GCF_000006335.3,33.0,127.0,14579835,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida tropicalis
+1051613,Verticillium alfalfae VaMs.102,GCF_000150825.1,56.0,4147.0,32833495,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,Verticillium alfalfae
+2606893,Saprochaete ingens,GCF_902498895.1,37.0,6.0,21189208,Ascomycota,Saccharomycetes,Saccharomycetales,Dipodascaceae,Saprochaete,Saprochaete ingens
+195108,Fusarium falciforme,GCF_026873545.1,49.5,14.0,53563088,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,Fusarium falciforme
+41067,Aspergillus candidus,GCF_002847045.1,52.0,316.0,27317772,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,Aspergillus candidus
+460523,Ogataea polymorpha,GCF_001664045.1,48.0,7.0,8974371,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Ogataea,Ogataea polymorpha
+1775924,Candida margitis,GCF_024628925.1,38.5,201.0,12909612,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida margitis
+4926,Pichia membranifaciens NRRL Y-2026,GCF_001661235.1,45.0,144.0,11582150,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia membranifaciens
+561895,[Candida] subhashii,GCF_019202705.1,34.5,349.0,15377153,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Spathaspora,[Candida] subhashii
+90255,Cokeromyces recurvatus,GCF_025118155.1,30.5,85.0,28120762,Mucoromycota,Mucoromycetes,Mucorales,Mucoraceae,Cokeromyces,Cokeromyces recurvatus
+1937702,Ogataea haglerorum,GCF_019207285.1,49.5,65.0,8874124,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Ogataea,Ogataea haglerorum
+749465,Boeremia exigua,GCF_020726555.1,53.0,26.0,35322113,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,Boeremia,Boeremia exigua
+101098,Gamsiella multidivaricata,GCF_025024155.1,49.0,217.0,37665308,Mucoromycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Gamsiella,Gamsiella multidivaricata
+43959,Saccharomycopsis crataegensis,GCF_037102585.1,37.5,21.0,17100033,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycopsidaceae,Saccharomycopsis,Saccharomycopsis crataegensis
+273371,Candida orthopsilosis Co 90-125,GCF_000315875.1,37.5,242.0,12659401,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida orthopsilosis
+114525,Saccharomyces mikatae IFO 1815,GCF_947241705.1,38.0,16.0,12104871,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,Saccharomyces mikatae
+45285,Eremothecium cymbalariae DBVPG#7215,GCF_000235365.1,40.5,9.0,9669424,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Eremothecium,Eremothecium cymbalariae
+4927,Wickerhamomyces anomalus NRRL Y-366-8,GCF_001661255.1,34.5,222.0,14145566,Ascomycota,Saccharomycetes,Saccharomycetales,Phaffomycetaceae,Wickerhamomyces,Wickerhamomyces anomalus
+948311,Fusarium proliferatum ET1,GCF_900067095.1,48.5,221.0,45210324,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,Fusarium proliferatum
+796027,Sugiyamaella lignohabitans,GCF_001640025.1,45.0,4.0,15938258,Ascomycota,Saccharomycetes,Saccharomycetales,Trichomonascaceae,Sugiyamaella,Sugiyamaella lignohabitans
+45286,Eremothecium sinecaudum,GCF_001548555.1,40.0,7.0,8922523,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Eremothecium,Eremothecium sinecaudum

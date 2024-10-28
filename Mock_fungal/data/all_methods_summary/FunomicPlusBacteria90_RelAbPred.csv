@@ -1,0 +1,71 @@
+Taxon name,RelAbCoverage,PredictedRelAb,Mock_community,Tool,Level
+Aspergillus niger,4.0205528642065165,1.2498337986969819,small_1b,funomic,Species
+Candida albicans,9.564136789729332,39.48942959712804,small_1b,funomic,Species
+Debaryomyces hansenii,11.240611291057307,1.369498736870097,small_1b,funomic,Species
+Kluyveromyces lactis,12.779434723004893,0.8243584629703498,small_1b,funomic,Species
+Malassezia restricta,18.633624917901205,0.8509506714532642,small_1b,funomic,Species
+Neurospora tetrasperma,3.4895061906824383,0.13296104241457252,small_1b,funomic,Species
+Saccharomyces cerevisiae,11.316186088091412,44.87435181491823,small_1b,funomic,Species
+Saccharomyces kudriavzevii,11.465833447432312,0.8376545672118069,small_1b,funomic,Species
+Yarrowia lipolytica,6.6625127022268655,3.3639143730886847,small_1b,funomic,Species
+Aspergillus,4.0205528642065165,1.9944156362185879,small_1b,funomic,Genus
+Candida,9.564136789729332,40.04786597526925,small_1b,funomic,Genus
+Debaryomyces,11.240611291057307,1.369498736870097,small_1b,funomic,Genus
+Kazachstania,10.827600985667699,0.05318441696582901,small_1b,funomic,Genus
+Kluyveromyces,12.779434723004893,0.8243584629703498,small_1b,funomic,Genus
+Malassezia,18.633624917901205,0.8509506714532642,small_1b,funomic,Genus
+Neurospora,3.4895061906824383,1.2897221114213535,small_1b,funomic,Genus
+Saccharomyces,22.782019535523723,49.80720648849887,small_1b,funomic,Genus
+Yarrowia,6.6625127022268655,3.656428666400745,small_1b,funomic,Genus
+Aspergillaceae,4.0205528642065165,1.9944156362185879,small_1b,funomic,Family
+Debaryomycetaceae,20.804748080786638,41.417364712139346,small_1b,funomic,Family
+Dipodascaceae,6.6625127022268655,3.656428666400745,small_1b,funomic,Family
+Malasseziaceae,18.633624917901205,0.9041350884190933,small_1b,funomic,Family
+Saccharomycetaceae,46.389055244196314,50.73793378540088,small_1b,funomic,Family
+Sordariaceae,3.4895061906824383,1.2897221114213535,small_1b,funomic,Family
+Candida albicans,9.84751947378834,41.819205857504926,small_2b,funomic,Species
+Coccidioides posadasii,5.206629639107216,0.25344973246972685,small_2b,funomic,Species
+Debaryomyces hansenii,11.573667443238707,1.450295691354548,small_2b,funomic,Species
+Kluyveromyces lactis,13.158085780824456,0.8729935229512813,small_2b,funomic,Species
+Malassezia restricta,19.185733985251034,0.9011546043368065,small_2b,funomic,Species
+Paracoccidioides brasiliensis,4.695723019570782,0.5068994649394537,small_2b,funomic,Species
+Saccharomyces cerevisiae,11.651481500260573,47.52182483807378,small_2b,funomic,Species
+Schizophyllum commune,3.6371205871195182,0.5068994649394537,small_2b,funomic,Species
+Tetrapisispora blattae,10.01159557918821,0.47873838355392845,small_2b,funomic,Species
+Candida,20.87996246543951,42.354266403829904,small_2b,funomic,Genus
+Coccidioides,5.206629639107216,0.9856378484933821,small_2b,funomic,Genus
+Debaryomyces,11.573667443238707,1.450295691354548,small_2b,funomic,Genus
+Kluyveromyces,13.158085780824456,0.8729935229512813,small_2b,funomic,Genus
+Malassezia,19.185733985251034,0.9011546043368065,small_2b,funomic,Genus
+Paracoccidioides,4.695723019570782,0.5913827090960293,small_2b,funomic,Genus
+Saccharomyces,11.651481500260573,51.68966488313151,small_2b,funomic,Genus
+Schizophyllum,3.6371205871195182,0.5068994649394537,small_2b,funomic,Genus
+Tetrapisispora,10.01159557918821,0.47873838355392845,small_2b,funomic,Genus
+Debaryomycetaceae,32.45362990867822,43.80456209518446,small_2b,funomic,Family
+Malasseziaceae,19.185733985251034,0.9574767671078569,small_2b,funomic,Family
+Saccharomycetaceae,34.82116286027324,53.09771895240777,small_2b,funomic,Family
+Schizophyllaceae,3.6371205871195182,0.5068994649394537,small_2b,funomic,Family
+Aspergillus candidus,5.358173869235143,0.4445061814140853,small_3b,funomic,Species
+Candida albicans,10.248322833854944,41.25572996249479,small_3b,funomic,Species
+Debaryomyces hansenii,12.044726658901169,1.430754271426587,small_3b,funomic,Species
+Fusarium falciforme,2.7327284061016712,0.055563272676760665,small_3b,funomic,Species
+Kluyveromyces lactis,13.693632321964753,0.8612307264897902,small_3b,funomic,Species
+Kluyveromyces marxianus,13.403959786311173,2.166967634393666,small_3b,funomic,Species
+Malassezia restricta,19.966611511525624,0.8890123628281706,small_3b,funomic,Species
+Saccharomyces cerevisiae,12.125707821669593,46.8815113210168,small_3b,funomic,Species
+Alternaria,4.0640814581235,0.11112654535352133,small_3b,funomic,Genus
+Aspergillus,5.358173869235143,0.8473399083206,small_3b,funomic,Genus
+Candida,10.248322833854944,41.78358105292402,small_3b,funomic,Genus
+Debaryomyces,12.044726658901169,1.430754271426587,small_3b,funomic,Genus
+Fusarium,2.7327284061016712,0.5278510904292263,small_3b,funomic,Genus
+Kluyveromyces,27.097592108275926,3.028198360883456,small_3b,funomic,Genus
+Kwoniella,6.362055332312414,0.13890818169190164,small_3b,funomic,Genus
+Malassezia,19.966611511525624,0.8890123628281706,small_3b,funomic,Genus
+Saccharomyces,12.125707821669593,50.9931934990971,small_3b,funomic,Genus
+Aspergillaceae,5.358173869235143,0.8473399083206,small_3b,funomic,Family
+Cryptococcaceae,6.362055332312414,0.13890818169190164,small_3b,funomic,Family
+Debaryomycetaceae,22.29304949275611,43.21433532435061,small_3b,funomic,Family
+Malasseziaceae,19.966611511525624,0.9445756355049313,small_3b,funomic,Family
+Nectriaceae,2.7327284061016712,0.5834143631059869,small_3b,funomic,Family
+Pleosporaceae,4.0640814581235,0.11112654535352133,small_3b,funomic,Family
+Saccharomycetaceae,39.22329992994552,54.07695513265731,small_3b,funomic,Family

@@ -1,0 +1,24 @@
+""
+"Aspergillus_luchuensis"	0.0519
+"Aspergillus_oryzae"	1e-04
+"Candida_albicans"	0.1134
+"Candida_dubliniensis"	5e-04
+"Debaryomyces_hansenii"	0.1281
+"Henningerozyma_blattae"	1e-04
+"Kazachstania_africana"	2e-04
+"Kluyveromyces_lactis"	0.1273
+"Kluyveromyces_marxianus"	1e-04
+"Malassezia_restricta"	0.13
+"Nakaseomyces_glabratus"	1e-04
+"Naumovozyma_castellii"	2e-04
+"Naumovozyma_dairenensis"	2e-04
+"Neurospora_crassa"	0.0875
+"Penicillium_digitatum"	1e-04
+"Saccharomyces_cerevisiae"	0.1087
+"Saccharomyces_eubayanus"	1e-04
+"Saccharomyces_kudriavzevii"	0.126
+"Saccharomyces_mikatae"	2e-04
+"Saccharomyces_paradoxus"	7e-04
+"Sordaria_macrospora"	4e-04
+"Tetrapisispora_phaffii"	1e-04
+"Yarrowia_lipolytica"	0.1236

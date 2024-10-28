@@ -1,0 +1,115 @@
+Lineage	Rank	Name	TaxID	RPKS	Euk_fraction	Reads	Amt_marker_sequence
+phylum-Ascomycota	phylum	Ascomycota	4890	8.1731	50.6449	88718	10854820
+phylum-Ascomycota|class-Eurotiomycetes	class	Eurotiomycetes	147545	3.064	5.2808	5837	1905030
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales	order	Eurotiales	5042	3.2434	4.7789	4825	1487642
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae	family	Aspergillaceae	1131492	3.2434	2.2769	4825	1487642
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus	genus	Aspergillus	5052	3.2434	1.2183	4825	1487642
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_aculeatinus	species	Aspergillus aculeatinus	487661	2.0236	0.6477	513	253509
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_lentulus	species	Aspergillus lentulus	293939	2.8827	0.9226	1053	365277
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_candidus	species	Aspergillus candidus	41067	4.6048	1.4738	1648	357885
+phylum-Ascomycota|class-Eurotiomycetes|order-Eurotiales|family-Aspergillaceae|genus-Aspergillus|species-Aspergillus_fischeri	species	Aspergillus fischeri	36630	3.93	1.2578	1377	350385
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales	order	Onygenales	33183	2.4246	3.5725	1012	417388
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|family-Arthrodermataceae	family	Arthrodermataceae	34384	2.4246	1.7021	1012	417388
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|family-Arthrodermataceae|genus-Trichophyton	genus	Trichophyton	5550	2.4246	0.9108	1012	417388
+phylum-Ascomycota|class-Eurotiomycetes|order-Onygenales|family-Arthrodermataceae|genus-Trichophyton|species-Trichophyton_violaceum	species	Trichophyton violaceum	34388	0.5719	0.183	52	90930
+phylum-Ascomycota|class-Sordariomycetes	class	Sordariomycetes	147550	1.9607	3.3792	2553	1302098
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales	order	Sordariales	5139	2.8858	4.252	1813	628255
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae	family	Sordariaceae	5148	2.8858	2.0258	1813	628255
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora	genus	Neurospora	5140	2.8858	1.084	1813	628255
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora|species-Neurospora_crassa	species	Neurospora crassa	5141	2.7278	0.873	812	297678
+phylum-Ascomycota|class-Sordariomycetes|order-Sordariales|family-Sordariaceae|genus-Neurospora|species-Neurospora_tetrasperma	species	Neurospora tetrasperma	40127	3.0079	0.9627	922	306522
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales	order	Hypocreales	5125	1.0982	1.6181	740	673843
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae	family	Nectriaceae	110618	0.0521	0.0366	18	345507
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium	genus	Fusarium	5506	0.0521	0.0196	18	345507
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Nectriaceae|genus-Fusarium|species-Fusarium_solani	species	Fusarium solani	169388	0.0295	0.0095	10	338685
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Cordycipitaceae	family	Cordycipitaceae	474943	2.199	1.5437	722	328336
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Cordycipitaceae|genus-Beauveria	genus	Beauveria	5581	2.199	0.826	722	328336
+phylum-Ascomycota|class-Sordariomycetes|order-Hypocreales|family-Cordycipitaceae|genus-Beauveria|species-Beauveria_bassiana	species	Beauveria bassiana	176275	2.2745	0.728	498	218950
+phylum-Ascomycota|class-Dothideomycetes	class	Dothideomycetes	147541	2.5305	4.3613	2811	1110853
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales	order	Pleosporales	92860	2.5305	3.7285	2811	1110853
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae	family	Pleosporaceae	28556	2.0172	1.4161	1517	752020
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Alternaria	genus	Alternaria	5598	0.2683	0.1008	104	387659
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Alternaria|species-Alternaria_arborescens	species	Alternaria arborescens	156630	0.1022	0.0327	31	303330
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Bipolaris	genus	Bipolaris	33194	3.878	1.4567	1413	364361
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Pleosporaceae|genus-Bipolaris|species-Bipolaris_sorokiniana	species	Bipolaris sorokiniana	45130	4.0861	1.3078	1409	344828
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Didymellaceae	family	Didymellaceae	683158	3.6061	2.5315	1294	358833
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Didymellaceae|genus-Ascochyta	genus	Ascochyta	5453	3.6061	1.3546	1294	358833
+phylum-Ascomycota|class-Dothideomycetes|order-Pleosporales|family-Didymellaceae|genus-Ascochyta|species-Ascochyta_rabiei	species	Ascochyta rabiei	5454	3.6061	1.1542	1294	358833
+phylum-Ascomycota|class-Xylonomycetes	class	Xylonomycetes	1217819	5.979	10.3048	2045	342029
+phylum-Ascomycota|class-Xylonomycetes|order-Xylonales	order	Xylonales	1217820	5.979	8.8097	2045	342029
+phylum-Ascomycota|class-Xylonomycetes|order-Xylonales|family-Xylonaceae	family	Xylonaceae	1217822	5.979	4.1973	2045	342029
+phylum-Ascomycota|class-Xylonomycetes|order-Xylonales|family-Xylonaceae|genus-Xylona	genus	Xylona	1217823	5.979	2.2459	2045	342029
+phylum-Ascomycota|class-Xylonomycetes|order-Xylonales|family-Xylonaceae|genus-Xylona|species-Xylona_heveae	species	Xylona heveae	1217826	5.979	1.9136	2045	342029
+phylum-Ascomycota|class-Saccharomycetes	class	Saccharomycetes	4891	12.1831	20.9976	75472	6194810
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales	order	Saccharomycetales	4892	12.1831	17.951	75472	6194810
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae	family	Debaryomycetaceae	766764	11.9156	8.3647	24948	2093725
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Meyerozyma	genus	Meyerozyma	766728	10.295	3.8671	4268	414569
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Meyerozyma|species-Meyerozyma_caribbica	species	Meyerozyma caribbica	66948	6.4907	2.0774	770	118631
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Scheffersomyces	genus	Scheffersomyces	766733	9.0702	3.4071	3075	339023
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Scheffersomyces|species-Scheffersomyces_shehatae	species	Scheffersomyces shehatae	45589	9.1934	2.9424	3074	334369
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Suhomyces	genus	Suhomyces	1539666	12.548	4.7134	4445	354240
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Suhomyces|species-Suhomyces_tanzawaensis	species	Suhomyces tanzawaensis	46583	12.548	4.0161	4445	354240
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces	genus	Debaryomyces	4958	12.7431	4.7867	4222	331317
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Debaryomyces|species-Debaryomyces_hansenii	species	Debaryomyces hansenii	4959	12.991	4.1579	4217	324609
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Yamadazyma	genus	Yamadazyma	766765	15.5254	5.8318	5929	381891
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Yamadazyma|species-Yamadazyma_tenuis	species	Yamadazyma tenuis	2315449	15.5254	4.969	5929	381891
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida	genus	Candida	1535326	11.0347	4.145	3009	272685
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Debaryomycetaceae|genus-Candida|species-Candida_albicans	species	Candida albicans	5476	11.2477	3.5999	3002	266898
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae	family	Pichiaceae	1156497	14.872	10.4401	15311	1029517
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Brettanomyces	genus	Brettanomyces	13366	11.6186	4.3643	3720	320177
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Brettanomyces|species-Brettanomyces_bruxellensis	species	Brettanomyces bruxellensis	5007	11.6186	3.7186	3720	320177
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Ogataea	genus	Ogataea	461281	16.3405	6.138	11591	709340
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Ogataea|species-Ogataea_philodendri	species	Ogataea philodendri	1378263	18.8457	6.0317	6034	320179
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Pichiaceae|genus-Ogataea|species-Ogataea_polymorpha	species	Ogataea polymorpha	460523	16.8417	5.3903	5460	324195
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae	family	Saccharomycetaceae	4893	11.8262	8.302	20926	1769454
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Naumovozyma	genus	Naumovozyma	278028	15.1881	5.7051	4809	316630
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Naumovozyma|species-Naumovozyma_castellii	species	Naumovozyma castellii	27288	15.1881	4.8611	4809	316630
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Tetrapisispora	genus	Tetrapisispora	113604	12.7304	4.782	7358	577986
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Tetrapisispora|species-Tetrapisispora_blattae	species	Tetrapisispora blattae	1071379	11.7874	3.7727	3355	284626
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Tetrapisispora|species-Tetrapisispora_phaffii	species	Tetrapisispora phaffii	113608	13.6454	4.3673	4003	293360
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces	genus	Kluyveromyces	4910	15.268	5.7351	4418	289364
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Kluyveromyces|species-Kluyveromyces_lactis	species	Kluyveromyces lactis	28985	15.268	4.8866	4418	289364
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces	genus	Saccharomyces	4930	14.0497	5.2775	4321	307552
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Saccharomyces|species-Saccharomyces_cerevisiae	species	Saccharomyces cerevisiae	4932	14.0497	4.4967	4321	307552
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Nakaseomyces	genus	Nakaseomyces	374468	0.072	0.027	20	277922
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Saccharomycetaceae|genus-Nakaseomyces|species-[Candida]_glabrata	species	[Candida] glabrata	5478	0.072	0.023	20	277922
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Phaffomycetaceae	family	Phaffomycetaceae	115784	13.1445	9.2274	4382	333371
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Phaffomycetaceae|genus-Cyberlindnera	genus	Cyberlindnera	604195	13.1445	4.9375	4382	333371
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Phaffomycetaceae|genus-Cyberlindnera|species-Cyberlindnera_jadinii	species	Cyberlindnera jadinii	4903	13.1445	4.207	4382	333371
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Ascoideaceae	family	Ascoideaceae	44277	8.7555	6.1463	2634	300841
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Ascoideaceae|genus-Ascoidea	genus	Ascoidea	27308	8.7555	3.2888	2634	300841
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Ascoideaceae|genus-Ascoidea|species-Ascoidea_rubescens	species	Ascoidea rubescens	54195	8.7555	2.8023	2634	300841
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae	family	Dipodascaceae	34353	8.4361	5.9221	2945	349094
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae|genus-Saprochaete	genus	Saprochaete	1232588	8.4361	3.1689	2945	349094
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Dipodascaceae|genus-Saprochaete|species-Saprochaete_ingens	species	Saprochaete ingens	2606893	8.4361	2.7001	2945	349094
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Metschnikowiaceae	family	Metschnikowiaceae	27319	13.5693	9.5256	4326	318808
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Metschnikowiaceae|genus-Clavispora	genus	Clavispora	36910	13.5693	5.0971	4326	318808
+phylum-Ascomycota|class-Saccharomycetes|order-Saccharomycetales|family-Metschnikowiaceae|genus-Clavispora|species-Clavispora_lusitaniae	species	Clavispora lusitaniae	36911	13.5693	4.343	4326	318808
+phylum-Basidiomycota	phylum	Basidiomycota	5204	7.965	49.3551	22047	2767986
+phylum-Basidiomycota|class-Tremellomycetes	class	Tremellomycetes	155616	3.7211	6.4133	5242	1408720
+phylum-Basidiomycota|class-Tremellomycetes|order-Trichosporonales	order	Trichosporonales	1851469	5.6837	8.3746	1531	269365
+phylum-Basidiomycota|class-Tremellomycetes|order-Trichosporonales|family-Trichosporonaceae	family	Trichosporonaceae	1759442	5.6837	3.99	1531	269365
+phylum-Basidiomycota|class-Tremellomycetes|order-Trichosporonales|family-Trichosporonaceae|genus-Trichosporon	genus	Trichosporon	5552	5.6837	2.135	1531	269365
+phylum-Basidiomycota|class-Tremellomycetes|order-Trichosporonales|family-Trichosporonaceae|genus-Trichosporon|species-Trichosporon_asahii	species	Trichosporon asahii	82508	5.7494	1.8402	1528	265765
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales	order	Tremellales	5234	3.2571	4.7991	3711	1139355
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae	family	Cryptococcaceae	1884633	3.2571	2.2865	3711	1139355
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Cryptococcus	genus	Cryptococcus	5206	2.9889	1.1227	2534	847796
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Cryptococcus|species-Cryptococcus_gattii_VGI	species	Cryptococcus gattii VGI	37769	3.6445	1.1665	993	272464
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Cryptococcus|species-Cryptococcus_amylolentus	species	Cryptococcus amylolentus	104669	4.0867	1.308	1233	301711
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella	genus	Kwoniella	490731	4.0369	1.5164	1177	291559
+phylum-Basidiomycota|class-Tremellomycetes|order-Tremellales|family-Cryptococcaceae|genus-Kwoniella|species-Kwoniella_pini	species	Kwoniella pini	453459	4.0369	1.2921	1177	291559
+phylum-Basidiomycota|class-Agaricomycetes	class	Agaricomycetes	155619	2.5161	4.3365	833	331069
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales	order	Agaricales	5338	2.5161	3.7073	833	331069
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales|family-Schizophyllaceae	family	Schizophyllaceae	5332	2.5161	1.7663	833	331069
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales|family-Schizophyllaceae|genus-Schizophyllum	genus	Schizophyllum	5333	2.5161	0.9451	833	331069
+phylum-Basidiomycota|class-Agaricomycetes|order-Agaricales|family-Schizophyllaceae|genus-Schizophyllum|species-Schizophyllum_commune	species	Schizophyllum commune	5334	2.5161	0.8053	833	331069
+phylum-Basidiomycota|class-Microbotryomycetes	class	Microbotryomycetes	162481	4.9168	8.474	1749	355722
+phylum-Basidiomycota|class-Microbotryomycetes|order-Sporidiobolales	order	Sporidiobolales	231213	4.9168	7.2445	1749	355722
+phylum-Basidiomycota|class-Microbotryomycetes|order-Sporidiobolales|family-Sporidiobolaceae	family	Sporidiobolaceae	1799696	4.9168	3.4516	1749	355722
+phylum-Basidiomycota|class-Microbotryomycetes|order-Sporidiobolales|family-Sporidiobolaceae|genus-Rhodotorula	genus	Rhodotorula	5533	4.9168	1.8469	1749	355722
+phylum-Basidiomycota|class-Microbotryomycetes|order-Sporidiobolales|family-Sporidiobolaceae|genus-Rhodotorula|species-Rhodotorula_toruloides	species	Rhodotorula toruloides	5286	4.9168	1.5737	1749	355722
+phylum-Basidiomycota|class-Malasseziomycetes	class	Malasseziomycetes	1538075	21.1502	36.4524	14223	672475
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales	order	Malasseziales	162474	21.1502	31.1636	14223	672475
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae	family	Malasseziaceae	742845	21.1502	14.8474	14223	672475
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia	genus	Malassezia	55193	21.1502	7.9447	14223	672475
+phylum-Basidiomycota|class-Malasseziomycetes|order-Malasseziales|family-Malasseziaceae|genus-Malassezia|species-Malassezia_restricta	species	Malassezia restricta	76775	22.4479	7.1847	7819	348317

@@ -1,0 +1,37 @@
+@@TAXID	RANK	TAXPATH	TAXPATHSN	PERCENTAGE
+	superkingdom		Eukaryota	100.0
+	phylum	|	Eukaryota|Ascomycota	74.37563677612798
+	phylum	|	Eukaryota|Basidiomycota	25.62436322387202
+	class	||	Eukaryota|Ascomycota|Saccharomycetes	42.637688126865484
+	class	||	Eukaryota|Ascomycota|Pichiomycetes	26.15632583751394
+	class	||	Eukaryota|Basidiomycota|Malasseziomycetes	25.62436322387202
+	class	||	Eukaryota|Ascomycota|Eurotiomycetes	5.581622811748546
+	order	|||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales	42.637688126865484
+	order	|||	Eukaryota|Ascomycota|Pichiomycetes|Serinales	26.15632583751394
+	order	|||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales	25.62436322387202
+	order	|||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales	5.581622811748546
+	family	||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae	42.637688126865484
+	family	||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae	26.15632583751394
+	family	||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae	25.62436322387202
+	family	||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae	5.581622811748546
+	genus	|||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia	25.62436322387202
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces	16.888610339280977
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Debaryomyces	15.160715081295061
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces	14.470859455444371
+	genus	|||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Henningerozyma	11.278218332140138
+	genus	|||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida	10.99561075621888
+	genus	|||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae|Coccidioides	5.581622811748546
+	species	||||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia restricta	25.62436322387202
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis	16.888610339280977
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii	15.160715081295061
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae	14.470859455444371
+	species	||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Henningerozyma|Henningerozyma blattae	11.278218332140138
+	species	||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida albicans	10.99561075621888
+	species	||||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae|Coccidioides|Coccidioides posadasii	5.581622811748546
+	strain	|||||||	Eukaryota|Basidiomycota|Malasseziomycetes|Malasseziales|Malasseziaceae|Malassezia|Malassezia restricta|Malassezia restricta	25.62436322387202
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Kluyveromyces|Kluyveromyces lactis|Kluyveromyces lactis	16.888610339280977
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Debaryomyces|Debaryomyces hansenii|Debaryomyces hansenii CBS767	15.160715081295061
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Saccharomyces|Saccharomyces cerevisiae|Saccharomyces cerevisiae S288C	14.470859455444371
+	strain	|||||||	Eukaryota|Ascomycota|Saccharomycetes|Saccharomycetales|Saccharomycetaceae|Henningerozyma|Henningerozyma blattae|Henningerozyma blattae CBS 6284	11.278218332140138
+	strain	|||||||	Eukaryota|Ascomycota|Pichiomycetes|Serinales|Debaryomycetaceae|Candida|Candida albicans|Candida albicans SC5314	10.99561075621888
+	strain	|||||||	Eukaryota|Ascomycota|Eurotiomycetes|Onygenales|Onygenaceae|Coccidioides|Coccidioides posadasii|Coccidioides posadasii str. Silveira	5.581622811748546

@@ -1,0 +1,16 @@
+""
+"Candida_albicans"	0.1343
+"Candida_dubliniensis"	7e-04
+"Candida_orthopsilosis"	3e-04
+"Coccidioides_posadasii"	0.1454
+"Debaryomyces_hansenii"	0.1517
+"Henningerozyma_blattae"	0.1328
+"Kluyveromyces_lactis"	0.1508
+"Kluyveromyces_marxianus"	1e-04
+"Lodderomyces_beijingensis"	1e-04
+"Lodderomyces_elongisporus"	2e-04
+"Malassezia_restricta"	0.154
+"Saccharomyces_cerevisiae"	0.1286
+"Saccharomyces_kudriavzevii"	1e-04
+"Saccharomyces_mikatae"	1e-04
+"Saccharomyces_paradoxus"	8e-04

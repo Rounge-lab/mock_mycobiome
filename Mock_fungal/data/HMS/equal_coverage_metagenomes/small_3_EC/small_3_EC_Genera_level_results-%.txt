@@ -1,0 +1,18 @@
+V1
+Aspergillus	0.0086
+Candida	0.1583
+Corynespora	2e-04
+Cryptococcus	5e-04
+Curvularia	0.003
+Debaryomyces	0.0319
+Didymella	8e-04
+Fusarium	0.56
+Kluyveromyces	0.1362
+Malassezia	0.0961
+Nakaseomyces	7e-04
+Naumovozyma	0.0013
+Penicillium	4e-04
+Pneumocystis	1e-04
+Pyrenochaeta	8e-04
+Stachybotrys	1e-04
+Unclassified	7e-04

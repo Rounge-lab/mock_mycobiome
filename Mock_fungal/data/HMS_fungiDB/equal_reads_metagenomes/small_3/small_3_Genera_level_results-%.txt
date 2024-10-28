@@ -1,0 +1,12 @@
+V1
+Ascochyta	3e-04
+Aspergillus	7e-04
+Candida	0.1155
+Debaryomyces	0.1299
+Fusarium	0.1249
+Kluyveromyces	0.2527
+Kwoniella	0.1316
+Malassezia	0.1319
+Penicillium	1e-04
+Pyrenophora	0.0015
+Saccharomyces	0.111

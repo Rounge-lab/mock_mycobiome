@@ -1,0 +1,20 @@
+""
+"Aspergillus_flavus"	2e-04
+"Aspergillus_latus"	0.0153
+"Aspergillus_welwitschiae"	0.2907
+"Candida_albicans"	0.2561
+"Candida_tropicalis"	1e-04
+"Clavispora_lusitaniae"	1e-04
+"Debaryomyces_fabryi"	0.0655
+"Kluyveromyces_marxianus"	0.0053
+"Malassezia_globosa"	0.0014
+"Malassezia_japonica"	1e-04
+"Malassezia_restricta"	0.3164
+"Malassezia_sympodialis"	0.0043
+"Nakaseomyces_glabratus"	0.0018
+"Nakaseomyces_nivariensis"	0.0018
+"Naumovozyma_dairenensis"	0.0011
+"Pichia_kudriavzevii"	1e-04
+"Pneumocystis_jirovecii"	3e-04
+"Yarrowia_galli"	0.0387
+"Yarrowia_lipolytica"	4e-04

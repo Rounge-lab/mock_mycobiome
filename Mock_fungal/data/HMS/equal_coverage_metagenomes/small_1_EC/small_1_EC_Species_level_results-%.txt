@@ -1,0 +1,16 @@
+""
+"Aspergillus_felis"	1e-04
+"Aspergillus_flavus"	6e-04
+"Aspergillus_fumigatus"	1e-04
+"Aspergillus_latus"	1e-04
+"Aspergillus_udagawae"	1e-04
+"Aspergillus_welwitschiae"	0.6721
+"Candida_albicans"	0.2642
+"Kluyveromyces_marxianus"	0.004
+"Nakaseomyces_glabratus"	4e-04
+"Nakaseomyces_nivariensis"	0.0012
+"Naumovozyma_dairenensis"	0.0019
+"Penicillium_capsulatum"	1e-04
+"Pneumocystis_jirovecii"	2e-04
+"Yarrowia_galli"	0.0543
+"Yarrowia_lipolytica"	6e-04
