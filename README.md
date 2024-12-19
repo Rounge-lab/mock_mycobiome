@@ -76,6 +76,5 @@ All python scripts were executed using Spyder IDE v5.5.4 (Python v3.12). Scripts
 
 9. `taxa_detection.py` - Find which species/genera/families were differentially detected between equal reads and equal coverage mock communities by tested tools; which genera are not detected in case there are more than 1 species per genus (*Figure 3b*); presense of unidentified genera in the databases
 
-
-
+10. `FunOMIC.sh`,`buglist.py`,`coverageFilter.py` and `functional_profiling.py` are all scripts belonging to FunOMIC tool
 
