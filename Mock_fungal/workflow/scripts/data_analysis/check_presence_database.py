@@ -103,3 +103,82 @@ dbsum_norm = dbsum.div(dbsum.sum(axis=1), axis=0) * 100
 ax = dbsum_norm.plot(kind='barh', stacked=True, figsize=(7, 4), color=['#6b519d','#ff66c4','#7ed957'])
 ax.legend().remove()
 
+
+####----------------------------------------------------------------------
+##Perform nomenclature normalization and compare the lists
+import os
+from itertools import combinations
+
+os.mkdir('/'.join([profdir,'nomenclature_normalized']))
+taxonomy[['species']].to_csv('/'.join([profdir,'nomenclature_normalized','mock_fungi_original']),sep='\t',index=False,header=False)
+pd.DataFrame(hmsspecies,columns=['species']).to_csv('/'.join([profdir,'nomenclature_normalized','HMSdb_original']),sep='\t',index=False,header=False)
+pd.DataFrame(funspecies,columns=['species']).to_csv('/'.join([profdir,'nomenclature_normalized','FunOMICdb_original']),sep='\t',index=False,header=False)
+pd.DataFrame(eukspecies,columns=['species']).to_csv('/'.join([profdir,'nomenclature_normalized','EukDetectdb_original']),sep='\t',index=False,header=False)
+pd.DataFrame(krspecies,columns=['species']).to_csv('/'.join([profdir,'nomenclature_normalized','Krakendb_original']),sep='\t',index=False,header=False)
+pd.DataFrame(metaspecies,columns=['species']).to_csv('/'.join([profdir,'nomenclature_normalized','MetaPhlAndb_original']),sep='\t',index=False,header=False)
+pd.DataFrame(micspecies,columns=['species']).to_csv('/'.join([profdir,'nomenclature_normalized','MiCoPdb_original']),sep='\t',index=False,header=False)
+
+def correct_list(norm):
+    names=norm.columns.tolist()
+    names=[n.replace('\t','') for n in names]
+    norm.columns=names
+    norm=norm.rename(columns={'preferred name':'preferred_name', 'name':'TaxID'})
+    norm=norm.applymap(lambda x: x.replace('\t', '') if isinstance(x, str) else x)
+    norm['combined_list']=norm.apply(lambda row: row.preferred_name if len(row.preferred_name)>1 else str(row.TaxID), axis=1)
+    final=norm['combined_list'].tolist()
+    return final, norm
+
+norm_taxonomy=pd.read_csv('/'.join([profdir,'nomenclature_normalized','mock_fungi_normalized.txt']),sep='|')
+norm_mock,mock_df=correct_list(norm_taxonomy)
+mock_df.to_csv('/'.join([profdir,'nomenclature_normalized','mock_fungi_normalized.csv']),sep='\t',index=False)
+
+#Save updated species names list
+tax=pd.read_csv('/projects/ec34/katya/projects/Find_fungi_genomes/final_genomes_summary.csv')
+tax=tax.merge(mock_df[['TaxID','combined_list']],left_on='Species name',right_on='TaxID')
+tax=tax.drop(columns=['Species name','TaxID'])
+tax=tax.rename(columns={'combined_list':'Species name'})
+tax.to_csv('/projects/ec34/katya/projects/Find_fungi_genomes/final_genomes_summary.csv',sep='\t',index=False)
+
+dbs=['Kraken','MetaPhlAn','HMS','FunOMIC','MiCoP','EukDetect']
+
+norm_dbs=dict()
+norm_frames=dict()
+for d in dbs:
+    dbn=pd.read_csv('/'.join([profdir,'nomenclature_normalized',f'{d}db_normalized.txt']),sep='|')
+    n,nf=correct_list(dbn)
+    norm_dbs[d]=n
+    norm_frames[d]=nf
+    nf.to_csv('/'.join([profdir,'nomenclature_normalized',f'{d}db_normalized.csv']),sep='\t',index=False)
+
+#Find number of species which identifier was not recognized by NCBI
+norm_summary=pd.DataFrame()
+for d in dbs:
+    nf=norm_frames[d]
+    count=pd.DataFrame(nf['code'].value_counts()).T
+    if d=='FunOMIC':
+        count=count.reset_index().rename(columns={'index':'Database','1':'Primary names','1+':'PrimaryDuplicated','2':'Secondary names','2+':'SecondaryDuplicated','3':'Name not found'})
+    else:
+        count=count.reset_index().rename(columns={'index':'Database',1:'Primary names',2:'Secondary names',3:'Name not found'})
+    count.at[0,'Database']=d
+    count.at[0,'Total']=len(nf)
+    norm_summary=pd.concat([norm_summary,count])
+norm_summary.to_csv('/'.join([profdir,'nomenclature_normalized','Databases_summary.csv']),sep='\t',index=False)
+    
+#Find intersect between mock and databases
+for d in dbs:
+    common=list(set(norm_mock)&set(norm_dbs[d]))
+    print(f'Number of species in common between mock community and {d}: {len(common)}')
+    
+#Find intersect between databases
+comb=list(combinations(dbs,2))
+
+inter_len=[]
+inter_df=pd.DataFrame()
+for c in comb:
+    inter_=list(set(norm_dbs[c[0]])&set(norm_dbs[c[1]]))
+    inter_len.append(len(inter_))
+    print(f'In common between {c[0]} and {c[1]}: {len(inter_)}')
+    idf=pd.DataFrame({"Database1":[c[0]],'Database2':[c[1]],'Intersect':[len(inter_)]})
+    inter_df=pd.concat([inter_df,idf])
+                    
+inter_df.to_csv('/'.join([profdir,'nomenclature_normalized','databases_intersect_pairwise_norm.csv']),sep='\t',index=False)
