@@ -3,21 +3,22 @@ configfile: "config/config.yaml"
 import os
 genomelist=os.listdir(config['genomes'])
 #profiles=['small_1_EC','small_2_EC','small_3_EC','median_1_EC','median_2_EC','median_3_EC','large_1_EC','large_2_EC','complete_1_EC']
-#profiles=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']
+profiles=['small_1','small_2','small_3','median_1','median_2','median_3','large_1','large_2','complete_1']
 #profiles=['small_1']
 
-profiles=['small_1b','small_2b','small_3b']
+#profiles=['small_1b','small_2b','small_3b']
 
-mode='plusbacteria_metagenomes99'
+mode='equal_reads_metagenomes'
 
 rule all:
     input:
         #expand("log/simdata/{genome}.txt", genome=genomelist),
         #expand('log/simmetagenome/{profile}.flag',profile=profiles),
-        #expand(f"data/kraken_fungiDB/{mode}/{{profile}}_report.txt",profile=profiles),
+        expand(f"data/kraken/{mode}/{{profile}}_report.txt",profile=profiles),
+        expand(f"data/kraken/{mode}/{{profile}}_bracken_report.txt"),
         #expand(f"data/metaphlan/{mode}/{{profile}}_metarep.txt",profile=profiles)
-        expand(f"data/funomic/{mode}/{{profile}}/finished.txt",profile=profiles),
-        expand(f"data/micop/{mode}/{{profile}}.flag", profile=profiles)
+        #expand(f"data/funomic/{mode}/{{profile}}/finished.txt",profile=profiles),
+        #expand(f"data/micop/{mode}/{{profile}}.flag", profile=profiles)
 
 #commode='equal_reads_metagenomes'
         
@@ -94,7 +95,30 @@ rule classify_kraken:
          --use-mpa-style --output {output.out} --report {output.rep} \
          --db {params.db}
         """
+#the rule was added in the end and kraken reports (not in mpa style recreated)
+rule bracken_relab:
+    input:
+        infile=f"data/kraken/{mode}/{{profile}}_report.txt"
+    output:
+        krrep=f"data/kraken/{mode}/{{profile}}_notmpa_rep.txt",
+        outfile=f"data/kraken/{mode}/{{profile}}_bracken.txt",
+        repfile=f"data/kraken/{mode}/{{profile}}_bracken_report.txt"
+    params:
+        inF=f"data/{mode}/{{profile}}_1.fq",
+        inR=f"data/{mode}/{{profile}}_2.fq",
+        db=config['kraken'],
+        krout=f"data/kraken/{mode}/{{profile}}_notmpa.txt",
 
+    shell:
+        """
+        kraken2 {params.inF} {params.inR} --paired --use-names \
+         --output {params.krout} --report {output.krrep} \
+         --db {params.db}
+
+        bracken -d {params.db} -i {output.krrep} -o {output.outfile} -w {output.repfile}
+
+        rm {params.krout}
+        """
 rule classify_metaphlan:
     input:
         outfile='log/simmetagenome/{profile}.flag'

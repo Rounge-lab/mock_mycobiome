@@ -1,4 +1,4 @@
-name: mock_snakemake
+name: snakemake
 channels:
   - conda-forge
   - bioconda
@@ -8,7 +8,7 @@ dependencies:
   - amply=0.1.6=pyhd8ed1ab_0
   - appdirs=1.4.4=pyh9f0ad1d_0
   - argparse-dataclass=2.0.0=pyhd8ed1ab_0
-  - art=2016.06.05=h589041f_9
+  - art=2016.06.05=heacdb12_12
   - attmap=0.13.2=pyhd8ed1ab_0
   - attrs=23.2.0=pyh71513ae_0
   - bcbio-gff=0.7.1=pyh7cba7a3_1
@@ -16,17 +16,18 @@ dependencies:
   - biopython=1.83=py312h98912ed_0
   - blast=2.15.0=pl5321h6f7f691_1
   - bowtie2=2.5.4=he20e202_1
+  - bracken=3.0=h9948957_2
   - brotli=1.1.0=hd590300_1
   - brotli-bin=1.1.0=hd590300_1
   - brotli-python=1.1.0=py312h30efb56_1
   - bx-python=0.11.0=py312hf0ab922_2
   - bzip2=1.0.8=hd590300_5
   - c-ares=1.28.1=hd590300_0
-  - ca-certificates=2024.7.4=hbcca054_0
+  - ca-certificates=2024.12.14=hbcca054_0
   - cached-property=1.5.2=hd8ed1ab_1
   - cached_property=1.5.2=pyha770c72_1
   - capnproto=1.0.2=h2b92303_1
-  - certifi=2024.7.4=pyhd8ed1ab_0
+  - certifi=2024.12.14=pyhd8ed1ab_0
   - charset-normalizer=3.3.2=pyhd8ed1ab_0
   - click=8.1.7=unix_pyh707e725_0
   - cmseq=1.0.4=pyhb7b1952_0
@@ -96,12 +97,13 @@ dependencies:
   - libev=4.33=hd590300_2
   - libexpat=2.6.2=h59595ed_0
   - libffi=3.4.2=h7f98852_5
-  - libgcc-ng=13.2.0=h77fa898_6
+  - libgcc=14.2.0=h77fa898_1
+  - libgcc-ng=14.2.0=h69a702a_1
   - libgettextpo=0.22.5=h59595ed_2
   - libgettextpo-devel=0.22.5=h59595ed_2
   - libgfortran-ng=13.2.0=h69a702a_6
   - libgfortran5=13.2.0=h43f5ff8_6
-  - libgomp=13.2.0=h77fa898_6
+  - libgomp=14.2.0=h77fa898_1
   - libhwloc=2.10.0=default_h5622ce7_1001
   - libiconv=1.17=hd590300_2
   - libidn2=2.3.7=hd590300_0
@@ -114,6 +116,7 @@ dependencies:
   - libpng=1.6.43=h2797004_0
   - libsqlite=3.45.3=h2797004_0
   - libssh2=1.11.0=h0841786_0
+  - libstdcxx=14.2.0=hc0a3c3a_1
   - libstdcxx-ng=13.2.0=hc0a3c3a_6
   - libtiff=4.6.0=h1dd3fc0_3
   - libunistring=0.9.10=h7f98852_0
@@ -140,7 +143,7 @@ dependencies:
   - ncurses=6.4.20240210=h59595ed_0
   - numpy=1.26.4=py312heda63a1_0
   - openjpeg=2.5.2=h488ebb8_0
-  - openssl=3.3.1=h4ab18f5_1
+  - openssl=3.4.0=hb9d3cd8_0
   - packaging=24.0=pyhd8ed1ab_0
   - pandas=2.2.2=py312hfb8ada1_0
   - patsy=0.5.6=pyhd8ed1ab_0
@@ -249,3 +252,4 @@ dependencies:
       - mygene==3.2.2
       - pooch==1.8.1
       - tqdm==4.66.4
+prefix: /fp/homes01/u01/ec-ekateria/ec34/katya/envs/snakemake

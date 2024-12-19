@@ -383,7 +383,39 @@ for m in mod:
         FunomicPred=pd.concat([FunomicPred,funpredictions])
         MicopPred=pd.concat([MicopPred,micpredictions])
 
+##Add Bracken classification for Kraken RelAb calculations
+profdir='/fp/homes01/u01/ec-ekateria/ec34/katya/projects/Find_fungi_genomes/fungal_genomes'
+preddir='/fp/homes01/u01/ec-ekateria/ec34/katya/projects/Mock_fungal/data'
 
+KrakenPred=pd.read_csv('/'.join([preddir,'all_methods_summary/KrakenRelAbPred.csv']))
+BrackenReport=pd.DataFrame()
+mod={'profiles':['EqualReads','equal_reads_metagenomes'],'profiles_equal_cov':['EqualCoverage','equal_coverage_metagenomes']}
+for m in mod:
+    for p in prof:
+        if m=='profiles':
+            pred=pd.read_csv('/'.join([preddir,'kraken',mod[m][1],p+'_bracken_report.txt']),sep='\t',header=None)
+        else:
+            pred=pd.read_csv('/'.join([preddir,'kraken',mod[m][1],p+'_EC_bracken_report.txt']),sep='\t',header=None)
+        
+        pred.columns=['PredictedRelAb','NumReads','NRThisLevel','Rank','TaxID','Taxon name']
+        pred['Taxon name']=pred['Taxon name'].str.lstrip()
+        
+        target=KrakenPred.loc[KrakenPred['ComType']==mod[m][0]]
+        target=target.loc[target['Mock_community']==p]
+        
+        for l in level:
+            pr=pred.loc[pred['Rank']==l[0]]
+            tar=target.loc[target['Level']==l]
+            
+            comb=tar[['Taxon name','RelAbReads']].merge(pr[['PredictedRelAb','Taxon name']],on='Taxon name',how='left')
+            mae=mean_absolute_error(comb['RelAbReads'],comb['PredictedRelAb'])
+            rmse=mean_squared_error(comb['RelAbReads'],comb['PredictedRelAb'],squared=False)
+            
+            r=pd.DataFrame({'Mock_community':[p],'Tool':['kraken'],'Level':[l],'AvgRelAb':[comb['RelAbReads'].mean().astype(int)],'MAE':[mae.astype(int)],'RMSE':[rmse.astype(int)],'ComType':[mod[m][0]]})
+            BrackenReport=pd.concat([BrackenReport,r])
+        
+BrackenReport.to_csv('/'.join([preddir,'all_methods_summary/KrakenRMSE_bracken.csv']),index=False)
+         
         
 KrakenReport.to_csv('/'.join([preddir,'all_methods_summary/KrakenRMSE.csv']),index=False)
 EukReport.to_csv('/'.join([preddir,'all_methods_summary/EukdetectRMSE.csv']),index=False)
